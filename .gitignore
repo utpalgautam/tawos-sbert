@@ -1,0 +1,28 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Large datasets & raw data (exceeds GitHub 100MB file limit)
+data/raw/issues_extracted.csv
+data/raw/*.csv
+data/processed/*.csv
+!data/**/.gitkeep
+
+# Logs
+logs/*.log
+!logs/**/.gitkeep
+
+# Operating system / IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
