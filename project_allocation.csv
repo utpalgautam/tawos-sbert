@@ -1,0 +1,40 @@
+project_id,project_key,project_name,labeled_issues,assigned_member
+2,DATACASS,Spring DataCass,243,utpal
+6,MXNET,Apache MXNet,209,utpal
+10,DAEMON,Appcelerator Daemon,242,utpal
+16,CWD,Atlassian Crowd,214,utpal
+17,FE,Atlassian FishEye,240,utpal
+28,DM,LSST Data Management,20664,utpal
+31,CXX,MongoDB C++ Driver,224,utpal
+32,JAVA,MongoDB Java Driver,238,utpal
+3,NEXUS,Sonatype Nexus,1845,simran
+9,CLI,Command-Line Interface,374,simran
+11,TIDOC,Titanium Mobile Platform,1297,simran
+14,BAM,Atlassian Bamboo,528,simran
+15,CLOV,Atlassian Clover,387,simran
+20,JSWSERVER,Atlassian Software Server,351,simran
+25,INDY,Hyperledger Indy Node,681,simran
+43,EVG,MongoDB Engineering,5402,simran
+5,USERGRID,Apache Usergrid,487,neha
+7,ALOY,Alloy Framework,315,neha
+12,TIMOB,The Titanium SDK,4665,neha
+22,CONFSERVER,Atlassian Confluence Server,662,neha
+23,BE,Hyperledger Blockchain Explorer,373,neha
+27,STL,Apache Sawtooth,966,neha
+33,SERVER,MongoDB Core Server,784,neha
+42,DNN,DotNetNuke Platform,2594,neha
+4,MESOS,Apache Mesos,3272,devanarayanan
+8,APSTUD,Aptana Studio,890,devanarayanan
+19,JSWCLOUD,Atlassian Software Cloud,318,devanarayanan
+24,FAB,Hyperledger Fabric,636,devanarayanan
+26,IS,Hyperledger Indy SDK,720,devanarayanan
+35,APIKIT,Mule APIkit,473,devanarayanan
+36,MULE,Mule,4170,devanarayanan
+44,JRACLOUD,Atlassian Jira Cloud,361,devanarayanan
+1,XD,Spring XD,3705,animesh
+13,TISTUD,Appcelerator Studio,3406,animesh
+18,JRASERVER,Atlassian Jira Server,380,animesh
+21,CONFCLOUD,Atlassian Confluence Cloud,352,animesh
+29,DURACLOUD,Lyrasis DuraCloud,666,animesh
+30,COMPASS,MongoDB Compass,499,animesh
+34,MDL,Moodle,1594,animesh
