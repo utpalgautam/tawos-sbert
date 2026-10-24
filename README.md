@@ -239,7 +239,7 @@ mkdir -p reports
 python - <<'PY'
 import pandas as pd
 
-df = pd.read_csv("data/raw/issues_extracted.csv")
+df = pd.read_csv("data/raw/tawos.csv")
 
 summary = (
     df.groupby("project_id", dropna=False)
