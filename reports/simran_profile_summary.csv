@@ -1,0 +1,9 @@
+project_id,project_key,total_issues,labeled_issues,expected_labeled,unlabeled_issues,non_numeric_labels,missing_title_labeled,missing_desc_labeled,both_blank_labeled,zero_labels,fractional_labels,labels_gt_100,duplicate_issue_keys,same_title_conflicting_label_groups,sp_min,sp_median,sp_p90,sp_p99,sp_max
+3,NEXUS,9912,1845,1845,8067,0,0,31,0,41,306,0,0,0,0.0,1.0,3.0,8.0,40.0
+9,CLI,645,374,374,271,0,0,2,0,17,0,0,0,0,0.0,3.0,8.0,13.0,13.0
+11,TIDOC,3059,1297,1297,1762,0,0,55,0,17,1,1,0,2,0.0,3.0,10.400000000000091,21.039999999999964,120.0
+14,BAM,14252,528,528,13724,0,0,147,0,12,34,0,0,0,0.0,2.0,5.0,12.0,20.0
+15,CLOV,1501,387,387,1114,0,0,18,0,5,11,0,0,0,0.0,2.0,13.0,41.81999999999982,100.0
+20,JSWSERVER,12862,351,351,12511,0,0,53,0,25,0,1,0,0,0.0,3.0,8.0,20.0,688.0
+25,INDY,2321,681,681,1640,0,0,63,0,4,0,0,0,0,0.0,3.0,5.0,8.0,13.0
+43,EVG,10299,5402,5402,4897,0,0,1711,0,333,1,0,0,4,0.0,2.0,4.0,4.0,8.0

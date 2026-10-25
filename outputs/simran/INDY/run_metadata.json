@@ -1,0 +1,56 @@
+{
+  "project": "INDY",
+  "seed": 42,
+  "device": "cuda",
+  "python_version": "3.12.10",
+  "torch_version": "2.14.1+cu130",
+  "cuda_build": "13.0",
+  "cuda_available": true,
+  "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "numpy_version": "2.5.4",
+  "pandas_version": "3.1.0",
+  "n_labeled": 681,
+  "n_development": 545,
+  "n_test": 136,
+  "embedding_shape": [
+    681,
+    384
+  ],
+  "cross_validation": {
+    "project": "INDY",
+    "n_folds": 5,
+    "n_development": 545,
+    "best_epochs": [
+      18,
+      9,
+      8,
+      11,
+      16
+    ],
+    "final_training_epochs": 11,
+    "model_mae_mean": 1.4295904220791038,
+    "model_mae_std": 0.1543746858737434,
+    "model_mdae_mean": 1.3805813789367676,
+    "model_mdae_std": 0.5300598792778694,
+    "baseline_mae_mean": 1.4256880733944954,
+    "baseline_mae_std": 0.15152897484082628,
+    "baseline_mdae_mean": 1.4,
+    "baseline_mdae_std": 0.5477225575051661
+  },
+  "final_test_metrics": {
+    "project": "INDY",
+    "test_size": 136,
+    "development_size": 545,
+    "final_training_epochs": 11,
+    "model": {
+      "mae": 1.4459805418463314,
+      "mdae": 0.8624954223632812
+    },
+    "median_baseline": {
+      "mae": 1.3970588235294117,
+      "mdae": 1.0
+    },
+    "model_beats_baseline_on_mae": false,
+    "checkpoint": "C:\\Users\\simra\\tawos-sbert\\outputs\\simran\\INDY\\final_model.pt"
+  }
+}

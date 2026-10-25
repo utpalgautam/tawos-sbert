@@ -1,0 +1,16 @@
+{
+  "project": "CLI",
+  "test_size": 75,
+  "development_size": 299,
+  "final_training_epochs": 16,
+  "model": {
+    "mae": 2.022081422805786,
+    "mdae": 1.8427956104278564
+  },
+  "median_baseline": {
+    "mae": 1.9866666666666666,
+    "mdae": 2.0
+  },
+  "model_beats_baseline_on_mae": false,
+  "checkpoint": "C:\\Users\\simra\\tawos-sbert\\outputs\\simran\\CLI\\final_model.pt"
+}

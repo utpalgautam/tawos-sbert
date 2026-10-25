@@ -1,0 +1,56 @@
+{
+  "project": "CLOV",
+  "seed": 42,
+  "device": "cuda",
+  "python_version": "3.12.10",
+  "torch_version": "2.14.1+cu130",
+  "cuda_build": "13.0",
+  "cuda_available": true,
+  "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "numpy_version": "2.5.4",
+  "pandas_version": "3.1.0",
+  "n_labeled": 387,
+  "n_development": 310,
+  "n_test": 77,
+  "embedding_shape": [
+    387,
+    384
+  ],
+  "cross_validation": {
+    "project": "CLOV",
+    "n_folds": 5,
+    "n_development": 310,
+    "best_epochs": [
+      8,
+      5,
+      11,
+      6,
+      8
+    ],
+    "final_training_epochs": 8,
+    "model_mae_mean": 4.14001523448575,
+    "model_mae_std": 1.838339277371691,
+    "model_mdae_mean": 1.2456443071365357,
+    "model_mdae_std": 0.39151243995459906,
+    "baseline_mae_mean": 4.141935483870967,
+    "baseline_mae_std": 1.8545020732385826,
+    "baseline_mdae_mean": 1.0,
+    "baseline_mdae_std": 0.0
+  },
+  "final_test_metrics": {
+    "project": "CLOV",
+    "test_size": 77,
+    "development_size": 310,
+    "final_training_epochs": 8,
+    "model": {
+      "mae": 3.746645075934274,
+      "mdae": 1.333221197128296
+    },
+    "median_baseline": {
+      "mae": 3.7337662337662336,
+      "mdae": 1.0
+    },
+    "model_beats_baseline_on_mae": false,
+    "checkpoint": "C:\\Users\\simra\\tawos-sbert\\outputs\\simran\\CLOV\\final_model.pt"
+  }
+}

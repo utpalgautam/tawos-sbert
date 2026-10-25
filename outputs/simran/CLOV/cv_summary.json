@@ -1,0 +1,21 @@
+{
+  "project": "CLOV",
+  "n_folds": 5,
+  "n_development": 310,
+  "best_epochs": [
+    8,
+    5,
+    11,
+    6,
+    8
+  ],
+  "final_training_epochs": 8,
+  "model_mae_mean": 4.14001523448575,
+  "model_mae_std": 1.838339277371691,
+  "model_mdae_mean": 1.2456443071365357,
+  "model_mdae_std": 0.39151243995459906,
+  "baseline_mae_mean": 4.141935483870967,
+  "baseline_mae_std": 1.8545020732385826,
+  "baseline_mdae_mean": 1.0,
+  "baseline_mdae_std": 0.0
+}

@@ -1,0 +1,56 @@
+{
+  "project": "NEXUS",
+  "seed": 42,
+  "device": "cuda",
+  "python_version": "3.12.10",
+  "torch_version": "2.14.1+cu130",
+  "cuda_build": "13.0",
+  "cuda_available": true,
+  "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "numpy_version": "2.5.4",
+  "pandas_version": "3.1.0",
+  "n_labeled": 1845,
+  "n_development": 1476,
+  "n_test": 369,
+  "embedding_shape": [
+    1845,
+    384
+  ],
+  "cross_validation": {
+    "project": "NEXUS",
+    "n_folds": 5,
+    "n_development": 1476,
+    "best_epochs": [
+      2,
+      7,
+      9,
+      2,
+      23
+    ],
+    "final_training_epochs": 7,
+    "model_mae_mean": 0.9971883970250573,
+    "model_mae_std": 0.0728725170252942,
+    "model_mdae_mean": 0.513523530960083,
+    "model_mdae_std": 0.009592847850976999,
+    "baseline_mae_mean": 0.994981676591846,
+    "baseline_mae_std": 0.07374574450932997,
+    "baseline_mdae_mean": 0.5,
+    "baseline_mdae_std": 0.0
+  },
+  "final_test_metrics": {
+    "project": "NEXUS",
+    "test_size": 369,
+    "development_size": 1476,
+    "final_training_epochs": 7,
+    "model": {
+      "mae": 1.0002136357068045,
+      "mdae": 0.5465880632400513
+    },
+    "median_baseline": {
+      "mae": 0.9915989159851216,
+      "mdae": 0.5
+    },
+    "model_beats_baseline_on_mae": false,
+    "checkpoint": "C:\\Users\\simra\\tawos-sbert\\outputs\\simran\\NEXUS\\final_model.pt"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "project": "TIDOC",
+  "n_folds": 5,
+  "n_development": 1038,
+  "best_epochs": [
+    4,
+    3,
+    33,
+    7,
+    7
+  ],
+  "final_training_epochs": 7,
+  "model_mae_mean": 3.169689615563095,
+  "model_mae_std": 0.3814122174768661,
+  "model_mdae_mean": 1.9902482986450196,
+  "model_mdae_std": 0.062068422237540534,
+  "baseline_mae_mean": 3.1633291527313268,
+  "baseline_mae_std": 0.3785062724313687,
+  "baseline_mdae_mean": 2.0,
+  "baseline_mdae_std": 0.0
+}

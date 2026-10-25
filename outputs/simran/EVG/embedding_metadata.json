@@ -1,0 +1,16 @@
+{
+  "n_labeled": 5402,
+  "n_labeled_blank_text": 0,
+  "project_id": 43,
+  "project_key": "EVG",
+  "encoder_checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "fine_tuned": false,
+  "encode_batch_size": 64,
+  "preprocessing_version": "v1",
+  "device": "cpu",
+  "sentence_transformers_version": "6.2.0",
+  "torch_version": "2.14.1+cpu",
+  "python_version": "3.12.10",
+  "note": "model revision hash not pinned"
+}

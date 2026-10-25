@@ -1,0 +1,56 @@
+{
+  "project": "TIDOC",
+  "seed": 42,
+  "device": "cuda",
+  "python_version": "3.12.10",
+  "torch_version": "2.14.1+cu130",
+  "cuda_build": "13.0",
+  "cuda_available": true,
+  "gpu_name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+  "numpy_version": "2.5.4",
+  "pandas_version": "3.1.0",
+  "n_labeled": 1297,
+  "n_development": 1038,
+  "n_test": 259,
+  "embedding_shape": [
+    1297,
+    384
+  ],
+  "cross_validation": {
+    "project": "TIDOC",
+    "n_folds": 5,
+    "n_development": 1038,
+    "best_epochs": [
+      4,
+      3,
+      33,
+      7,
+      7
+    ],
+    "final_training_epochs": 7,
+    "model_mae_mean": 3.169689615563095,
+    "model_mae_std": 0.3814122174768661,
+    "model_mdae_mean": 1.9902482986450196,
+    "model_mdae_std": 0.062068422237540534,
+    "baseline_mae_mean": 3.1633291527313268,
+    "baseline_mae_std": 0.3785062724313687,
+    "baseline_mdae_mean": 2.0,
+    "baseline_mdae_std": 0.0
+  },
+  "final_test_metrics": {
+    "project": "TIDOC",
+    "test_size": 259,
+    "development_size": 1038,
+    "final_training_epochs": 7,
+    "model": {
+      "mae": 2.996408175317477,
+      "mdae": 1.8835432529449463
+    },
+    "median_baseline": {
+      "mae": 2.9806949806949805,
+      "mdae": 2.0
+    },
+    "model_beats_baseline_on_mae": false,
+    "checkpoint": "C:\\Users\\simra\\tawos-sbert\\outputs\\simran\\TIDOC\\final_model.pt"
+  }
+}

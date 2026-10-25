@@ -1,0 +1,21 @@
+{
+  "project": "BAM",
+  "n_folds": 5,
+  "n_development": 422,
+  "best_epochs": [
+    29,
+    17,
+    23,
+    11,
+    8
+  ],
+  "final_training_epochs": 17,
+  "model_mae_mean": 1.195867443411958,
+  "model_mae_std": 0.1721019821205107,
+  "model_mdae_mean": 0.9875559210777283,
+  "model_mdae_std": 0.018228683187575218,
+  "baseline_mae_mean": 1.1888095238095238,
+  "baseline_mae_std": 0.17243823946431433,
+  "baseline_mdae_mean": 1.0,
+  "baseline_mdae_std": 0.0
+}

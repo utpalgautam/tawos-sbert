@@ -15,6 +15,7 @@ __pycache__/
 data/raw/issues_extracted.csv
 data/raw/*.csv
 data/processed/*.csv
+data/processed/**/*.npy
 !data/**/.gitkeep
 
 # Logs

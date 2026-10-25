@@ -1,0 +1,16 @@
+{
+  "project": "TIDOC",
+  "test_size": 259,
+  "development_size": 1038,
+  "final_training_epochs": 7,
+  "model": {
+    "mae": 2.996408175317477,
+    "mdae": 1.8835432529449463
+  },
+  "median_baseline": {
+    "mae": 2.9806949806949805,
+    "mdae": 2.0
+  },
+  "model_beats_baseline_on_mae": false,
+  "checkpoint": "C:\\Users\\simra\\tawos-sbert\\outputs\\simran\\TIDOC\\final_model.pt"
+}

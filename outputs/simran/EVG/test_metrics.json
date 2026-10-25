@@ -1,0 +1,16 @@
+{
+  "project": "EVG",
+  "test_size": 1080,
+  "development_size": 4322,
+  "final_training_epochs": 10,
+  "model": {
+    "mae": 0.8275748595043465,
+    "mdae": 0.6846952438354492
+  },
+  "median_baseline": {
+    "mae": 0.812962962962963,
+    "mdae": 1.0
+  },
+  "model_beats_baseline_on_mae": false,
+  "checkpoint": "C:\\Users\\simra\\tawos-sbert\\outputs\\simran\\EVG\\final_model.pt"
+}

@@ -1,0 +1,21 @@
+{
+  "project": "JSWSERVER",
+  "n_folds": 5,
+  "n_development": 280,
+  "best_epochs": [
+    11,
+    22,
+    10,
+    12,
+    12
+  ],
+  "final_training_epochs": 12,
+  "model_mae_mean": 2.2884799769946507,
+  "model_mae_std": 0.37466180176819047,
+  "model_mdae_mean": 1.783792543411255,
+  "model_mdae_std": 0.4300996255698268,
+  "baseline_mae_mean": 2.2857142857142856,
+  "baseline_mae_std": 0.37308182885314617,
+  "baseline_mdae_mean": 1.8,
+  "baseline_mdae_std": 0.4472135954999579
+}

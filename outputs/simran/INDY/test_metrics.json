@@ -1,0 +1,16 @@
+{
+  "project": "INDY",
+  "test_size": 136,
+  "development_size": 545,
+  "final_training_epochs": 11,
+  "model": {
+    "mae": 1.4459805418463314,
+    "mdae": 0.8624954223632812
+  },
+  "median_baseline": {
+    "mae": 1.3970588235294117,
+    "mdae": 1.0
+  },
+  "model_beats_baseline_on_mae": false,
+  "checkpoint": "C:\\Users\\simra\\tawos-sbert\\outputs\\simran\\INDY\\final_model.pt"
+}

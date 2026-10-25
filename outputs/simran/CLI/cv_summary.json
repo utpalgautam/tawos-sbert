@@ -1,0 +1,21 @@
+{
+  "project": "CLI",
+  "n_folds": 5,
+  "n_development": 299,
+  "best_epochs": [
+    17,
+    19,
+    15,
+    16,
+    16
+  ],
+  "final_training_epochs": 16,
+  "model_mae_mean": 1.818365117129633,
+  "model_mae_std": 0.14418349837658648,
+  "model_mdae_mean": 1.9935898065567017,
+  "model_mdae_std": 0.007428782849472669,
+  "baseline_mae_mean": 1.8161581920903955,
+  "baseline_mae_std": 0.14467598996668332,
+  "baseline_mdae_mean": 2.0,
+  "baseline_mdae_std": 0.0
+}

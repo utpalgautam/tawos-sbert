@@ -1,0 +1,16 @@
+{
+  "project": "JSWSERVER",
+  "test_size": 70,
+  "development_size": 280,
+  "final_training_epochs": 12,
+  "model": {
+    "mae": 2.256527740614755,
+    "mdae": 1.6695154905319214
+  },
+  "median_baseline": {
+    "mae": 2.2,
+    "mdae": 2.0
+  },
+  "model_beats_baseline_on_mae": false,
+  "checkpoint": "C:\\Users\\simra\\tawos-sbert\\outputs\\simran\\JSWSERVER\\final_model.pt"
+}

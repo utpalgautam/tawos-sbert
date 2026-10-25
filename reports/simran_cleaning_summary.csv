@@ -1,0 +1,9 @@
+project_key,labeled_raw,excluded,labeled_clean,unlabeled,flag_blank_text,flag_non_numeric_label,flag_short_title,flag_repeated_char_title,flag_zero_label,flag_fractional_label,flag_label_gt_100,flag_duplicate_issue_key,flag_repeated_text,flag_repeated_text_conflicting_label
+NEXUS,1845,0,1845,8067,0,0,1,0,41,306,0,0,2,0
+CLI,374,0,374,271,0,0,0,0,17,0,0,0,0,0
+TIDOC,1297,0,1297,1762,0,0,0,0,17,1,1,0,12,0
+BAM,528,0,528,13724,0,0,0,0,12,34,0,0,4,0
+CLOV,387,0,387,1114,0,0,0,0,5,11,0,0,0,0
+JSWSERVER,351,1,350,12511,0,0,0,1,25,0,1,0,2,0
+INDY,681,0,681,1640,0,0,0,0,4,0,0,0,0,0
+EVG,5402,0,5402,4897,0,0,2,0,333,1,0,0,13,2

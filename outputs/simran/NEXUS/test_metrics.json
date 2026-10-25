@@ -1,0 +1,16 @@
+{
+  "project": "NEXUS",
+  "test_size": 369,
+  "development_size": 1476,
+  "final_training_epochs": 7,
+  "model": {
+    "mae": 1.0002136357068045,
+    "mdae": 0.5465880632400513
+  },
+  "median_baseline": {
+    "mae": 0.9915989159851216,
+    "mdae": 0.5
+  },
+  "model_beats_baseline_on_mae": false,
+  "checkpoint": "C:\\Users\\simra\\tawos-sbert\\outputs\\simran\\NEXUS\\final_model.pt"
+}

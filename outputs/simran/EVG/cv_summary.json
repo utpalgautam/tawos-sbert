@@ -1,0 +1,21 @@
+{
+  "project": "EVG",
+  "n_folds": 5,
+  "n_development": 4322,
+  "best_epochs": [
+    1,
+    13,
+    13,
+    6,
+    10
+  ],
+  "final_training_epochs": 10,
+  "model_mae_mean": 0.8556653980936298,
+  "model_mae_std": 0.0318564200347794,
+  "model_mdae_mean": 0.748185908794403,
+  "model_mdae_std": 0.10731181093264883,
+  "baseline_mae_mean": 0.8497108488546349,
+  "baseline_mae_std": 0.03248540600520258,
+  "baseline_mdae_mean": 1.0,
+  "baseline_mdae_std": 0.0
+}

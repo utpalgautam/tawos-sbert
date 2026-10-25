@@ -1,0 +1,29 @@
+{
+  "project": "CLI",
+  "seed": 42,
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "model": "StoryPointCNN",
+  "conv_channels": [
+    128,
+    64,
+    32
+  ],
+  "kernel_size": 3,
+  "dropout": 0.2,
+  "loss": "L1Loss",
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "weight_decay": 0.0,
+  "batch_size": 64,
+  "max_epochs": 100,
+  "early_stopping_patience": 10,
+  "cross_validation_folds": 5,
+  "selected_final_epochs": 16,
+  "target_scaling": "none; original numeric labels",
+  "evaluation_metrics": [
+    "MAE",
+    "MdAE"
+  ],
+  "device": "cuda"
+}

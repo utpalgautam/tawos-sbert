@@ -1,0 +1,16 @@
+{
+  "project": "CLOV",
+  "test_size": 77,
+  "development_size": 310,
+  "final_training_epochs": 8,
+  "model": {
+    "mae": 3.746645075934274,
+    "mdae": 1.333221197128296
+  },
+  "median_baseline": {
+    "mae": 3.7337662337662336,
+    "mdae": 1.0
+  },
+  "model_beats_baseline_on_mae": false,
+  "checkpoint": "C:\\Users\\simra\\tawos-sbert\\outputs\\simran\\CLOV\\final_model.pt"
+}

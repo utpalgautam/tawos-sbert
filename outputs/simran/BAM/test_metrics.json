@@ -1,0 +1,16 @@
+{
+  "project": "BAM",
+  "test_size": 106,
+  "development_size": 422,
+  "final_training_epochs": 17,
+  "model": {
+    "mae": 1.1156859442872822,
+    "mdae": 1.0393717288970947
+  },
+  "median_baseline": {
+    "mae": 1.0943396226415094,
+    "mdae": 1.0
+  },
+  "model_beats_baseline_on_mae": false,
+  "checkpoint": "C:\\Users\\simra\\tawos-sbert\\outputs\\simran\\BAM\\final_model.pt"
+}
