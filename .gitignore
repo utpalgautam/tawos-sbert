@@ -1,28 +1,59 @@
-# Python virtual environment
+cd ~/tawos-sbert
+source .venv/bin/activate
+
+cat > .gitignore <<'EOF'
+# Python environments
 .venv/
 venv/
 env/
-ENV/
 
-# Python cache & bytecode
+# Python cache
 __pycache__/
 *.py[cod]
 *$py.class
-*.so
-.pytest_cache/
 
-# Large datasets & raw data (exceeds GitHub 100MB file limit)
-data/raw/issues_extracted.csv
-data/raw/*.csv
-data/processed/*.csv
-!data/**/.gitkeep
+# Jupyter
+.ipynb_checkpoints/
 
-# Logs
-logs/*.log
-!logs/**/.gitkeep
+# Environment variables and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
 
-# Operating system / IDE files
+# Raw and generated data
+data/raw/*
+data/processed/*
+data/embeddings/*
+data/splits/*
+
+# Preserve directory placeholders
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/embeddings/.gitkeep
+!data/splits/.gitkeep
+
+# Experiment logs: retain only the final experiment's logs
+logs/*
+!logs/.gitkeep
+!logs/cnn/
+logs/cnn/*
+!logs/cnn/training_run.log
+!logs/cnn/cv_training_history.csv
+!logs/cnn/final_training_history.csv
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Editor configuration
 .idea/
 .vscode/
-*.swp
+EOF

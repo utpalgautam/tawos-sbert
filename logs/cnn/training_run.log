@@ -1,0 +1,102 @@
+Device: cuda
+All labeled rows: 22272 | development: 17825 | held-out test: 4447
+Projects: [2, 6, 10, 16, 17, 28, 31, 32]
+Embedding shape: (22272, 384); project embedding dim: 8
+Model: shared three-layer CNN + learned project-ID embedding
+Loss: MAE; test set is not used for selection.
+
+================================================================
+OUTER CV FOLD 0
+================================================================
+  epoch=001 train_MAE_loss=5.9453 val_MAE=5.9236 best=5.9236@1
+  epoch=010 train_MAE_loss=5.8068 val_MAE=5.8816 best=5.8816@10
+  epoch=020 train_MAE_loss=5.7994 val_MAE=5.8798 best=5.8746@14
+  epoch=030 train_MAE_loss=5.7896 val_MAE=5.8729 best=5.8663@26
+  epoch=040 train_MAE_loss=5.7689 val_MAE=5.8401 best=5.8355@39
+  epoch=050 train_MAE_loss=5.7637 val_MAE=5.8238 best=5.8223@49
+  epoch=060 train_MAE_loss=5.7478 val_MAE=5.8225 best=5.8097@58
+  epoch=070 train_MAE_loss=5.7236 val_MAE=5.7856 best=5.7842@69
+  epoch=080 train_MAE_loss=5.6746 val_MAE=5.7288 best=5.7264@79
+  epoch=090 train_MAE_loss=5.6536 val_MAE=5.7294 best=5.7064@88
+  epoch=100 train_MAE_loss=5.6294 val_MAE=5.6881 best=5.6881@100
+Outer fold 0: MAE=5.6868, MdAE=1.6485, RMSE=16.2055
+
+================================================================
+OUTER CV FOLD 1
+================================================================
+  epoch=001 train_MAE_loss=5.9819 val_MAE=5.2661 best=5.2661@1
+  epoch=010 train_MAE_loss=5.8630 val_MAE=5.2360 best=5.2150@8
+  epoch=020 train_MAE_loss=5.8463 val_MAE=5.2024 best=5.2024@20
+  epoch=030 train_MAE_loss=5.8483 val_MAE=5.2046 best=5.2024@20
+  early stopping at epoch 30; best epoch=20
+Outer fold 1: MAE=6.0346, MdAE=1.8411, RMSE=17.2126
+
+================================================================
+OUTER CV FOLD 2
+================================================================
+  epoch=001 train_MAE_loss=5.9576 val_MAE=5.9764 best=5.9764@1
+  epoch=010 train_MAE_loss=5.8193 val_MAE=5.9368 best=5.9368@10
+  epoch=020 train_MAE_loss=5.8095 val_MAE=5.9483 best=5.9368@10
+  early stopping at epoch 20; best epoch=10
+Outer fold 2: MAE=5.8998, MdAE=1.7185, RMSE=16.0540
+
+================================================================
+OUTER CV FOLD 3
+================================================================
+  epoch=001 train_MAE_loss=5.9712 val_MAE=6.1932 best=6.1932@1
+  epoch=010 train_MAE_loss=5.8241 val_MAE=6.1899 best=6.1539@6
+  epoch=020 train_MAE_loss=5.8109 val_MAE=6.1578 best=6.1509@12
+  early stopping at epoch 22; best epoch=12
+Outer fold 3: MAE=5.8159, MdAE=1.8062, RMSE=16.0463
+
+================================================================
+OUTER CV FOLD 4
+================================================================
+  epoch=001 train_MAE_loss=6.1940 val_MAE=5.4067 best=5.4067@1
+  epoch=010 train_MAE_loss=6.0363 val_MAE=5.3872 best=5.3832@5
+  epoch=020 train_MAE_loss=6.0399 val_MAE=5.3804 best=5.3747@16
+  early stopping at epoch 26; best epoch=16
+Outer fold 4: MAE=5.4006, MdAE=1.4595, RMSE=14.3255
+
+CV best epochs: [100, 20, 10, 12, 16]; final fixed epoch count (median): 16
+Final fit epoch 1/16: train MAE loss=5.9561
+Final fit epoch 10/16: train MAE loss=5.8492
+Final fit epoch 16/16: train MAE loss=5.8454
+
+================================================================
+FINAL HELD-OUT TEST RESULTS
+================================================================
+                  model    n      MAE    MdAE      RMSE        R2
+ global_median_baseline 4447 6.502586 2.00000 17.047289 -0.088133
+project_median_baseline 4447 6.440297 2.00000 17.038403 -0.086999
+       shared_sbert_cnn 4447 6.460020 1.68794 17.129569 -0.098662
+
+Per-project test metrics:
+ project_id                   model    n      MAE     MdAE      RMSE          R2
+          2  global_median_baseline   49 4.244898 2.000000 14.297138   -0.029199
+          2 project_median_baseline   49 4.306122 1.000000 14.499120   -0.058485
+          2        shared_sbert_cnn   49 4.322004 1.085425 14.519477   -0.061459
+          6  global_median_baseline   42 4.785714 2.000000 15.349112   -0.058049
+          6 project_median_baseline   42 4.785714 2.000000 15.349112   -0.058049
+          6        shared_sbert_cnn   42 4.821339 1.812913 15.393692   -0.064204
+         10  global_median_baseline   49 7.693878 2.000000 16.735030   -0.221205
+         10 project_median_baseline   49 6.836735 3.000000 15.986602   -0.114417
+         10        shared_sbert_cnn   49 6.970991 2.689075 16.089792   -0.128850
+         16  global_median_baseline   43 1.488372 2.000000  1.628239   -1.468278
+         16 project_median_baseline   43 0.744186 0.000000  1.275895   -0.515609
+         16        shared_sbert_cnn   43 0.748383 0.057152  1.244842   -0.442734
+         17  global_median_baseline   48 1.708333 2.000000  1.881932   -0.701418
+         17 project_median_baseline   48 0.916667 0.000000  1.645701   -0.301084
+         17        shared_sbert_cnn   48 0.918756 0.007236  1.642500   -0.296027
+         28  global_median_baseline 4123 6.743876 2.000000 17.468040   -0.095349
+         28 project_median_baseline 4123 6.743876 2.000000 17.468040   -0.095349
+         28        shared_sbert_cnn 4123 6.761756 1.688229 17.562249   -0.107195
+         31  global_median_baseline   45 1.888889 2.000000  1.972027  -11.115385
+         31 project_median_baseline   45 0.244444 0.000000  0.577350   -0.038462
+         31        shared_sbert_cnn   45 0.272414 0.032362  0.584478   -0.064260
+         32  global_median_baseline   48 1.979167 2.000000  1.984313 -192.021277
+         32 project_median_baseline   48 0.020833 0.000000  0.144338   -0.021277
+         32        shared_sbert_cnn   48 0.095724 0.074917  0.171907   -0.448682
+
+Saved final pipeline outputs to: /home/utpal/tawos-sbert/results/cnn/overall
+Saved model checkpoint to: /home/utpal/tawos-sbert/models/cnn/model.pt

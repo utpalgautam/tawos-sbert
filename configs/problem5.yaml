@@ -1,0 +1,64 @@
+experiment:
+  name: problem5_sbert_cnn_within_project_random
+  random_seed: 42
+  project_setting: within_project
+  split_strategy: random
+  development_fraction: 0.80
+  test_fraction: 0.20
+  validation_folds: 5
+
+data:
+  path: data/raw/tawos.csv
+  processed_dir: data/processed
+  splits_dir: data/splits
+  embeddings_dir: data/embeddings
+
+  project_column: project_id
+  issue_key_column: issue_key
+  title_column: title
+  description_column: description_text
+  target_column: story_point
+
+  # Utpal's assigned projects only
+  assigned_member: Utpal
+  assigned_project_ids: [2, 6, 10, 16, 17, 28, 31, 32]
+
+  # Explicit exclusions: suspicious labels and unusable text
+  exclude_issue_keys:
+    - DATACASS-228
+    - DATACASS-185
+    - TIMOB-18052
+    - JRACLOUD-62509
+    - XD-2602
+    - JSWSERVER-10638
+    - JSWCLOUD-10638
+
+  # Convert every fractional story-point label to its ceiling
+  fractional_target_policy: ceil
+
+sbert:
+  checkpoint: sentence-transformers/all-MiniLM-L6-v2
+  fine_tune: false
+  expected_embedding_dim: 384
+  batch_size: 32
+  normalize_embeddings: true
+
+cnn:
+  conv_channels: [128, 64, 32]
+  kernel_size: 3
+  padding: 1
+  dropout: 0.2
+  output_dim: 1
+
+training:
+  loss: mae
+  optimizer: adam
+  learning_rate: 0.001
+  batch_size: 64
+  max_epochs: 100
+  early_stopping_patience: 10
+
+output:
+  models_dir: models
+  results_dir: results
+  logs_dir: logs

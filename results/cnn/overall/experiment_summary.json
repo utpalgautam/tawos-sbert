@@ -1,0 +1,56 @@
+{
+  "experiment_name": "shared_sbert_cnn",
+  "device": "cuda",
+  "seed": 42,
+  "model": "One shared three-layer CNN with learned project-ID embedding",
+  "project_ids": [
+    2,
+    6,
+    10,
+    16,
+    17,
+    28,
+    31,
+    32
+  ],
+  "project_to_index": {
+    "2": 0,
+    "6": 1,
+    "10": 2,
+    "16": 3,
+    "17": 4,
+    "28": 5,
+    "31": 6,
+    "32": 7
+  },
+  "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "embedding_frozen": true,
+  "training_loss": "MAE / L1Loss",
+  "optimizer": "Adam",
+  "learning_rate": 0.001,
+  "batch_size": 64,
+  "max_cv_epochs": 100,
+  "early_stopping_patience": 10,
+  "cv_best_epochs": [
+    100,
+    20,
+    10,
+    12,
+    16
+  ],
+  "final_epochs": 16,
+  "development_rows": 17825,
+  "test_rows": 4447,
+  "cv_folds": 5,
+  "test_evaluated_after_final_fit_only": true,
+  "outputs": {
+    "cv_oof_predictions": "results/cnn/overall/cv_oof_predictions.csv",
+    "cv_overall_metrics": "results/cnn/overall/cv_overall_metrics.csv",
+    "cv_project_metrics": "results/cnn/overall/cv_project_metrics.csv",
+    "test_predictions": "results/cnn/overall/test_predictions.csv",
+    "test_overall_metrics": "results/cnn/overall/test_overall_metrics.csv",
+    "test_project_metrics": "results/cnn/overall/test_project_metrics.csv",
+    "checkpoint": "models/cnn/model.pt"
+  }
+}
