@@ -1,0 +1,2 @@
+project_id,learning_rate,mae_mean,mae_std,mdae_mean,mdae_std,baseline_mae_mean,baseline_mdae_mean
+22,0.001,1.2208600521087647,0.10715631276604813,0.9852501630783081,0.03579490935603789,1.2141509532928467,1.0

@@ -1,0 +1,430 @@
+issue_key,project_id,title,predicted_story_point,encoder_checkpoint,model_version
+BE-842,23,"""Not useful error log in initialize function in FabricGateway""",2.826504,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-841,23,"""users need to have the ability to change their passwords.""",2.8330193,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-840,23,"""Can't use mutual tls""",2.8203604,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-839,23,"""Transaction creator_id_bytes not being synced""",2.8259027,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-838,23,"""Sonar Cloud -  Duplicated Lines """,2.830498,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-837,23,"""Add unit test set to the server side (app/platform/fabric/gateway)""",2.8310606,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-836,23,"""Configure eslint for typescript""",2.8275359,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-835,23,"""In Sonar cloud - To Fix code smell Issues""",2.831676,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-834,23,"""Explorer Block syncing Issue""",2.8311284,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-833,23,"""API endpoints are vulnerable to SQL injection""",2.8317251,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-831,23,"""Fix directory structure for keeping compatibility of docker env""",2.8306003,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-830,23,"""Add more examples for fabric CA enabled fabric network.""",2.828698,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-829,23,"""when multiple nodes share same IP address, explorer will show all nodes as one""",2.8292468,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-828,23,"""Transaction timestamps are incorrectly stored in database""",2.828987,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-827,23,"""Fix Security vulnerability""",2.8300695,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-826,23,"""Convert to TS : etc""",2.8266454,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-825,23,"""Convert to TS : app/rest""",2.826596,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-824,23,"""Convert to TS : app/common""",2.8267906,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-823,23,"""Convert to TS : app/persistence""",2.8293848,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-822,23,"""Convert to TS : app/sync""",2.8242586,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-821,23,"""Convert to TS : app/platform""",2.8289495,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-820,23,"""Use React Hooks and stop using recompose package which is not maintained any more""",2.8351276,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-819,23,"""Fix Security vulnerability""",2.8327734,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-818,23,"""Add e2e test for ACL support""",2.8252203,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-817,23,"""Handle ACL check error in the frontend appropriately""",2.8341987,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-816,23,"""Add policy check in auth-check based on configured ACL""",2.8305776,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-815,23,"""Extract updated resources and policies from the latest config block""",2.8306668,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-814,23,"""User management: login broken (network names)""",2.8371518,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-813,23,"""Fix Security vulnerability""",2.8308802,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-812,23,"""network config name with spaces breaks startup""",2.8352606,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-805,23,"""Q3-Hyperledger Project Quarterly Update""",2.8236597,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-804,23,"""Fix Security vulnerability""",2.8300922,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-803,23,"""Not displayed validation code in transaction view correctly""",2.82633,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-801,23,"""Add a new configuration to customize base route path""",2.8336287,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-800,23,"""Update example of connection profile for docker setup""",2.8295906,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-799,23,"""run explorer in docker with balance-transfer""",2.8309076,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-798,23,"""Make user db configurable via explorerconfig.json / environment variables""",2.8315916,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-797,23,"""error: [BlockDecoder.js]: Unable to decodeEndorserTransaction""",2.8273978,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-796,23,"""Add end-to-end test for newly added GUI""",2.8291056,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-795,23,"""Add GUI for deleting a registered user""",2.825228,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-794,23,"""Add GUI for listing registered users""",2.8316157,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-793,23,"""Add GUI for user management""",2.8283365,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-792,23,"""Allow only """"admin"""" to manage user of their own organization""",2.8314826,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-791,23,"""Identify difference between 2 explorer implementation roughly""",2.834274,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-790,23,"""In Block view,  the transaction values of the read/write sets as a buffer""",2.8325045,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-789,23,"""Add a new API for listing registered users""",2.8284838,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-788,23,"""Add a new API for unregistering user""",2.8291793,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-787,23,"""Add fabric 1.4.8 / 2.2.0 support""",2.8234992,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-786,23,"""Evaluate standalone mode and update README""",2.825917,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-785,23,"""Update README to add steps for user signup and login""",2.8282676,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-784,23,"""Add GUI e2e test for user signup and login""",2.833622,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-783,23,"""Adjust GUI interface for adding a new user to use the new authentication""",2.832322,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-782,23,"""Adjust register API to use the new authentication""",2.8270035,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-781,23,"""Define a model for user account to signup/login Explorer""",2.8303554,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-780,23,"""Found typos in SyncService.js""",2.8301,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-779,23,"""Reduce explorer container image size""",2.829232,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-778,23,"""Fix typo in """"Transaction Details"""" view""",2.8298326,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-777,23,"""User authentication is not working correctly""",2.8264346,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-776,23,"""Generated block hash is incorrect""",2.8346107,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-774,23,"""Support pem format in connection profile""",2.8287613,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-773,23,"""Use credential generated by Fabric-CA when Fabric-CA is configured""",2.8321311,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-772,23,"""Making README straightforward""",2.8285055,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-771,23,"""Update MAINTAINERS list""",2.8251219,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-769,23,"""Migrate code to Typescript incrementally""",2.8316212,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-768,23,"""Fix option to connect to fabric gateway for mutual TLS connection""",2.8228219,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-767,23,"""Add multiple user support""",2.8276584,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-766,23,"""Upgrade fabric-sdk-node from 2.1.0 to 2.1.1""",2.8286555,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-765,23,"""Fix jsrsasign vulnerabilities of package under ./package-lock.json""",2.8326132,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-764,23,"""Add metrics view to the dashboard""",2.827946,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-763,23,"""Add steps to the document for configuring metrics dashboard""",2.8337355,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-762,23,"""Update pre-configured file for prometheus / grafana""",2.83047,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-761,23,"""Decide which metrics should be shown on Explorer Dashboard""",2.831426,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-760,23,"""Add new pane for peer metrics to dashboard""",2.8300474,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-759,23,"""Fix vulnerability of package under api/test""",2.8353894,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-758,23,"""Fail to switch view between multiple channels""",2.829139,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-757,23,"""Can't query chaincode from network when enabling CA in network profile""",2.8248405,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-756,23,"""In chaincode view, tx count of each chaincode is always counted 0, when using new chaincode lifecycle""",2.821784,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-755,23,"""Add e2e-test for fabric-v2.1""",2.8273494,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-754,23,"""Update block listener to event listener mechanism of fabric-network""",2.827856,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-753,23,"""Implement QueryInstalledChaincodes by using """"getchaincodes"""" func on _lifecycle (for new chaincode lifecycle)""",2.824393,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-752,23,"""Reimplement getGenesisBlock method of FabricClient class""",2.8258688,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-751,23,"""Query Multi-channel""",2.8244796,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-750,23,"""Implement queryInstantiatedChaincodes by using """"getchaincodes"""" func on LSCC (for legacy chaincode lifecycle)""",2.8220274,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-749,23,"""Implement queryBlock by invoke """"GetBlockByNumber"""" func in QSCC """,2.8236208,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-748,23,"""Refactoring service discovery sequence in FabricClient.js for fabric v2.1""",2.8221333,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-747,23,"""Refactoring initialise sequence in FabricClient for fabric-v2.1""",2.8312924,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-746,23,"""Implement queryChannels by invoke """"GetChannels"""" func in CSCC """,2.8229492,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-745,23,"""Migrate wallet implementation to v2.1""",2.8299673,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-744,23,"""Blockchain-explorer synchronization error when connected to amazon managed blockchain network""",2.8289187,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-743,23,"""Segmentation fault in explorer docker container under  a specific env""",2.8353407,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-742,23,"""Organizations option in profile that allows a single organization""",2.8318737,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-741,23,"""Unnecessary pullpath option""",2.8309941,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-740,23,"""update the document for multi-org""",2.8288655,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-738,23,"""Update supported information of node.js in README and package.json""",2.8245018,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-737,23,"""Fix vulnerabilities of client/package.json""",2.8360052,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-735,23,"""Upgrade Node.js to 10.19-alpine""",2.8252726,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-734,23,"""Upgrade for fabric v1.4.6""",2.828932,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-733,23,"""Logout function in explorer client""",2.8359187,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-732,23,"""Fabric v2.0.0 support""",2.8284504,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-731,23,"""Reimplement e2e test framework with using ginkgo""",2.8275115,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-730,23,"""Multiple connection profile support""",2.821378,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-729,23,"""Always showing Login page. enableAuthentication doesn't work""",2.8325956,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-728,23,"""Create github branch for HL Iroha support.""",2.8302846,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-727,23,"""Security vulnerability in """"react-scripts""""""",2.8293486,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-726,23,"""Upgrade to nodeJS 10.15.3 and higher, after fabric v2.0.0 release""",2.8292964,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-723,23,"""HL Explorer code license scan""",2.8286011,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-722,23,"""Add to TROUBLESHOOT.md, error installing on RedHat""",2.8333304,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-718,23,"""Fix env variable `CORE_PEER_GOSSIP_EXTERNALENDPOINT` in README.md""",2.8314524,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-713,23,"""Fail to detect a newly added channel on explorer""",2.8295524,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-710,23,"""Security vulnerability in npm """,2.8294883,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-708,23,"""Online docs issues""",2.8268034,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-703,23,"""Links broken in README.md""",2.832295,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-702,23,"""Transaction Count is showing wrongly for Individual Chaincodes -- Chaincode Tab""",2.821799,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-701,23,"""fix severe vulnerabilities of node package""",2.8316042,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-699,23,"""Update packages""",2.8279505,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-696,23,"""Option for Partial Syncronizaton of Blocks rather than the whole blockchain""",2.8312876,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-695,23,"""Showing the Orderer Details Channel Wise""",2.8262377,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-694,23,"""UI Link To Transaction""",2.8237913,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-693,23,"""Multiple security issues""",2.8290973,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-691,23,"""failed to log into explorer when running the fabric network on ubuntu server.""",2.8310218,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-690,23,"""Explorer Not Connecting to the Orderer Cluster when one of the Orderer is Down""",2.8292706,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-688,23,"""Chaincodes Tab and Channels Tab Not Showing the channel name details""",2.8182735,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-687,23,"""Provided docker-compose-base-sample.yaml for first-network use case - is config correct?""",2.8312752,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-686,23,"""PgService prints sensitive information in logs""",2.8348725,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-685,23,"""PgService cannot connect to Postgresql with TLS""",2.8270047,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-684,23,"""Align the 'asLocalhost' setting check logic to fabric-sdk-node implementation""",2.8317385,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-680,23,"""Scripts for abstraction of FabToken operations""",2.82922,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-676,23,"""Explorer not able to connect orderer from docker.""",2.8293092,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-674,23,"""Explorer app service stops response after lost connection to explorer-db""",2.8308346,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-673,23,"""Alignment - Project Incubation Exit Criteria""",2.8265219,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-669,23,"""Failed e2e-test for REST APIs on Jobbuilder""",2.8241544,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-664,23,"""Security vulnerability in 'diff' npm""",2.8308935,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-662,23,"""Ability to view the Block Size defined in the Ordering Service (No. of transactions to be included in a Block)""",2.8258007,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-661,23,"""Ability to view the endorsement policy defined per channel / defined in a PDC""",2.8249888,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-658,23,"""Want to Learn""",2.8256545,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-651,23,"""Logging in is possible with any username/password combination""",2.8357048,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-650,23,"""Failed to e2e sanity check on jenkins jobbuilder""",2.826914,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-649,23,"""Selected channel not stable in UI""",2.827614,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-647,23,"""pgservice fix""",2.8343616,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-646,23,"""severity security vulnerabilities of python packages""",2.8343065,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-645,23,"""severity security vulnerabilities of python packages""",2.8352313,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-644,23,"""Failed to start explorer service with docker image""",2.830899,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-642,23,"""HL Explorer accessibility design""",2.831221,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-638,23,"""Channels TAB not updating blocks, transactions count""",2.8224742,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-633,23,"""Failed e2e test ( Due to some updates of error message )""",2.824543,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-632,23,"""Postgres Password ENV Var""",2.829235,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-626,23,"""Find files with no license header""",2.8342648,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-625,23,"""Master branch security vulnerability""",2.8230083,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-620,23,"""Security vulnerability """,2.831135,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-619,23,"""Warning flags, CII Badge""",2.8265982,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-611,23,"""error: [Orderer.js]: sendDeliver - rejecting - status:BAD_REQUEST""",2.8235254,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-609,23,"""TypeError: eventHub.disconnec is not a function""",2.8222573,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-606,23,"""Add TLS support for operations service""",2.8284414,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-603,23,"""Error while creating new channel""",2.8230343,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-598,23,"""Missing favicon.ico""",2.830477,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-592,23,"""Error: This socket has been ended by the other party""",2.829606,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-589,23,"""Security vulnerability """,2.8269088,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-588,23,"""JWT duration fails to run explorer UI""",2.8291893,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-583,23,"""Blockchain Explorer Memory Leak""",2.8235915,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-581,23,"""throw """"Failed to connect before the deadline URL:grpcs://localhost:7050"""" when starting second explorer """,2.8296406,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-580,23,"""Fabric Explorer Default Channel Discovery Not Obeying """"initialize-with-discovery"""" Flag""",2.8309205,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-577,23,"""User authorization, workflow, credential persistence  """,2.8310935,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-574,23,"""Analyze Explorer for memory leaks""",2.8225358,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-570,23,"""Backward fabric compatibility , explorer tag v0.3.9. HLFabric - 1.3 """,2.8296907,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-569,23,"""Configure HLExplorer with marbles application """,2.8327017,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-567,23,"""Docker-compose.yaml has container hyperledger explorer exposed on 8090 instad of 8080""",2.8375428,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-566,23,"""Running ./createdb.sh inside blockchain-explorer/app/persistence/fabric/postgreSQL/db throws an error """"user does not exist""",2.8297412,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-560,23,"""Add task to  """"precommit""""""",2.8290539,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-557,23,"""Migrate from javascript to typescript""",2.836095,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-556,23,"""Update DB definition to add network id, and channel""",2.83449,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-549,23,"""Deploying BE On Kubernetes""",2.830579,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-548,23,"""Fail to start explorer due to 'Handshake failed with fatal error SSL_ERROR_SSL' when TLS disabled""",2.830435,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-547,23,"""Suggestion, and feedback, new improvements""",2.8353288,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-546,23,"""Security vulnerability in client directory branch release-4.0""",2.8299224,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-545,23,"""Fail to start explorer because of access failure with MSP ID mismatch""",2.8299139,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-542,23,"""Docker image publish fails""",2.8241303,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-538,23,"""Remove package-lock.json from version control""",2.828734,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-537,23,"""Move to Node 10 (when SDK for node is ready, jira is created to follow up, and check SDK updates)""",2.825789,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-534,23,"""Multiple explorer instances running at the same server""",2.8282113,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-533,23,"""Allow websocket URL paths in client""",2.821085,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-527,23,"""Improve Fabric config validation and error reporting""",2.8283966,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-526,23,"""Reduce .git folder size""",2.8244717,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-519,23,"""Unable to configure explorer for a multihost hyperledger fabric network""",2.8312461,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-518,23,"""Research if HL Explorer can be configured/modified to support INDY """,2.82918,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-514,23,"""some output log variable  undefined""",2.8285177,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-513,23,"""can not start explorer""",2.8257775,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-512,23,"""Security vulnerability in webpack-dev-server npm""",2.8338962,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-509,23,"""Configure CI pipeline for blockchain-explorer project""",2.8259351,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-503,23,"""Blockchain Solution with Hyperledger Fabric + Hyperledger Explorer on Kubernetes""",2.8274357,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-502,23,"""The graph color doesn't seem to reflect the color of the """"caption/legend/subtitle""""""",2.83842,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-501,23,"""Explorer is only showing one peer while my network have 8""",2.8249464,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-497,23,"""Security vulnerability in webpack-dev-server and cryptiles npms""",2.8275793,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-495,23,"""Locate command is incorrect on Mac OS X""",2.8337681,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-493,23,"""The point displayed on the graph in the other time zones is incorrect""",2.8299499,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-491,23,"""balance-transfer config throws """"FabricClient - Admin peer Not found for grpcs://localhost:7051""""""",2.8274398,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-490,23,"""remove the duplicate declaration in helper.js""",2.8309505,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-489,23,"""Chaincode source code not shown in docker""",2.8241408,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-483,23,"""Add channel name to block notifications in UI""",2.8256342,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-480,23,"""Ordering Service not shown in NETWORK TAB""",2.8269775,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-479,23,"""Error handle logics are not correct in pgservice.js""",2.8278253,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-474,23,"""Move logging within the app from the unmaintained log4js to Winston""",2.8287623,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-472,23,"""Console UI""",2.8289948,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-471,23,"""Issue during retrieval of admin peers data""",2.8265817,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-466,23,"""MSP Type """"idemix"""" Cause Startup Problem """,2.8289726,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-465,23,"""Security vulnerability in """"stringstream"""", and """"deep-extend""""""",2.8278637,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-461,23,"""Low security vulnerability in app/test package.json, release-3.6 branch""",2.8310745,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-460,23,"""Properties file modification breaks Dockerfile configuration""",2.8322961,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-459,23,"""Design review for the LDAP integration in HLExplorer""",2.8278263,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-457,23,"""Inconsistent dark theme colors """,2.8283153,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-453,23,"""High security vulnerability found in fab-1.2-integration branch and master""",2.832115,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-451,23,"""Fail to start in case removing 'tls_cacerts' from config of peer that disabled TLS""",2.8287344,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-450,23,"""Peer list in NETWORK TAB empty""",2.8293283,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-449,23,"""Metrics charts inconsistent display of data""",2.8277957,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-445,23,"""The number of nodes of the dashboard always = 1""",2.8273044,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-444,23,"""INDEX error with postgreSQL when saving large data""",2.8300676,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-443,23,"""Peer Name will be empty If connecting to a non TLS fabric peer""",2.828108,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-442,23,"""Possible security vulnerability (superagent)""",2.82971,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-439,23,"""a wrong description at  swagger.json   `/api/channels`""",2.8325555,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-437,23,"""[ERROR] Query - TypeError: Cannot read property 'queryChannels' of undefined""",2.8225265,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-436,23,"""Test docker on Windows OS""",2.828015,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-434,23,"""some error in swagger.json""",2.8314183,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-433,23,"""ID field in block details empty, when clicked from activity screen""",2.8293884,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-431,23,"""Index row size 4032 exceeds maximum 2712 for index """"transaction_chaincode_proposal_input_idx""""""",2.825869,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-428,23,"""mock DB data""",2.8316283,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-416,23,"""Selected channel is not consistent once component is refreshed""",2.818192,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-411,23,"""Consider switching from redux to redux-saga""",2.8324673,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-410,23,"""Change from Material-UI Beta to main release""",2.8232276,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-409,23,"""Add clearTimeout/clearInterval in componentUnMount""",2.836772,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-408,23,"""Slowness in transaction details""",2.8253155,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-407,23,"""No reload needed for a single channel in drop down""",2.8258955,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-406,23,"""Security, moderate vulnerability""",2.826203,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-404,23,"""explorer.close() not a function""",2.8276944,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-403,23,"""Transaction per minute disappears after dynamic refresh  """,2.8256457,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-402,23,"""Page fails when blocks is clicked on.""",2.8284273,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-400,23,""" Cannot read property 'grpc.default_authority' of undefined """,2.8222487,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-398,23,"""ERROR: bytes.map is not a function""",2.8196857,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-397,23,"""Only one node show""",2.826063,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-396,23,"""Add Transaction Response Column in Postgresql""",2.8294165,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-394,23,"""Creation of Docker images for Explorer""",2.829756,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-393,23,"""Peer name now shown, and no refresh of the blocks""",2.829163,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-392,23,"""Blockchain Explorer UI shows 1 node when there are 4 nodes running.""",2.824252,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-391,23,"""Show only selected keys from json based on custom selection""",2.8351476,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-390,23,"""Custom fields display based on client config""",2.8272436,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-388,23,"""configuration.js    bug""",2.8299758,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-386,23,"""Missing orderer request parameter""",2.8261921,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-381,23,"""Merge release-3.4 into master, and create new branch of master release-3.5""",2.8266687,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-379,23,"""Explorer fails to run in AWS/EC """,2.8294742,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-375,23,"""Timecharts not syncing after channel has been changed """,2.8234386,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-373,23,"""bug in Configuration.js""",2.82085,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-372,23,"""Time Display issues in Transaction List and Activity Chart""",2.8258908,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-368,23,"""Events not persisted after explorer idles for sometime""",2.8249972,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-363,23,"""readme.md error at Running Hyperledger Explorer""",2.8341267,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-362,23,"""test.js not passed through mocha test""",2.8305607,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-361,23,"""Active tab in Header view to stick on refresh""",2.827972,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-358,23,"""Number of transactions per organization in the pie chart are disappearing """,2.8270106,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-357,23,"""Value too long for type character varying(800)""",2.8297296,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-352,23,"""pg service method getRowsBySQlNoCondtion generates incorrect sql""",2.835379,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-347,23,"""Permission denied error chaincode locate""",2.825227,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-345,23,"""Tansaction details show chaincode name LSCC but not the real one""",2.819889,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-339,23,"""Hyperledger Explorer fails to load when no data available""",2.8291276,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-334,23,"""Transaction details modal shows the same transaction hash""",2.8314288,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-333,23,"""Adding functionality to save the state of the theme on refresh""",2.825713,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-332,23,"""Creating Light and Dark style sheets using CSS""",2.8239613,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-331,23,"""Refactor UI calls to GET/POST by channel hash""",2.8371263,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-330,23,"""Update REST API to receive channel_hash""",2.830067,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-329,23,"""DB models needs to alter channel_hash column, identify tables""",2.8330488,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-325,23,"""Merge release-3.2 into master branch""",2.8285382,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-323,23,"""Some Swagger URLs are returning error for existing explorer REST API calls""",2.8317864,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-317,23,"""Synch by Multiple Networks""",2.8230894,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-315,23,"""Security vulnerabilities found in some packages""",2.8372924,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-314,23,"""Remove hard coded websocket url in client""",2.829788,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-313,23,"""Add REST API to retrieve channel information""",2.8332589,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-293,23,"""Error in metrics service""",2.8250055,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-292,23,"""Test HL Explorer with node v8.11.2""",2.8219593,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-288,23,"""Fix typos in msp doc""",2.8334913,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-287,23,"""ReadTheDocs - few spellchecks""",2.8294287,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-286,23,"""Implement file upload for channel creation""",2.8299232,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-268,23,"""Manually deploy/install js chaincode """,2.820194,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-267,23,"""Create a form to deploy chaincode """,2.8275049,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-266,23,"""Support for Corda""",2.823906,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-264,23,"""Support for Hyperledger Sawtooth""",2.825885,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-261,23,"""Update node version in Jenkis build for Hyperledger Explorer""",2.827696,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-260,23,"""Network config doesn't support any custom organisation name changes.""",2.8277986,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-254,23,"""Integrate HL Explorer with HLF CA  """,2.8280463,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-253,23,"""Save user data for notifiications read/unread""",2.830728,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-247,23,"""Create Unit tests for front-end""",2.8347993,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-242,23,"""Setup default admin profile""",2.8310149,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-240,23,"""Load configuration from the network yaml file""",2.8290992,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-239,23,"""Design session to support fabric 1.1""",2.829049,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-238,23,"""Research: how to use the channel-based event service HLF V1.1""",2.8241467,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-237,23,"""Support HLFabric v1.1 in HLExplorer""",2.8254812,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-234,23,"""Update result for transaction details""",2.833743,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-233,23,"""Add create channel instructions to README.md document""",2.8261418,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-231,23,"""Restructure redux integration in menubar components """,2.8297913,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-230,23,"""Change ID link doesn't work in Jenkins build""",2.8296382,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-226,23,"""Allow Explorer to work easily with other DLT platform Architectures""",2.8238378,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-225,23,"""Create transaction details modal""",2.823477,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-224,23,"""Show data from PG table on transaciton list page""",2.8321898,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-223,23,"""Write code to save the additional transaction fields into PG""",2.825206,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-220,23,"""Create a notification table""",2.8280463,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-214,23,"""Upgrade to nodeSDK to v1.1""",2.8295636,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-210,23,"""Update jenkins build""",2.8267004,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-209,23,"""Implement new design from Wireframes agreed to by Team """,2.8255303,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-208,23,"""Define Wire Frames for Dashboard """,2.826677,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-187,23,"""Full Testing of Patch - Sprint #21""",2.824134,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-186,23,"""Full Testing of Patch - Sprint #20""",2.8243058,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-185,23,"""Full Testing of Patch - Sprint #19""",2.8233316,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-184,23,"""Full Testing of Patch - Sprint #18""",2.823496,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-173,23,"""Verify and update license in hyperledger explorer backend source code""",2.831177,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-164,23,"""The transactions per interval chart needs to utilize correct chart type""",2.8284204,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-159,23,"""Explorer view for a given User""",2.8272467,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-158,23,"""Network level explorer views""",2.8290699,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-157,23,"""Add indexes to tables""",2.8263688,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-156,23,"""Analysis to create and join channel""",2.826895,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-155,23,"""Add END POINT API for list of blocks and transaction per block""",2.83321,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-154,23,"""Add back-end API metrics for transaction""",2.8296955,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-153,23,"""Add back-end API, block metrics""",2.8320065,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-152,23,"""Add block timestamp creation, column createdt""",2.829642,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-150,23,"""Merge development into release-3 branch""",2.8240998,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-149,23,"""Remove mysql database from explorer""",2.8311884,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-148,23,"""mysql port in config.json is ignored on explorer startup""",2.8273833,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-146,23,"""Integrate Channel List API with UI select box""",2.8266673,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-144,23,"""Add LICENSE file""",2.8322654,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-143,23,"""Create Jenkins job for Branch release – v 4""",2.8303516,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-141,23,"""UI component to display a stream of data and update when new items appear""",2.824118,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-140,23,"""Backend implementation using websockets for blocks and transaction streams""",2.8266492,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-139,23,"""Node agent implementation: Even listener for transactions and blocks""",2.8278065,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-138,23,"""Mock response for transactions and blocks created stream""",2.8283179,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-137,23,"""Mock response for transaction and blocks created""",2.830737,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-136,23,"""Add channel backend implementation""",2.826212,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-135,23,"""Add channel node agent implementation""",2.8275354,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-134,23,"""Backend implementation for channel list""",2.8305771,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-133,23,"""Node agent implementation for channel list""",2.8298037,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-132,23,"""Create Jenkins job for branch release-3""",2.8278286,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-131,23,"""Backend implementation for status counters""",2.8281002,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-130,23,"""Node agent implementation for status counters""",2.8309815,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-129,23,"""UI Component with a text box and a ok/cancel button to submit""",2.8194191,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-127,23,"""Register and enroll new member""",2.8328452,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-126,23,"""Dropdown UI component with Channel list""",2.8224692,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-125,23,"""Mock data for channel list""",2.8307636,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-124,23,"""Create UI components for counter badges""",2.825527,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-123,23,"""Create Mock response for /api/status""",2.8330717,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-122,23,"""Node agent implementation for Ethereum""",2.8284733,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-121,23,"""Node Agent implementation for Fabric""",2.8270013,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-119,23,"""Blocks and transactions details""",2.8258784,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-118,23,"""The explorer dashboard needs to show live statistics about transaction and blocks getting created.""",2.8243282,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-117,23,"""Blockchain Explorer Jenkins integration (non-pipeline)""",2.8211095,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-116,23,"""Vulnerability in jquery""",2.8319738,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-115,23,"""Documentation Update Epic""",2.829364,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-113,23,"""Necessity for first-network to be available in the source code""",2.8323915,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-112,23,"""Dynamic Module load for each Blockchain platform implementation via configuration""",2.8220909,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-108,23,"""Publishing to NPM registry""",2.8263252,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-107,23,"""Upgrading a chaincode from one version to another""",2.8208044,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-106,23,"""Display the nodes and how the nodes are connected""",2.8328369,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-105,23,"""Data Visual Representation of the Network""",2.827933,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-102,23,"""identify other nodes that are part of the network, organization""",2.833688,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-101,23,"""Make it easy to connect to a network that is bootstrapped from the Hyperledger Composer""",2.831538,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-100,23,"""Detail page for blocks""",2.8251321,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-99,23,"""Artifact Publishing """,2.8322928,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-98,23,"""Component for block and transaction stream""",2.824638,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-97,23,"""Graph to display transactions and blocks created per time interval""",2.8340933,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-96,23,"""Select box for channels""",2.8256896,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-95,23,"""Counter badge component""",2.8268602,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-93,23,"""Integrate react component library for UI components""",2.8227036,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-92,23,"""Tour refers to """"Fabric Explorer""""""",2.8288503,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-91,23,"""Blockchain Explorer title in the UI should be changed to Hyperledger Explorer""",2.83132,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-90,23,"""generate in byfn not working""",2.836893,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-88,23,"""Peer value increment indefinitely""",2.825986,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-87,23,"""Peer count keeps increasing when connected to a network with 1 peer""",2.8298323,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-85,23,"""Add information about securing the keystore """,2.834883,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-84,23,"""See logs from peer  on web """,2.8269172,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-82,23,"""Health check Log""",2.8334913,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-81,23,"""Remove org from network """,2.8324065,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-80,23,"""Remove peer from the network""",2.8276048,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-79,23,"""Remove/Revoke a member""",2.8291698,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-78,23,"""List of enrolled users and certs""",2.826317,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-77,23,"""Network management functionality""",2.8256679,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-69,23,"""Chain code lifecycle management""",2.8229413,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-68,23,"""Re-architect the dashboad page""",2.8293178,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-67,23,"""In config json Remove the ORG & PEER key value""",2.8328605,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-66,23,"""Re-architect the blockchain explorer dashboard""",2.825575,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-64,23,"""Remove the unwanted method in explorer client """,2.828756,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-63,23,"""Update the README Document based on config json configuration""",2.8278315,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-62,23,"""Remove the peer url hardcode value in helper js """,2.8295617,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-61,23,"""Setting up Continuous Integration & Deployment (CI/CD) pipeline using hyperledger and Jenkins""",2.8268862,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-60,23,"""Create CONTRIBUTING file""",2.82857,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-59,23,"""Add Docker for explorer deployment""",2.8290274,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-58,23,"""Combine config.json and network-config.json to one file """,2.8314285,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-57,23,"""The first time load of peer List is slow.""",2.8261476,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-55,23,"""Simplify config.json configuration in the current version""",2.8269365,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-54,23,"""Remove fabric-docker-compose-svt/release""",2.8293362,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-53,23,"""4) CA should not be needed… modify backend to remove requiring usercontext """,2.8301294,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-52,23,"""Channel name needs to be passed to backend to retrieve transactions""",2.8315423,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-51,23,"""List of channels hardcoded""",2.8226767,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-50,23,"""peer sign certs expired but new block signature continues without warning or error""",2.822994,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-48,23,"""Fails whilst generating crypto keys""",2.8313634,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-47,23,"""Explorer can recognize only 2 peer (Actually It should recognize 4 peers), and only one peer in peer list. It is a normal behavior or a bug, I don't see error in output log.""",2.8250039,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-46,23,"""Update the documentation to clearly explain the modifications required in network config to connect it o any fabric network. """,2.830666,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-45,23,"""some cases always Error: Got unexpected status: SERVICE_UNAVAILABLE""",2.8332286,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-43,23,"""ReadMe HL, Explorer documentation bug - directory Structutre""",2.8303237,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-39,23,"""ReadME Documentation - Explorer Setting Not working for the Different Network (Not the Test Network) """,2.8291821,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-37,23,"""Remove the dependency on using the crypto-artifats in the git repository and try to generate using cryptogen utility""",2.8266857,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-36,23,"""Check if the current version of blockchain explorer works with 1.0.2 images """,2.823736,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-35,23,"""Use official hyperledger images in the blockchain explorer docker-compose files""",2.829076,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-34,23,"""Dynamic Module load for each Blockchain platform implementation""",2.8246925,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-33,23,"""Remove duplicate reset.css file""",2.8360734,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-32,23,"""modify the package name in package json """,2.830243,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-31,23,"""Add use fabric-db in mysql schema creation""",2.831537,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-30,23,"""Add information about the new MIP blockchain explorer to the base Blockchain Explorer repository README""",2.823887,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-29,23,"""Add license headers to all source files in BE codebase.""",2.8303316,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-26,23,"""Create Enhancements to Blockchain Explorer Compatible with Fabric V 1.0""",2.8289948,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-25,23,"""Review DTCC comments and clean-up the OneChain.com explorer code base """,2.8258097,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-22,23,"""Blockchain Explorer Upgrade recommendations""",2.820699,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-20,23,"""Resolve licensing issues discovered by Fossology scan""",2.83221,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-19,23,"""Create initial MAINTAINERS.rst""",2.832695,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-17,23,"""getting error while trying to connect from rest api   """"Error"""": """"rpc error: code = 14 desc = grpc: RPC failed fast due to transport failure""",2.8270085,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-15,23,"""charater ` is put in a wrong position in the capture Architecture Deep Dive section 2.11 of fabric doc""",2.831836,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-14,23,"""I cannot see items in hypereldger explorer""",2.8259692,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-12,23,"""Generic Blockchain explorer interface: Interface with Blockchain implementation security""",2.826519,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-10,23,"""Generic Blockchain explorer back-end : Implement persistence store using Postgres""",2.8305786,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-9,23,"""Generic Blockchain explorer UI : Implement live statistics in the Blockchain explorer using websockets protocol and POSTGRES DB.""",2.8246202,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-8,23,"""Generic Blockchain explorer back-end : Implement Node JS web server using Express. Implement websockets for updates and stats. Implement dynamic module load needed for each Blockchain implementatio""",2.8254673,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-7,23,"""Generic Blockchain explorer UI : Implement front end using Bootstrap version 3.3, Jade templates 1.11.0 and Angular JS version 2""",2.822712,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-6,23,"""Implement a generic blockchain explorer which can work with any Blockchain platform""",2.826481,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-5,23,"""Node SDK - Chain crearte - phase 1 - submit to Orderer""",2.8279192,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-4,23,"""CLONE - [java-chaincode] In Chaincode-to-Chaincode invocation, main transaction become successful even if second chaincode invocation fails. """,2.8291647,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-3,23,"""[java-chaincode] In Chaincode-to-Chaincode invocation, main transaction become successful even if second chaincode invocation fails. """,2.8297389,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-2,23,"""Enable docker image building""",2.8307216,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+BE-1,23,"""install instructions in readme need sudo""",2.8285751,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1

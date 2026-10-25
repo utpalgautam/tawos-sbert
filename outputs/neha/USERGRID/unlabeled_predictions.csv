@@ -1,0 +1,853 @@
+issue_key,project_id,title,predicted_story_point,encoder_checkpoint,model_version
+USERGRID-1359,5,"""Integrate Usergrid Stack with ASF build pipeline""",2.5042536,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1358,5,"""Configure Travis CI based CICD Pipeline""",2.5028791,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1357,5,"""Create official Dockerized Stack that can run as a Composition """,2.5052488,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1356,5,"""Make entity fetcher threads configurable for Export""",2.502262,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1355,5,"""Dissociate akka based Unique Value checks across regions for a multi region distributed cluster using Qakka""",2.5037928,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1354,5,"""Akka cluster does not work for more than 2 regions""",2.5027604,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1353,5,"""Shiro cache tokens are not synced with Cassandra """,2.4986532,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1352,5,"""Create a tool to bulk update Unique value table.""",2.5049186,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1351,5,"""Refactor constants used by MapManagerFactory""",2.5043795,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1350,5,"""Add feature to provide a restore password when soft deleting an application""",2.5025785,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1349,5,"""Feature for querying directly from C* instead of ES when using UUID or name""",2.5091538,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1348,5,"""Fix ignored test in CollectionDeleteTest""",2.4991944,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1347,5,"""Usergrid | Locks | Two million cells per average read""",2.5026968,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1346,5,"""Tomcat - out of memory exceptions""",2.5027804,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1345,5,"""Add support for support Cassandra 3.X (3.11)""",2.4986415,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1344,5,"""Upgrade of Elastic Search Client to 5.4.0""",2.4986203,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1343,5,"""What do the website menu icons mean?""",2.5064147,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1342,5,"""One of Cassandra Column family is deleted , we need to restore or need to create the column """,2.4989395,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1341,5,"""Application Queue Manager for Push using Wrong Cache Type""",2.5040538,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1340,5,"""High response time for activity post in group""",2.498946,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1339,5,"""When creating a user account with a password that fails validation check, the account is created anyway""",2.5065799,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1338,5,"""Email addresses or usernames with + character do not appear in search results for users""",2.504657,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1337,5,"""Cannot disassociate a role from a user""",2.5023317,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1336,5,"""Implement a query analyzer""",2.5013359,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1335,5,"""A condition that is always true.""",2.5037894,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1334,5,"""When selecting specific properties via ql, returned key names are all lowercase""",2.503179,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1333,5,"""Usergrid 2.1.0 giving Auth error With Custom Cassandra username/password """,2.502246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1332,5,"""Usergrid 2.1.0 giving Auth error With Custom Cassandra username/password """,2.502246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1331,5,"""Usergrid 2.1.0 giving Auth error With Custom Cassandra username/password """,2.502246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1330,5,"""USergrid 2.1.0 giving Auth error With Custom Cassandra username/password """,2.502246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1329,5,"""USergrid 2.1.0 giving Auth error With Custom Cassandra username/password """,2.502246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1328,5,"""USergrid 2.1.0 giving Auth error With Custom Cassandra username/password """,2.502246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1327,5,"""USergrid 2.1.0 giving Auth error With Custom Cassandra username/password """,2.502246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1326,5,"""USergrid 2.1.0 giving Auth error With Custom Cassandra username/password """,2.502246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1325,5,"""USergrid 2.1.0 giving Auth error With Custom Cassandra username/password """,2.502246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1324,5,"""USergrid 2.1.0 giving Auth error With Custom Cassandra username/password """,2.502246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1323,5,"""Usergrid 2.1.0 giving Auth error with Custom Cassandra username and passord""",2.5027742,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1322,5,"""Usergrid 2.1.0 giving Auth error with Custom Cassandra username and passord""",2.5027742,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1321,5,"""Usergrid 2.2 Master, Tomcat Startup Error: unconfigured columnfamily Data_Migration_Info""",2.5054598,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1320,5,"""Configurable Password Policy""",2.5060725,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1319,5,"""client_id & client_secret Errors (2.2.0)""",2.5010042,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1318,5,"""Embeddable Queue implementation""",2.5036993,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1317,5,"""Deindexing bug on deleting connections""",2.5080328,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1316,5,"""Upgrade ElasticSearch to 2.x""",2.5062346,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1315,5,"""Improve Duplicate Unique Value Message""",2.507918,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1314,5,"""Or queries fail when field """"name"""" is included""",2.508631,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1313,5,"""Add ability to specify metadata for individual connections""",2.5033488,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1312,5,"""Add ability to specify when connections expire""",2.5030494,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1311,5,""".NET SDK - Allow for querying of incoming connections""",2.5045207,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1310,5,"""No cursor returned when paging incoming connections""",2.5048006,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1309,5,"""Document Matrix queries & limitations""",2.499957,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1308,5,"""Responses to If-Modified-Since requests are not conditional""",2.5079765,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1307,5,"""Range header doesn't select correct byte range""",2.4982924,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1306,5,"""Usergrid .NET SDK Integration Tests assume http://api.usergrid.com endpoint for API""",2.5052335,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1305,5,"""Error trying to send push notifications / iterate collections""",2.5003371,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1304,5,"""HTTP 500 error when retrieving Entity via connection""",2.5048263,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1303,5,"""Implement Unique Value Verification with Akka""",2.5007167,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1302,5,"""Error during username token verification""",2.5002038,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1301,5,"""Fix SubjectUtils.isServiceAdmin to work in all currently used cases""",2.5048854,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1300,5,"""Localhost system access settings""",2.502316,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1299,5,"""Fix limitations of App Delete""",2.501291,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1298,5,"""When cursor queryparam is passed in with an empty value, 500 response code is thrown""",2.5044947,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1297,5,"""PUT /{collection}/{entityName} giving 400 Status with DuplicateUniquePropertyExistsException""",2.506742,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1296,5,"""Selecting nested fields in query select cause not working""",2.508257,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1295,5,"""Enhance de-index on update/delete logic to find old versions using Cassandra""",2.5043173,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1294,5,"""Lightweight token validation for users and admins""",2.501564,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1293,5,"""Asset files do not appear to be deleted""",2.5045261,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1292,5,"""Make all caches configurable""",2.5031352,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1291,5,"""Intermittent NPE, may be associated with OOM errors""",2.5017278,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1289,5,"""Make /org/app/users/me permissions more robust.""",2.5001445,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1288,5,"""Don't log full stack trace on Elasticsearch timeouts""",2.501933,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1287,5,"""Cache Application queue manager class""",2.5051534,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1286,5,"""Reduce number of Async AWS publisher threads and executor queue size""",2.5060887,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1285,5,"""Switch to TRANSPORT CLIENT for Elasticsearch""",2.505579,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1284,5,"""Unhandled NPE""",2.5036113,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1283,5,"""Improve ServiceManager.init() start-up logic""",2.5017688,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1282,5,"""/users/me permissions work differently in 2.1""",2.5059116,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1281,5,"""Download page must link to ASF mirrors for KEYS, sigs hashes""",2.5036652,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1280,5,"""New Admin Users cannot login temporarily""",2.5004296,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1279,5,"""Push Notification Counters""",2.5029418,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1278,5,"""Disable indexing by Entity type""",2.503744,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1277,5,"""Application ID cache should not cache Optionals""",2.500875,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1276,5,"""NPE when doing POST to App token with form data and client_credentials grant""",2.4973416,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1274,5,"""Fix escaped characters not sending through PUSH notifications""",2.500184,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1273,5,"""LockManager issue for OnlyOnceJob""",2.496979,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1271,5,"""Enforce a TTL For Entities""",2.503045,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1270,5,"""Enhance shard compaction to track the 'end' of a shard's valid Edges""",2.50535,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1269,5,"""Swift SDK - default cache policy loading old data""",2.5033283,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1266,5,"""401 when 404 is expected on missing entity""",2.5062482,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1265,5,"""Configurable throttle/lockout for all auth requests""",2.498186,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1264,5,"""Enable X-XSS header in all HTTP responses""",2.5049226,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1263,5,"""Input validation of app and org names specified in URLs""",2.5057933,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1262,5,"""Always return JSON as application/json""",2.5072331,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1261,5,"""notifications.js test failures""",2.500202,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1260,5,"""Asset and Accept Header changes""",2.496868,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1259,5,"""Re-indexing ElasticSearch entity data from Cassandra - Possible Memory Leaks in Usergrid""",2.501954,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1258,5,"""5XX Error on select {field} QL""",2.5014415,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1257,5,"""Swift SDK""",2.5049584,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1255,5,"""Currently PUT requests will cause new index event for new version but not delete the old version from ES""",2.5056608,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1254,5,"""cann't start usergrid """,2.4999862,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1253,5,"""Investigate and Refactor WriteUniqueVerify""",2.5016427,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1252,5,"""Default entity types do not show up on GET /<application> endpoint when there are 0 entities""",2.5030923,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1251,5,"""Handle index processing event case where an edge exists but entity is missing.""",2.4998038,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1250,5,"""Create additional push notification tests for the node.js integration tests""",2.5010693,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1249,5,"""Update portal to use Aggregates endpoint for both SIZE and COUNT of entities""",2.5023098,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1248,5,"""Please delete old releases from mirroring system""",2.504456,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1247,5,"""Remove Unnecessary dependencies""",2.5039163,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1246,5,"""Remove Unnecessary dependencies""",2.5034032,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1245,5,"""Find alternative to com.clearspring.analytics""",2.5013278,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1243,5,"""Replace logging string concatenation with formatting""",2.504841,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1242,5,"""version """"1.56.49-SNAPSHOT-UG-1"""" of dependency """"astyanax-core""""  does not exist""",2.5024972,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1241,5,"""Org config settings for view redirects""",2.5044355,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1240,5,"""Test and integrate Pushy SOCKS changes""",2.5027907,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1237,5,"""Update links in iOS SDK README""",2.5034559,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1236,5,"""Create Unit/Integration Tests for Facebook Auth Endpoint""",2.5018184,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1235,5,"""Usergrid does not store blank string or null values on documents""",2.5046341,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1234,5,"""Hierarchical groups""",2.5063665,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1233,5,"""[1.0] USERGRID: queries with select fields do not return a cursor value""",2.5048575,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1232,5,"""/revoketoken endpoint for admin user token does not require auth""",2.5041182,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1231,5,"""Add Capability to generate CURL commands to the UI""",2.5016978,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1230,5,"""POST to /events returns entity that does not exist""",2.5030973,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1229,5,"""Support IN syntax for queries""",2.5057902,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1228,5,"""Sign In/Up with SoundCloud""",2.499036,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1227,5,"""Have discussion about how to improve syntax of graph queries""",2.5042822,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1226,5,"""Allow people to specify their own S3 account keys and CDN settings?""",2.5019479,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1225,5,"""As a User, I would like to run a query to find all entities that do not have (or do have) a connection""",2.509234,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1224,5,"""Suffix Queries""",2.5022418,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1223,5,"""Consider HTML, CSS & JS Hosting for web apps""",2.5001721,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1222,5,"""SCIM Integration/support""",2.5006301,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1221,5,"""Org-level property for default token TTL""",2.5048432,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1220,5,"""Reset Password Page Customization""",2.506466,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1219,5,"""Implement Delete Org""",2.5080478,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1218,5,"""Sign In/Up with Yahoo!""",2.500832,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1217,5,"""Sign In/Up with Windows Live""",2.5013218,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1216,5,"""Sign In/Up with Salesforce""",2.5024219,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1215,5,"""Admin Action Webhooks""",2.501349,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1214,5,"""Sign Up with LinkedIn""",2.5072887,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1213,5,"""Sign Up with Twitter""",2.5008442,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1212,5,"""Login with Twitter""",2.5016575,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1208,5,"""Complete Push Notifications TestAdapter functionality.""",2.5022275,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1207,5,"""Notification statistics are not accurate""",2.5082273,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1206,5,"""URLConnectionFactory not being used in UGClient""",2.5013995,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1205,5,"""Duplicate Admin Repair""",2.4968233,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1204,5,"""We should not allow for multiple emails to be sent if a user clicks the activation link multiple times""",2.498796,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1202,5,"""Error returned when calling /revoketoken?token=xxx on non-existent user returns 500""",2.5015278,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1201,5,"""Error returned when calling /revoketokens on non-existent user should be improved""",2.505406,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1200,5,"""Org config override for portal and API URLs""",2.503903,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1199,5,"""User authentication failure and reset password requests return 400 bad request; should return 401 unauthorized?""",2.498693,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1198,5,"""PUT requests by using ql appear to be running in series and take a long time to execute""",2.497599,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1197,5,"""Test and confirm DELETE APP in an integration environment""",2.5043936,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1196,5,"""Define Release Testing to include Rigorous Unique Value and Index verification""",2.5049565,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1195,5,"""Debug log statements should be wrapped with logger.isDebugEnabled""",2.502817,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1194,5,"""Add org config flag to allow ES to be disabled for an org""",2.5026574,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1193,5,"""Evaluate code to reduce GC pressure""",2.5048437,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1192,5,"""Evaluate GC and profile 2.1 for GC settings optimization""",2.5013306,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1190,5,"""Cursor lists previous cursor's data (activity feed only)""",2.4989738,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1189,5,"""Fix confusing error message(s)""",2.504874,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1188,5,"""REST - Ensure that user creation is blocked if required fields are not provided""",2.5066106,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1185,5,"""PUT by name does a GET on an entity twice""",2.5042708,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1184,5,"""Provide functionality for date range queries ( use date type in Elasticsearch)""",2.5069735,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1181,5,"""Allow notification entities to be deleted if they are not """"in progress""""""",2.5018654,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1180,5,"""Duplicate Org Repair tool""",2.501969,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1179,5,"""/token response with bad credentials return 400 instead of 401""",2.4995844,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1178,5,"""Making a PUT request to /token endpoints returns a 500 Internal Server Error""",2.5007405,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1177,5,"""Making a PUT request to a collection with an Array or empty body throws a 500 error""",2.5047338,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1176,5,"""Update QL to allow for *.element.* matches""",2.5027127,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1175,5,"""[IRT] Set permissions and confirm they work""",2.4986703,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1174,5,"""Integration Rest Tests: Permissions""",2.49955,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1173,5,"""[IRT] Test paging of connection queries""",2.5049639,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1172,5,"""[IRT] Test different connections between entities and querying them""",2.5079153,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1171,5,"""[IRT] Test that entities with arrays of objects which have arrays have the nested array indexed""",2.5016444,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1170,5,"""[IRT] Test location query on non-root attribute""",2.502916,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1169,5,"""[IRT] Test geolocation queries for 'location' attribute as a root attribute""",2.5028818,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1168,5,"""[IRT] Test rounding of geolocation distance""",2.5089664,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1167,5,"""[IRT] Confirm that entities with malformed/non lat/lon are indexed""",2.505135,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1166,5,"""[IRT] Test 'not' operator with various operations""",2.5084245,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1165,5,"""[IRT] Test boolean true and false conditions""",2.504753,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1164,5,"""[IRT] Test indexing latencies""",2.503876,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1163,5,"""[SPIKE] Open IRT tickets for testing indexing of entities using all reserved words""",2.5014207,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1162,5,"""[IRT] Test indexing of entities using a 'size' attribute""",2.5047512,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1161,5,"""Integration Rest Tests: Indexing""",2.5035534,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1160,5,"""[IRT] Test activity streams with image assets""",2.5018423,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1159,5,"""[IRT] Test querying within object hierarchy - non-array""",2.5039108,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1158,5,"""[IRT] Test querying within object hierarchy - array""",2.5025334,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1157,5,"""[IRT] Test 'contains' operator""",2.499384,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1156,5,"""[IRT] Test >= operator on float/double""",2.5058808,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1155,5,"""[IRT] Test > operator on float/double""",2.506991,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1154,5,"""[IRT] Test <= operator on float/double""",2.505414,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1153,5,"""[IRT] Test < operator on float/double""",2.5058243,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1152,5,"""[IRT] Test >= operator on int/long""",2.5046048,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1151,5,"""[IRT] Test <= operator on int/long""",2.5027027,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1150,5,"""[IRT] Test > operator on int/long""",2.5043032,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1149,5,"""[IRT] Test < operator on int/long""",2.5031452,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1148,5,"""[IRT] Test Querying by string equality""",2.5065265,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1147,5,"""[IRT] Test that assets can be attached to users""",2.50151,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1146,5,"""[IRT] Test that assets can be attached to custom entities""",2.501703,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1145,5,"""[IRT] Test that assets can be overriden""",2.4985776,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1144,5,"""[IRT] Uploading File Assets""",2.498003,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1143,5,"""Integration Rest Tests: Geolocation""",2.5035489,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1142,5,"""Integration Rest Tests: 3rd Party Auth""",2.501607,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1141,5,"""Integration Rest Tests: Groups""",2.501737,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1140,5,"""Integration Rest Tests: App Users""",2.501871,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1139,5,"""Integration Rest Tests: Activity Streams""",2.4990366,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1138,5,"""Integration Rest Tests: Entity Relationships""",2.5025082,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1137,5,"""Integration Rest Tests: Activity Streams""",2.4990366,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1136,5,"""Integration Rest Tests: Querying (except geolocation)""",2.5064507,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1135,5,"""Integration Rest Tests: Files & Assets""",2.4971433,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1134,5,"""Insert/Audit at least 120,000 Entities""",2.5045204,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1133,5,"""2.1 Apache Release""",2.504952,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1132,5,"""2.2 REST Integration Scenario Coverage""",2.5031595,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1131,5,"""Test, Confirm and Document Reserved Words in Entities""",2.4994636,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1130,5,"""Add ability to re-index single entity in a collection""",2.5014215,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1129,5,"""Fix version handling so we can have optimistic concurrency""",2.5000763,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1128,5,"""Entity request by uuid that doesn't exist returns 401 instead of 404""",2.5016837,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1127,5,"""Superuser should be able to update Org Admin Users""",2.5027502,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1126,5,"""Documents not getting index when JSON contains latitude or longitude fields with empty string values""",2.5027416,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1125,5,"""Create tests that walks a collection with cursors at the Entity Manager level""",2.501306,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1123,5,"""Enhance logic around getting the first and ALL log entries that are marked DELETED for an enity""",2.5002067,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1122,5,"""NullPointerException during read repair""",2.5046759,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1121,5,"""Update and confirm steps for 'Get 2.1 Running Locally'""",2.4999366,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1120,5,"""Fix CounterIT.testIncrementAndDecrement() test""",2.4973822,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1117,5,"""Allow apostrophe characters in email addresses""",2.506651,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1116,5,"""Fix MessagesIT tests""",2.4983644,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1114,5,"""Audit all ignored tests and either fix, replace or delete them""",2.5007544,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1112,5,"""Test and Fix Shard Delete""",2.5081332,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1111,5,"""[SPIKE] Audit code for printStackTrace and open appropriate tickets""",2.502799,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1110,5,"""Remove ChangeLogGenerator and it's implementations""",2.5030723,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1109,5,"""Implement unique property validation read-repair on load""",2.4997654,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1108,5,"""Implement consistent read repair in CandidateEntityFilter""",2.4915822,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1107,5,"""AsyncEventServiceImpl needs refactored""",2.496645,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1105,5,"""Rewrite or replace SchedulerRuntimeIT tests""",2.500224,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1104,5,"""Indexes in Elasticsearch created with alias names""",2.502404,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1103,5,"""Fix Metering Filter to work with Jersey 2""",2.504082,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1102,5,"""[SPIKE] Document/Evaluate/Review what needs to get dome to migrate from Spring to Guice""",2.5052602,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1098,5,"""Perform quorum reads only after waiting and retrying""",2.4997044,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1097,5,"""Rationalize/finalize on one Jackson version""",2.5038915,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1096,5,"""Test Coverage Reporting Integration""",2.503553,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1095,5,"""Investigate query parsing and execution issues related to order of operations""",2.5024788,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1094,5,"""Create separate worker thread pool and queue with fewer workers for non-critical tasks""",2.5025618,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1090,5,"""DELETE on missing User entity returns 401 not 404""",2.509842,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1089,5,"""Integration Test: Index/Query on an array of objects, objects having arrays""",2.5039487,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1088,5,"""Objects nested in arrays are not getting indexed.""",2.504211,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1087,5,"""If cursor passed in without original query ql parameter, should return Bad Request""",2.505184,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1084,5,"""Add ability to directly throttle migration""",2.5045316,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1083,5,"""getEntityByName 404 API response logs unnecessary Uncaught Exception ERROR""",2.5055747,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1082,5,"""Fix paging scheme for deletes to not make duplicate delete requests""",2.5030422,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1081,5,"""Change elasticsearch query for versions aggregation scheme""",2.5008273,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1080,5,"""Change elasticsearch query for retrieving versions""",2.4992504,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1078,5,"""Test and confirm that having a single Cassandra node loss does not cause issues in Usergrid""",2.503527,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1070,5,"""All tasks necessary to release 2.1 to production""",2.50064,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1066,5,"""Create a system endpoint for the superuser to GET all orgs in the system""",2.5071614,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1065,5,"""Create a system endpoint for the superuser to GET all apps for an org""",2.5049758,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1064,5,"""Create a system endpoint to de-dup connections per application""",2.5000892,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1063,5,"""When detecting a missing entity trigger a high consistency read repair""",2.4962473,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1062,5,"""Entity Edges are not getting deleted from graph when handling delete event""",2.50442,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1061,5,"""Improve URAP CreateApplication integration""",2.4994419,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1060,5,"""unable to run 2.1 or 2.2""",2.5041847,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1059,5,"""Investigate if Jacoco slowed down the build""",2.497173,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1057,5,"""Create test(s) for EventBuilderImpl or integration higher than this (or both)""",2.500876,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1056,5,"""ES Documents not getting deleted when deleting entities""",2.5012238,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1054,5,"""Build and deploy a version of the Portal with no 'Registration' link""",2.5018616,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1050,5,"""Remove SQS implementation""",2.5026305,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1049,5,"""Add originating region to SQS queue message""",2.5017908,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1047,5,"""GET on missing Asset file in S3 generates 500 error not 404""",2.5011578,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1045,5,"""Ensure a queue capacity rejection is handled for ES SEARCH requests""",2.4981673,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1044,5,"""Support for gatling load testing with unlimited feed""",2.4971666,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1043,5,"""Change any and all error messages akin to 'This should never happen' - because it happens""",2.5020688,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1042,5,"""Infrastructure""",2.5082216,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1041,5,"""Implement means of escaping single-quote characters in ql""",2.499718,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1040,5,"""Write integration tests for _contains 'the*'_ and other articles""",2.508913,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1039,5,"""Support `where exists` and `where NOT exists` queries""",2.506338,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1036,5,"""Write integration tests for asset-related actions""",2.4973083,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1034,5,"""Fix content-type sniffing code in ContentTypeFilter""",2.4966345,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1030,5,"""Read-only Org Admin Role""",2.5031803,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1028,5,"""Ability to customize Password Reset emails""",2.5067494,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1025,5,"""Cass status fails in a 2.0 cluster""",2.4991748,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1021,5,"""Improve Location Attribute Handling to not require Lat/Lon and also be indexable""",2.5062857,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1020,5,"""Permissions, when applied directly to a user, do not appear to work""",2.5086765,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1019,5,"""provide messaging backend""",2.5011466,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1014,5,"""Push Notification Delivery Expiration Not Working""",2.501183,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1012,5,"""Geolocation with limit of 610.000 returns a result with distance of 610.09""",2.501041,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1011,5,"""Geolocation results not sorted by distance in 2.0""",2.4981527,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1010,5,"""Bulk Import capability""",2.5043192,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1009,5,"""Enable Data filtering for Exporting data to S3""",2.5016806,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1008,5,"""Export / Import""",2.5005922,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1006,5,"""Portal fails on call to /indexes on connection URL""",2.506597,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1004,5,"""Tutorial on how to use Activities / Following / Groups""",2.5021927,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1003,5,"""Tutorial on how to build a tagging/commenting/liking system""",2.5025313,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1002,5,"""Document and test S3 import capability""",2.50511,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1001,5,"""query sub-properties missing from docs and should be added""",2.502303,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-999,5,"""Support backward pagination""",2.5046434,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-998,5,"""Find a hosting spot for the portal such that you don't have to hit it locally""",2.4995675,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-997,5,"""Add exporting of assets to export capability""",2.501429,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-995,5,"""Test Harness for Push notifications""",2.5010986,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-994,5,"""In 1.0, 'select *' could be implied when building queries. In 2.X, it is not.""",2.5107079,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-990,5,"""REST API Endpoint for defining indexes""",2.503847,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-988,5,"""Multi-Region, Multi-Tenancy Features""",2.5006998,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-987,5,"""Batch REST API Endpoint and Semantic""",2.5032246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-986,5,"""Need to be able to counts entities without returning them""",2.5066147,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-985,5,"""Ability to block a user""",2.5036879,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-984,5,"""Ability to restrict access to an entity, or entity level permissions""",2.5021267,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-983,5,"""Support for Password Rules in Stack""",2.50737,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-982,5,"""Support for /filename.ext for Binary Assets""",2.49998,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-981,5,"""Support a default content-type for binary assets""",2.4993675,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-980,5,"""Image Reduction""",2.5019264,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-979,5,"""Evaluate and remove {o}/{a}/{c}/index calls from UI and remove if not needed""",2.5036542,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-978,5,"""Login With {Oauth Provider}""",2.5030499,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-977,5,"""Login with Apigee (Edge)""",2.500162,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-976,5,"""Login with Google""",2.5015268,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-975,5,"""Login with Facebook""",2.5033133,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-974,5,"""Support """"Login with {facebook|google|Oauth|} not just """"Signup With..."""" [ICEBOX]""",2.5022376,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-973,5,"""Entity Metadata V2""",2.5070357,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-972,5,"""Ability to initialize the SDK with a Token instead of the Org Name and App Name""",2.500615,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-971,5,"""Docs to send notification to all devices are wrong""",2.4976501,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-970,5,"""Introduce ability to change the 'type/collection' of an entity""",2.4965582,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-969,5,"""Offline Data Sync Support""",2.5001435,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-968,5,"""UX has no way to search for users in the """"Users"""" pane""",2.5022042,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-967,5,"""UI: Ability to reset an App User's password""",2.509191,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-966,5,"""UI appends 'order by created desc""""""",2.5014796,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-965,5,"""App Administrator Role""",2.5036528,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-964,5,"""Optimistic Concurrency Support""",2.494618,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-963,5,"""Consider the ability to lock and unlock an entity for writes/updates""",2.498758,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-962,5,"""Consider using ElasticSearch aggregation query to get a count of entities in a collection""",2.5033717,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-961,5,"""Consider a 'User Store' concept which can be shared between multiple apps""",2.4995158,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-960,5,"""Consider hiding some attributes of documents for different user roles""",2.5010266,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-959,5,"""V2 API Default: Do not return the client ID & secret or the token""",2.509816,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-958,5,"""V2 API: Append to root-level array""",2.5004463,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-957,5,"""V2 API: Select name, uuid where {predicate[]} should be returned in 'entities' not 'list'""",2.5091648,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-956,5,"""V2 API: GET /{app}/{collection1},{collection2},...?ql=select stuff""",2.5082862,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-955,5,"""Consider a 'maintenance' mode where there can be a 4xx/5xx response""",2.5013795,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-954,5,"""Consider introducing the concept of environments""",2.5030332,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-953,5,"""Consider making a 'Data Store' concept """,2.5000231,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-952,5,"""Consider using UUID's and Name mapping for Collections""",2.5062904,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-951,5,"""Update documentation to reflect order of operations""",2.4996943,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-949,5,"""[SPIKE] Migrate Services to Guice""",2.50615,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-948,5,"""[SPIKE] Migrate REST module to Guice""",2.5057664,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-947,5,"""[SPIKE] Migrate Core module to Guice""",2.5046942,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-946,5,"""[SPIKE] Migrate from Astyanax Client to CQL""",2.4992456,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-943,5,"""Document and test S3 export capability""",2.5066094,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-942,5,"""Document steps to enable changing the 'name' attribute of a document""",2.501644,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-935,5,"""Improve handling of reserved-names for collections, such as 'queues'""",2.5035894,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-934,5,"""AWS cluster delay scripts""",2.5080144,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-932,5,"""Implement Cassandra Native/CQL Client [ICEBOX]""",2.5016634,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-931,5,"""Optimize Permissions and Authorization""",2.5027657,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-930,5,"""Evaluate Aggregations on Elasticsearch for Matrix""",2.5033135,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-928,5,"""Evaluate Decomposing the entity manager relation manager""",2.4984355,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-927,5,"""Evaluate Akka""",2.4995556,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-925,5,"""Performance Characterization of Activities""",2.5004783,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-924,5,"""Implement NIO in the Tomcat layer, including dependencies such as SHIRO""",2.501994,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-923,5,"""Test performance/feasibility of compression in cassandra, combined with rowcaching""",2.497558,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-922,5,"""Need a GET on /_entities/UUID to pull back an entity by using only its UUID""",2.5067425,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-920,5,"""Add JMX metrics/timers for REST operations""",2.5007334,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-919,5,"""V2 API: GET /{app}/{collection}/{entity}  and /{app}/{collection}/{entity1},{entity2},...""",2.5052023,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-917,5,"""Consolidate Log4J properties with single (YAML?) configuration file""",2.5057557,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-916,5,"""Update properties & Guicy Figs to support YAML""",2.4975715,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-915,5,"""Rationalize usergrid.cluster_name with deployment architecture""",2.5064824,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-913,5,"""Evaluate Rowcaching in Cassandra""",2.5000362,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-911,5,"""Make Shiro related permissions operations parallel where possible""",2.4972548,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-910,5,"""From Offsite August 2015""",2.5009718,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-906,5,"""2.1 Unable to read previous version app info""",2.4997447,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-905,5,"""Review & Update usergrid-swagger.yaml""",2.503967,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-888,5,"""Validate, update and test all Node.js SDK examples in the Usergrid docs""",2.509218,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-887,5,"""Validate, update and test all Ruby SDK examples in the Usergrid docs""",2.5077808,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-886,5,"""Validate, update and test all JavaScript/HTML5 SDK examples in the Usergrid docs""",2.5090833,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-885,5,"""Validate, update and test all Android SDK examples in the Usergrid docs""",2.5042262,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-884,5,"""Validate, update and test all iOS SDK examples in the Usergrid docs""",2.504508,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-883,5,"""Convert Usergrid docs to Markdown/Sphinx & Update for 2.0""",2.5038772,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-879,5,"""Unable to index an entity with an array with one empty string""",2.5054598,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-874,5,"""[SPIKE] Review Usergrid Documentation""",2.5087934,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-873,5,"""index being created with alias name""",2.50672,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-871,5,"""Refactor Gatling load testing code""",2.5014365,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-870,5,"""Inconsistent results returned while adding another data center to the Cassandra cluster.""",2.501424,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-868,5,"""a entity name with slash [/] that can not be used well""",2.5070055,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-867,5,"""Ability to rename an App""",2.4987907,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-866,5,"""Ability to rename a collection""",2.4951782,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-865,5,"""Release script fails to commit release to SVN""",2.501675,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-864,5,"""Make Collections pane in UI scrollable""",2.5057516,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-859,5,"""QueryTokenException on GET with QL containing quotes""",2.5008109,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-857,5,"""Portal page shows """"Thanks for signing up for a spot on our private beta"""" when registering""",2.4950514,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-856,5,"""POST to root path yields HTTP 500""",2.4992876,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-855,5,"""Update 'Getting Started' in the portal to 'App Overview'""",2.49902,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-853,5,"""Webhook Support [ICEBOX]""",2.5017872,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-852,5,"""Release Automation """,2.4994278,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-850,5,"""Test Case for cursors and the condition where the result set is exhausted.""",2.4998734,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-849,5,"""Investigate and Design architecture for separate indexing queues""",2.5084739,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-848,5,"""Separate Indexing Queues [ICEBOX]""",2.500332,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-847,5,"""UI: Make registration link hiding configurable""",2.5010831,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-846,5,"""Implement the concept of a 'view' for named/static queries""",2.5019827,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-845,5,"""Refactor Push Notifiers""",2.503345,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-844,5,"""Notifiers cannot be deleted in the Usergrid UI""",2.5037303,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-843,5,"""Simplified Support for Background Push Notifications""",2.4973812,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-842,5,"""Updated Push Notification API""",2.496059,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-841,5,"""Push Notification Scalability""",2.5031915,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-839,5,"""Update collectd ElasticSearch plugin to pull cluster-level statistics""",2.5016818,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-838,5,"""Core Persistence""",2.494881,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-837,5,"""Usergrid Management Tooling""",2.5026731,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-836,5,"""Repair Counters in 2.x""",2.5007544,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-835,5,"""Implement QueryBuilder for SDKs""",2.5026908,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-834,5,"""2.x SDK Updates""",2.5020537,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-830,5,"""OLD - Release-2.1.1""",2.5030901,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-829,5,"""Documentation Updates""",2.5033631,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-828,5,"""Websocket Support""",2.499692,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-827,5,"""Security Enhancements & Fixes""",2.5029986,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-826,5,"""Usability Enhancements and Fixes""",2.4951155,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-825,5,"""Use distributed work system for import job""",2.497353,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-824,5,"""Use distributed work system for graph traveral""",2.5022116,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-823,5,"""Use distributed work system for re-index""",2.4999585,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-822,5,"""Use distributed work system for index operations""",2.5005355,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-821,5,"""Implement the basis for a distributed work system""",2.5045812,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-820,5,"""Distributed Work System""",2.5009823,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-819,5,"""Matrix Parameters do not work""",2.498274,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-818,5,"""Fix Matrix Parameter Support""",2.5004263,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-817,5,"""Improve Query Robustness""",2.5044813,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-815,5,"""Storage Management Features""",2.4952817,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-814,5,"""Push Notification Enhancements - 2.1.x""",2.5001566,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-813,5,"""Design REST API V2""",2.505368,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-812,5,"""REST API v2""",2.5055933,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-811,5,"""Implement DeadLetter counter/notification""",2.5057738,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-810,5,"""2.1 Performance""",2.5016267,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-809,5,"""Graph Database Improvements""",2.500595,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-808,5,"""Document JMX MBeans and attributes""",2.5034914,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-807,5,"""Create collectd configuration template for updated JMX metrics""",2.503928,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-806,5,"""Updated Monitoring Infrastructure""",2.5045977,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-805,5,"""2.1 Index Refactor """,2.5048516,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-804,5,"""Third Party Authentication Support [ICEBOX]""",2.5020633,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-803,5,"""Explicit Indexing of Document Attributes""",2.4977725,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-802,5,"""Release 1.0.3""",2.496541,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-801,5,"""Release 2.0.1""",2.4996276,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-799,5,"""Multiregion Elastic Search Support [2.0]""",2.4989004,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-796,5,"""Properties on Graph Edges (Connections)""",2.5020902,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-795,5,"""getVertexes() support for Blueprints API""",2.5001726,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-794,5,"""getEdges() support for Blueprints API""",2.497711,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-793,5,"""Blueprints API Compatibility [ICEBOX]""",2.4988196,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-791,5,"""Re-evaluation connections verbiage and either deprecate or offer alternative (alias) to old terminology""",2.5028348,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-789,5,"""Support single-region delivery of messages in 2.0""",2.5013962,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-786,5,"""LICENSE file should include version numbers for bundled software""",2.5019524,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-784,5,"""Lightweight Management Portal Functionality""",2.4966853,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-783,5,"""Admin Users should be able to remove other admin users""",2.4961228,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-782,5,"""Implement simple RBAC for Usergrid Management Users""",2.5041032,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-781,5,"""Manageability Enhancements""",2.495391,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-762,5,"""Release script not referencing correct commit #""",2.4990096,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-761,5,"""Messages not getting ACK'd to SQS Queue for Indexing""",2.5020359,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-758,5,"""Introduce Semantic Versioning in Build Artifacts""",2.5036879,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-747,5,"""Error with Push Queue on 2.1""",2.4986324,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-742,5,"""Reindex endpoint returns NPE if a payload is not defined""",2.5011547,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-741,5,"""Add Hostname to the response header of API calls""",2.5090606,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-737,5,"""[SPIKE] Identify code/modules which need to be updated from Spring to Guice""",2.4967551,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-736,5,"""Replace Spring with Guice""",2.506867,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-735,5,"""SDK Updates""",2.5007548,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-733,5,"""Improved JMX Counters for Runtime Monitoring""",2.4984035,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-731,5,"""Multi-Region ElasticSearch Implementation [2.1.x]""",2.4976165,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-730,5,"""All tooltips and help icons in the portal are hidden by ng:cloak""",2.5038292,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-723,5,"""UI: Cannot edit permissions""",2.5045185,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-722,5,"""Upgrade JClouds, add connection pool for Central SSO""",2.497715,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-718,5,"""Clean up examples in JS SDK. Fix paths, filenames, and other issues.""",2.5025444,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-717,5,"""Rework flow for adding notifiers to make it simpler and more logical""",2.5025773,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-712,5,"""Explore different graph types for application data on the app overview""",2.5021272,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-691,5,"""Fix Rest""",2.5027916,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-683,5,"""Pare down the AWS SDK modules that get imported""",2.50235,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-674,5,"""Next 1.0 release should be 1.0.2""",2.5010273,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-673,5,"""Ability to configure SSL support in Usergrid""",2.504628,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-668,5,"""1.0.2 Release Completion Steps""",2.4963913,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-665,5,"""Apache Release 1.0.2+""",2.5064793,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-656,5,"""Errors associating assets in 1.0""",2.5002208,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-653,5,"""ElasticSearch Type Mapping per Application""",2.502345,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-649,5,"""REST Endpoint for Flush Cache""",2.5000238,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-648,5,"""Rework usability on signup""",2.4975247,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-646,5,"""Management API Endpoint to list Orgs""",2.5078964,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-638,5,"""Core Tests Passing for release""",2.4957752,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-619,5,"""SPIKE - Confirm entity deletes are functionally working (even if slow)""",2.5016446,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-615,5,"""Inaccurate (or lack of) error message when logging into BaaS""",2.506918,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-611,5,"""Update Default Dynamic Templates in ES """,2.5050454,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-610,5,"""Core Tests...""",2.49729,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-603,5,"""Release 2.1""",2.5017426,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-600,5,"""Enable """"counters"""" to be incremented when posting to any collection""",2.5050492,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-597,5,"""2.0: Disable _all for all ES mappings by default""",2.5052464,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-594,5,"""Add Log messages for checking that we are clearing the log of docs to delete""",2.503321,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-591,5,"""Consider having PUT be a full overwrite of an entity in v2 API""",2.503683,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-583,5,"""Test Document Routing using External Test""",2.5029502,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-574,5,"""Endpoint to reindex an entire Org""",2.4977994,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-571,5,"""App List cached, Using '+ Add New App' problems""",2.5035548,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-569,5,"""Resolve content-length issue with Ping provider in 2.0 codebase.""",2.4995503,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-565,5,"""Evaluate Node Client for next release""",2.4990275,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-564,5,"""Document issues with multi keypsaces on a shared Cassandra cluster""",2.498261,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-562,5,"""Portal functionality to view admin users who have not been activated""",2.502211,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-558,5,"""[FIXED?] Add resume to entity migration""",2.5051806,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-557,5,"""Remove unused CF from V1 of the entity model""",2.5033064,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-547,5,"""Encapsulate Application create, delete and retrieve code""",2.5003579,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-540,5,"""Test Not Passing: EntityManagerFactoryImplIT.testDeleteApplication """,2.499446,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-531,5,"""Asset Information deleted when connections are deleted""",2.5008266,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-525,5,"""During migration AllApplicationsObservable only returns 2 of 4 apps""",2.5074444,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-524,5,"""Implement App & Collection Reindexing by app NAME in addition to UUID""",2.5034173,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-523,5,"""Review the naming conventions we use for collection/connections""",2.503481,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-522,5,"""Support for Partial Indexing of types""",2.500843,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-520,5,"""Separate Grammar parsing, cursor and limit logic within Query""",2.5075417,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-513,5,"""Ensure Indexing with ES is asynchronous""",2.4996538,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-512,5,"""Handle NPEs in the REST tier more gracefully""",2.4958072,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-503,5,"""Abstract search vs. paging in AppEntityIndex""",2.5052228,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-500,5,"""Change version string to enable easier version identification""",2.502058,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-499,5,"""Broken link to contribution page""",2.5043309,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-496,5,"""Create resume functionality in our AllEntitiesInSystemObservable""",2.5010047,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-495,5,"""Test the migration from our current release into the 405 branch""",2.4998868,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-492,5,"""When a newer version of an entity appears before a previous version in candidate results, it is not correctly removed""",2.5040388,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-489,5,"""Field Changes resulting in indexing aren't happening causing query issues.""",2.5034883,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-487,5,"""[SPIKE] Occasionally documents do not appear to be indexed when using the SQS queue impl""",2.5001292,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-485,5,"""2.1 - Rest Tests Must Pass""",2.4999292,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-484,5,"""Introduce doc_values""",2.4979887,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-483,5,"""Change index structure to single index for many apps""",2.5020885,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-482,5,"""Change dynamic mapping to static """,2.4994123,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-481,5,"""Combine Entity to Map conversions in QueryIndex and Collection""",2.5075517,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-480,5,"""Enable doc values in our index writes""",2.5001273,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-477,5,"""ES is having stability issues with high data volumes""",2.5030441,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-476,5,"""Durability of entity writes / Write problem - entities are not necessarily persisted.  Could this be on the unique entity fix?""",2.4981418,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-475,5,"""Monitoring Metrics: Add Metrics to low levels of cass and es""",2.5030415,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-472,5,"""fix array type index issue when types alternate""",2.4962773,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-470,5,"""Implement an upper bound on field delta for a given entity type""",2.5019712,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-469,5,"""[FIXED?] Investigate using a new TimeUUID as our routing value""",2.507976,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-468,5,"""Evaluate G1C garbage collection in a test cluster""",2.5070753,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-467,5,"""Decouple Index module from Collections in runtime.  Retain for testing.""",2.5023046,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-464,5,"""Modify re-index to retain the existing version of an entity""",2.5009444,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-463,5,"""Do not create index if a write alias exists""",2.5058084,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-459,5,"""Ensure Failed/Rejected ES Index jobs are communicated to the caller of the REST API""",2.5011768,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-458,5,""" Cannot read property 'applications' of undefined""",2.5056813,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-453,5,"""Test Elastic Search with Different Versions of JVM""",2.504598,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-452,5,"""Upgrade to Java 8 """,2.502105,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-441,5,"""REST tests: Credentials.java uses wrong key names""",2.4992447,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-431,5,"""Customer Issue: Store Locator sorted in reverse""",2.498816,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-429,5,"""two-dot-o Entity returned in improper format""",2.5007472,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-428,5,"""Consider changing log level of  collectiontasks task queue full, rejecting task...""",2.5012665,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-427,5,"""Fix way properties are stored in Entity class of new REST test framework""",2.502643,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-426,5,"""Fix GeoPagingIT#groupQueriesWithConsistentResults""",2.505857,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-424,5,"""Change AppInfo lookup to use Cassandra""",2.5012312,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-421,5,"""Rewrite AccessTokenIT using the new test framework.""",2.5014164,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-420,5,"""Rewrite AdminUsersIT using new test framework""",2.503442,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-411,5,"""[FIXED?] Fix default index routing rules""",2.503085,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-410,5,"""Two phase cassandra keyspace write""",2.5042846,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-408,5,"""Create a shard balance system for elasticsearch""",2.502363,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-407,5,"""Index allocation incorrectly re-allocates the default index""",2.5007906,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-404,5,"""Fix the Usergrid Tools """,2.505519,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-397,5,"""Fix REST tests for use with Arquillian. """,2.5075016,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-394,5,"""Implement Batching Api in Core Persistence""",2.5029058,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-392,5,"""Could not retrieve unique value for field name, unable to verify""",2.5063124,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-391,5,"""Change log message level from log to debug""",2.5002704,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-389,5,"""Import Service not setting job to failed after having a failing file""",2.4991775,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-378,5,"""Test updating entities identified by name""",2.5019855,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-377,5,"""Implement error handling for import and put tests in place to verify""",2.501057,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-376,5,"""Test that you can update entities by importing""",2.5020232,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-374,5,"""Get basic import collections with connections work""",2.5038366,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-373,5,"""Google+ login provider""",2.505154,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-370,5,"""[FIXED?] Use ElasticSearch Filters instead of Term Query for exact matches""",2.5071461,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-369,5,"""Add cursor code in response when querying specific enity properties""",2.5040674,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-368,5,"""A connection timeout to the configured mail server causes POST requests to /management/organizations to block""",2.5004826,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-367,5,"""Refactor entity writes to run concurrently""",2.494731,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-366,5,"""Eliminate 2 network calls for non optimistic transaction writes""",2.502795,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-365,5,"""Optimize Entity Storage""",2.4982703,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-364,5,"""Get Import Service working with old queue system in 2.0""",2.4948251,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-363,5,"""Provide REST test for Import Service""",2.5027475,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-362,5,"""Update UserResourceIT to use latest REST test framework""",2.504975,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-359,5,"""[SPIKE] Perform profiling of the Entity Manager and Relation Manager""",2.501421,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-358,5,"""LICENSE and NOTICE to fix before 1.0.2 or next release""",2.506658,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-357,5,"""2.x Performance""",2.5012708,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-356,5,"""2.x Stability""",2.5031407,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-355,5,"""Judo Chop""",2.5061069,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-354,5,"""Easy bugs and issues""",2.5008178,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-353,5,"""Portal -fit and finish""",2.4993498,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-352,5,"""Go over import job, make sure it works""",2.4975839,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-351,5,"""Implement App Delete for Usergrid 1 codebase""",2.5059881,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-344,5,"""Fix DuplicateNameIT""",2.5022316,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-339,5,"""Fix PermissionsResourceIT""",2.5022116,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-337,5,"""Fix GroupResourceIT""",2.5026968,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-331,5,"""Fix AdminEmailEncodingIT by integrating it with new REST test framework""",2.507381,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-330,5,"""Fix GeoPagingTest cast issue""",2.502019,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-329,5,"""Fix RetrieveUsersTest by integrating it with new REST test framework""",2.5029416,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-328,5,"""Fix ConnectionResourceTest by integrating with new REST test framework.""",2.4966924,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-327,5,"""Fix DuplicateNameIT test by integrating it with new REST test framework""",2.5060413,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-326,5,"""Fix PartialUpdateTest by integrating it with new REST test framework.""",2.4976285,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-325,5,"""Fix NotificationIT Tests by integrating it with new REST test framework.""",2.5008686,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-323,5,"""Implement Windows phone push notifications""",2.4996278,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-322,5,"""Collection Pointers""",2.5034845,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-321,5,"""Bring Dot-Net SDK into license policy compliance""",2.507349,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-320,5,"""Add more meaningful query logic tests""",2.505959,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-319,5,"""3 Add support for matrix queries to REST test framework""",2.50204,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-318,5,"""URI for helpJson.json is absolute""",2.5020547,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-317,5,"""api_url not working in portal""",2.5036519,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-315,5,"""Usergrid Launcher's Portal is 404""",2.5076084,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-314,5,"""Remove CDDL/GPL file from Usergrid Launcher""",2.5049763,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-313,5,"""Convert ConnectionResourceTest/OwnershipResourceIT/Permissions to new Rest Framework""",2.5054443,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-312,5,"""Implement App Delete in Usergrid 2 codebase """,2.5053437,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-311,5,"""Update remaining groups tests""",2.4932973,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-310,5,"""Update REST tests for Activities and Devices""",2.4962046,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-309,5,"""org-id with app-name not working """,2.5041409,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-308,5,"""Clean up Launcher/Standalone JAR [ICEBOX]""",2.501256,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-307,5,"""Sub-groups""",2.5052333,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-306,5,"""Group permissions not working for users""",2.5046957,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-305,5,"""Leverage cassandra credentials when creating a cluster instance""",2.505093,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-304,5,"""Fix Paging test using new REST test framework""",2.4988956,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-303,5,"""Upgrade remaining query tests to work with the new REST test framework""",2.4961667,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-302,5,"""Update Group Tests to work with new REST Test Framework""",2.501422,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-301,5,"""'contains' queries should support wildcards (2.1)""",2.5052404,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-300,5,"""Clean up REST tests""",2.4991922,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-299,5,"""Create way to get management token and store it using the rest test framework""",2.5023637,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-298,5,"""test""",2.500398,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-297,5,"""Implement Application methods in Management Class for REST tests""",2.4992816,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-296,5,"""Create ways to create users in new REST test framework""",2.5024872,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-295,5,"""Create ways to post organizations using new REST test framework""",2.5038095,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-293,5,"""Oversee release of 1.0.1""",2.5012453,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-292,5,"""Implement delete collection""",2.5010185,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-291,5,"""Update Users Tests to work with new REST test framework""",2.5045168,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-290,5,"""Add recaptcha to account creation""",2.504621,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-289,5,"""Implement delete app""",2.5056539,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-288,5,"""Update GEO Tests to work with new REST test framework""",2.499829,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-287,5,"""Remove Administrator role as a default option when creating a new app""",2.5043547,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-285,5,"""Implement Token methods in Management Class for REST tests""",2.5022826,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-284,5,"""[SPIKE] Research a distributed cache""",2.497049,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-282,5,"""Update Query Tests to work with new REST test framework""",2.4969099,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-279,5,"""Update Browser Compatibility to work with new REST test framework""",2.4952526,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-278,5,"""Implement Organization methods in Management Class for REST tests""",2.5040398,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-276,5,"""Implement Collection/Entity calls for new REST testing framework""",2.5033035,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-274,5,"""add more index protections when creating an alias""",2.5058296,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-272,5,"""Investigate why OrganizationResource.getApplicationByName is taking so much wall time""",2.5062652,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-271,5,"""Optimize AbstractService.importEntities""",2.500404,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-270,5,"""[SPIKE] Re-investigate permission caching""",2.4959142,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-269,5,"""fix broken notifications services test""",2.5021038,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-268,5,"""3 Rework broken Migration tests in two-dot-o branch""",2.5010777,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-267,5,"""Rework broken Scheduler Tests in two-dot-o branch""",2.4989529,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-266,5,"""Test Delete on Aliases""",2.5059724,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-265,5,"""Create code formatting guidelines""",2.501729,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-264,5,"""Clean up core geolocation tests""",2.499874,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-261,5,"""Review the counter code in NodeShardApproximationImpl""",2.4998603,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-260,5,"""composition vs inheritance for the apiresponse json node deserialization""",2.50611,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-259,5,"""Generify the ApiResponse so we can return any type of class""",2.5042377,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-258,5,"""Organization list limited to 10 when logged in as the super admin""",2.5002582,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-257,5,"""Password reset doesn't work without recaptcha keys in props file, but it should""",2.5047822,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-256,5,"""Use ApiResponse to parse out JsonNode responses""",2.5016181,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-255,5,"""5 Re-indexer That Removes Source from ES""",2.5021398,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-254,5,"""1 Add Event system to Collections module, use it to clean up old indices""",2.506485,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-253,5,"""Superuser token not working correctly""",2.499158,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-252,5,"""Finish gatling cloudformation and perform more load testing""",2.507364,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-251,5,"""Add aliases for indexes""",2.5029976,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-250,5,"""Entities larger than an unsigned short cannot be loaded properly""",2.5021977,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-248,5,"""Provide package for portal site.""",2.496211,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-247,5,"""Default config.js should not point to apigee""",2.5031483,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-246,5,"""Reset master to 1.0.1-SNAPSHOT""",2.4946127,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-245,5,"""Improvement document system""",2.4986668,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-244,5,"""Support SSL connections from cassandra client to cluster""",2.5032156,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-243,5,"""Support optional configuration for using cassandra client authentication""",2.4980068,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-242,5,"""Fix website documentation issues around configuration""",2.5064244,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-240,5,"""Implement multiget on Entity load""",2.4948874,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-239,5,"""Modify the unique property verification to use multi get""",2.5040781,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-234,5,"""two-dot-o: Counters to not appear to be working in Portal""",2.5020146,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-233,5,"""two-dot-o Portal build fails with uglify error""",2.506475,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-232,5,"""[FIXED?] ElasticSearch num shards and num replicas should be configurable""",2.5091534,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-229,5,"""Would be nice if the default data directory was configurable - possibly as a command line flag on startup""",2.5076902,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-228,5,"""Portal should not give username/password error when error was due to some other problem""",2.5056665,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-227,5,"""Usergrid should give better errors if it fails due to a port conflict on Launcher startup""",2.5047672,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-226,5,"""Real Websocket protocol implementation""",2.5025806,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-225,5,"""Portal will not allow $ in permission paths""",2.5045342,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-224,5,"""AppleJavaExtensions missing from Maven""",2.5027695,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-223,5,"""HTML / Javascript link on webpage doesn't point to the right place""",2.5036633,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-222,5,"""Investigate and address numerous stack traces in UG test output""",2.5045075,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-221,5,"""Fix query-validator in 2.1""",2.5027156,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-220,5,"""Fields with a space in the property name cannot be searched""",2.5057547,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-219,5,"""Add license headers for all Java Files""",2.5077147,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-218,5,"""Add license headers for all x-c scripts""",2.5025227,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-217,5,"""Add license headers for all x-sh scripts""",2.5036922,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-214,5,"""Fix ServiceInvocationIT.testServices() test in two-dot-o branch""",2.502208,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-213,5,"""inconsistent api when setting ttl for token """,2.5017822,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-209,5,"""Fix JSP processing in two-dot-o branch""",2.4992015,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-208,5,"""License headers for all XML files""",2.5076158,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-207,5,"""Fix  license headers in portal Angular.js files""",2.505662,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-206,5,"""Change links on usergrid website to point to incubator usergrid git page""",2.5092006,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-205,5,"""Add an event to the job interface to signal the scheduler giving up""",2.5024824,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-204,5,"""Remove Highcharts from Admin portal since its license is not allowed""",2.5077832,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-203,5,"""Create Usergrid master branch job on builds.apache.org""",2.5045507,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-202,5,"""[CHOP] Complete documentation for AMI creation""",2.497479,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-201,5,"""Incorrectly Parsed Emails""",2.5095916,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-200,5,"""Property file settings aren't properly labled""",2.5027015,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-199,5,"""Perform acceptance and load testing on graph edges""",2.4985313,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-198,5,"""Perform load testing of graph edges""",2.4995613,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-197,5,"""[CHOP] Provide mechanism for providing AWS creds to cluster instances""",2.5039032,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-196,5,"""Tag code for 1.0 release, verify and upload""",2.4940329,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-195,5,"""[CHOP] Implement functionality to provide setup script to runners as we do in cluster instances""",2.502665,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-194,5,"""Improve the testcases in ExportResourceIT""",2.4985876,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-192,5,"""Make Core Persistence easily configurable""",2.5027814,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-191,5,"""Explore using chronos as job scheduler.""",2.503612,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-190,5,"""Make sure release follows disclaimers in podling branding guide""",2.5035977,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-189,5,"""Make sure Checksums and PGP signatures are valid on first release""",2.5005505,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-188,5,"""Implement shard rolling logic""",2.509449,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-187,5,"""Portal: Update links to point to Usergrid docs instead of Apigee""",2.5108657,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-186,5,"""Uploading .zip file via Assets API fails""",2.5052803,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-185,5,"""Port UG-specific components of Apigee Android SDK to UG Android SDK""",2.5028465,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-184,5,"""JS SDK: Add support to get connected entities""",2.503873,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-183,5,"""iOS SDK: Add support to get connected entities""",2.5003872,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-182,5,"""Reconcile 2 config systems (UG and new CP) - go back to just one""",2.5045784,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-181,5,"""Update toc on docs site to reflect the new docs set""",2.498811,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-180,5,"""Port existing UG-specific docs from Apigee to UG site""",2.5053968,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-177,5,"""Fix the usergrid project so that it runs cleanly with Java 1.8""",2.507797,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-176,5,"""Fix Usergrid so that it works with maven 3.2""",2.5061376,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-175,5,"""Import/Export""",2.4982786,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-174,5,"""NOT query with single term does not page correctly internally""",2.4996932,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-173,5,"""change password doesn't work""",2.5041306,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-172,5,"""Perl SDK - Admin users and organizations""",2.5029008,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-171,5,"""Perl SDK - Access tokens""",2.5019283,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-170,5,"""Perl SDK - Users, groups and roles""",2.500277,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-169,5,"""Perl SDK - Activities & Events""",2.5041032,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-168,5,"""Perl SDK - Collections (other than users, groups and roles)""",2.5007193,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-167,5,"""Add admin login functionality in javascript SDK""",2.5061088,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-166,5,"""[CHOP] Coordinator tries to start tests with unregistered runners""",2.5041134,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-165,5,"""Fix Export Tests""",2.4959674,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-164,5,"""Remove queue events""",2.508439,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-163,5,"""[SPIKE] Prototype an eventually consistent unit of work structure""",2.5006666,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-162,5,"""Implement Counters for Entity Manager""",2.5029254,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-159,5,"""profile update failing in portal""",2.5002937,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-158,5,"""Entity manager can now use roles""",2.498032,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-157,5,"""[CHOP] Make cluster information available in chopped tests""",2.5031075,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-156,5,"""[CHOP] Add failover capability for clustered elastic search storage on coordinator""",2.5037816,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-155,5,"""Implement Entity Delete Listener in Usergrid Core""",2.505828,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-154,5,"""Implement a simple counter cache""",2.499639,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-153,5,"""Make publishing and subscribing to events easier""",2.4996278,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-152,5,"""[CHOP] Support external elastic search storage for webapp""",2.4989944,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-151,5,"""Perl SDK""",2.4978807,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-150,5,"""[CHOP] Destroy operation fails on us-west AWS region.""",2.5042171,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-149,5,"""[CHOP] Cannot read stack.json of a redeployed runner.jar""",2.503312,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-148,5,"""Update search api with IndexScope""",2.50768,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-147,5,"""[CHOP] Cleanup on chop""",2.501132,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-146,5,"""[CHOP] Provide auto-injected environment parameters in cluster setup""",2.5053551,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-145,5,"""[CHOP] Resolve xml parser dependency issue""",2.50068,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-144,5,"""Assets: File meta not refreshed after PUT""",2.5025,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-143,5,"""[CHOP] Webapp shows empty page for url /VAADIN""",2.498095,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-142,5,"""Some unit tests are not running in the project""",2.4963288,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-141,5,"""[CHOP] Improve UI usability""",2.49758,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-140,5,"""Implement write of Partial Updates for Collection Manager""",2.5010076,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-139,5,"""Repair - implement code to delete old versions of the entity out of cassandra""",2.50227,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-138,5,"""Implement Start, Stop, Reset, Destroy operations on chop""",2.5004158,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-137,5,"""Complete setup stack operation on chop coordinator""",2.5016499,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-136,5,"""Jsch based SSH commands in chop-client sometimes fail on setup""",2.5062108,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-135,5,"""Import Judo Chop into Usergrid repository after SG is received """,2.499632,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-134,5,"""Portal - New collections are not immediately shown when created in Data area""",2.5079832,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-133,5,"""Data section of Portal UI not allowing deletes - UUID is doubled""",2.5052307,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-132,5,"""update environmental config for javascript""",2.5028427,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-131,5,"""Core Persistence Query Index module should use multi-get to get query results""",2.499053,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-130,5,"""Make menus templated """,2.5000827,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-129,5,"""Implement Application References and Application UUID returns""",2.503118,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-128,5,"""Implement dictionaries """,2.5018857,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-127,5,"""Implement RelationManager using Core Persistence""",2.5017614,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-126,5,"""Not able to login to usergrid after deploying in tomcat""",2.5047736,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-125,5,"""FInal pass on License headers for UG Stack""",2.503011,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-124,5,"""Add Apache license headers to PHP SDK""",2.5092592,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-123,5,"""Usergrid github area should link to Apache UG SIte""",2.5056977,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-122,5,"""Parent issue for UG 1.0 Release""",2.5012755,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-121,5,"""Implement Graph Edge queries in Core Persistence""",2.5039194,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-120,5,"""Use one ES index per application in Core Persistence Query Index""",2.5040007,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-119,5,"""Automate create of Usergrid release bundles""",2.5081658,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-118,5,"""Add Apache license headers to Java SDK""",2.5068922,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-117,5,"""Add Apache license headers to UGC""",2.5025403,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-116,5,"""Add Apache license headers to Ruby-Rails SDK""",2.5076163,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-115,5,"""Add Apache license headers to Ruby SDK""",2.5070176,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-114,5,"""Add Apache license headers to iOS SDK""",2.5018935,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-113,5,"""Add Apache license headers to Android SDK""",2.5072074,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-112,5,"""Add Apache license headers to .NET SDK""",2.505174,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-111,5,"""Add license headers to JavaScript and Node.js SDKs""",2.504739,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-110,5,"""Add license headers to Admin Portal""",2.506407,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-109,5,"""Add contextual help to usergrid""",2.5063922,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-108,5,"""Portal ignores the api_url URL parameter""",2.506694,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-107,5,"""Implement commit logging and sharding on graph edges""",2.504088,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-106,5,"""Removing dynamic menus""",2.5007443,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-105,5,"""Add contextual help to usergrid portal""",2.5076191,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-104,5,"""Implement EntityManager with Core Persistence""",2.5034666,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-102,5,"""Upgrade to JAX-RS 2.0 (jersey 2.x)""",2.5026233,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-101,5,"""Enhance performance in 3rd party auth module""",2.5022826,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-100,5,"""iOS SDK - Add license headers to all source files as required by ASF policies""",2.5010805,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-99,5,"""Allow for the ability to set query parameters that will be sent for all requests""",2.5023737,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-97,5,"""Counter cannot be reset""",2.5037277,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-96,5,"""DELETE on a connection fails with """"unauthorized""""""",2.5076346,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-95,5,"""Queries with more than 11 parameters give null pointer exception""",2.5017014,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-94,5,"""NPE when creating relationships between entities with spaces in names""",2.50912,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-93,5,"""failing tests in rails sdk""",2.5083363,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-92,5,"""Create seralization toByteBuffer and fromByteBuffer""",2.4986773,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-91,5,"""Enforce callback consistency for API calls in JS SDK""",2.5055041,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-90,5,"""Collection Manager - Binary Serialization""",2.5032384,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-89,5,"""Add Export functionality""",2.4973874,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-88,5,"""Performance test to compare new Core Persistence with old Entity Manager""",2.5012608,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-87,5,"""Implement Multi-get in EntityCollectionManager (two-dot-o)""",2.505591,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-86,5,"""Remove restriction on 10 apps in the portal""",2.4978127,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-85,5,"""Create and implement a distributed async consistency gaurentee""",2.5026078,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-84,5,"""Query and Index module for two-dot-o""",2.5048802,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-83,5,"""Replace GPL-based Inflector.java with something ASF license compatible""",2.5064077,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-81,5,"""Unable to build the launcher project""",2.5022633,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-80,5,"""Documentation for running GUI launcher and standalone server""",2.4986048,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-79,5,"""login call does not return all the user's data, but it should""",2.4972422,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-78,5,"""Create a Homebrew recipe for Usergrid""",2.5046406,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-77,5,"""can't login for newly created user due to NPE""",2.5103269,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-76,5,"""/collection/id path that do not exist should return 404, not 401""",2.5048735,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-75,5,"""deactivate user failed with eof""",2.4982977,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-74,5,"""TTL value is set in seconds instead of milliseconds""",2.5028186,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-73,5,"""Binary file upload may not be buffering to disk correctly, holding the file in memory""",2.4975955,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-72,5,"""Query for semicolon-separated UUID/name array does not return the specified UUIDs and also returns more than specified. (Muliti-get)""",2.5082827,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-71,5,"""Queries with incorrect syntax should return a 400 error""",2.50743,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-70,5,"""Geo-location queries with more than two parameters return only the first page of data""",2.5093715,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-69,5,"""Local file store for binary does not create a checksum""",2.5037208,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-68,5,"""Schema.java doesn't migrate new CF's properly""",2.5033917,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-67,5,"""String properties with a plus in them do not match the """"="""" clause, but match """"contains""""""",2.5003262,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-66,5,"""If you pass something that's not a cursor as a cursor, the error is unclear""",2.5030184,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-65,5,"""Graph is limited to only one entity which limits query ability""",2.5046263,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-64,5,"""Can't set """"activated"""" to false on App-level user creation""",2.5022187,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-63,5,"""JSON parse failure on POST should not return HTTP 500 error""",2.5028706,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-62,5,"""NPE when service is invoked via query""",2.5063207,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-61,5,"""Query of collection with 6000+ entities produces a NullPointerException""",2.5071573,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-60,5,"""Ensure write consistency via Persistent timeout Q """,2.4978282,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-57,5,"""Assets end-point name should not be capitalized and case-sensitive""",2.5040889,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-55,5,"""Implement directed edges for a graph API""",2.5049508,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-54,5,"""Remove old dead code and fully utilize guicy fig""",2.505976,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-53,5,"""Add config property to enable HTTP -> HTTPS redirection""",2.5027652,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-52,5,"""Add optimistic transaction semantics to the Core Persistence verify stage""",2.4952323,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-50,5,"""Query language issue on numeric comparison""",2.5071366,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-49,5,"""Adding admin user - username seems to default to email address""",2.502027,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-48,5,"""Perform the same load, delete, and search tests with ES refresh parameter""",2.497581,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-47,5,"""Setup test to determine the time between load and search availability""",2.5001276,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-46,5,"""Setup Judo Chop entry search test for UG Elastic Search""",2.5003333,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-45,5,"""Setup Judo Chop entry delete test for UG Elastic Search""",2.5027204,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-44,5,"""Add ElasticSearch and RAID to PriamCluster test setup""",2.4987812,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-43,5,"""Setup Judo Chop entry load test for UG Elastic Search""",2.500909,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-42,5,"""Overhaul all pom.xml files""",2.501378,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-41,5,"""Usergrid Javascript SDK fails to work on android web browser in android versions < 4.2.2""",2.5004706,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-39,5,"""Funky error message when I create a role without a name""",2.5071185,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-38,5,"""Failure to recognize 'username' property while creating app user""",2.506916,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-37,5,"""slow running/timing out location queries""",2.5064907,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-36,5,"""Add support for Maven 3.1.x and 3.2.x""",2.502357,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-34,5,"""""""No properties found for entity"""" warnings in log when creating an application""",2.5034468,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-33,5,"""Queries using NOT are not efficient""",2.501935,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-32,5,"""500 error returned by endpoint /management/users/{id}/confirm""",2.503854,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-31,5,"""500 error returned by endpoint /management/users/{id}/confirm""",2.5040915,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-28,5,"""Connecting users to activities results in an error""",2.5021787,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-25,5,"""Unable to set token ttl. Defaults to 604800""",2.4982908,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-22,5,"""Null pointer error returned when non-existant property name with spaces used""",2.5097961,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-20,5,"""management/token response invalid json with unescaped double quotes""",2.4987702,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-18,5,"""null pointer response when adding entity to collection by name""",2.5071309,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-15,5,"""Add installation instructions to docs""",2.504857,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-14,5,"""Support Java 7 on Mac""",2.501506,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-13,5,"""Automatic sync from Github usergrid/usergrid to Apache Git""",2.4989502,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-12,5,"""Improving query-validator modules and fixes test case""",2.5083034,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-11,5,"""Limit the size of entities posted to Usergrid""",2.501195,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-10,5,"""Add unit test framework to JavaScript SDK""",2.5005524,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-9,5,"""Refactor - 2.0""",2.5024014,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-8,5,"""Work out Usergrid 2.0 Roadmap""",2.506729,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-7,5,"""Create Jira components""",2.505489,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-6,5,"""upgrade jackson dependencies to com.fasterxml.*""",2.4989712,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-5,5,"""Address deprecation and declatred but unused dependencies when executing mvn dependency:analyze""",2.5011008,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-4,5,"""Add license headers to all source files as required by ASF policies""",2.5034823,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-3,5,"""Add NOTICES.txt file to repository""",2.5004058,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-2,5,"""Change package namespace to org.apache.usergrid""",2.5064158,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+USERGRID-1,5,"""Import code from github/usergrid into appropriate repository""",2.49693,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1

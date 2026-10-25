@@ -1,0 +1,36 @@
+{
+  "project_id": 5,
+  "project_key": "USERGRID",
+  "total_rows": 1339,
+  "labeled_rows_raw": 487,
+  "unlabeled_rows_raw": 852,
+  "missing_title": 0,
+  "missing_description": 342,
+  "non_numeric_labels": 0,
+  "label_stats": {
+    "count": 487.0,
+    "mean": 2.8234086242299794,
+    "std": 1.4263922818552297,
+    "min": 0.0,
+    "25%": 2.0,
+    "50%": 3.0,
+    "75%": 3.0,
+    "max": 8.0
+  },
+  "zero_labels": 5,
+  "fractional_labels": 0,
+  "labels_gt_100": 0,
+  "issue_type_counts": {
+    "Story": 282,
+    "Bug": 200,
+    "Technical task": 2,
+    "Epic": 1,
+    "Wish": 1,
+    "Improvement": 1
+  },
+  "flagged_rows_distinct": 154,
+  "excluded_rows": 0,
+  "labeled_clean_rows": 487,
+  "unlabeled_rows": 852,
+  "preprocessing_version": "v1"
+}

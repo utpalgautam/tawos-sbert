@@ -1,0 +1,698 @@
+issue_key,project_id,title,predicted_story_point,encoder_checkpoint,model_version
+STL-1711,27,"""Go SDK should not require a protobuf package in the Go path""",2.2477548,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1710,27,"""Transactions are processed only in pairs""",2.2423916,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1709,27,"""""""minimum-peer-connectivity"""" option being ignored by Validator""",2.2502074,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1708,27,"""GPB as a transaction transport protocol""",2.2468824,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1707,27,"""Custom transaction processor startup""",2.2486744,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1706,27,"""Sawtooth - PBFT - Catchup Stalls""",2.246985,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1705,27,"""Sawtooth REST API Error - GET /blocks Does Not Accept `start` parameter""",2.246581,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1704,27,"""Connection tracking is not stable""",2.24727,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1703,27,"""Block syncing issue with the validators""",2.2416692,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1702,27,"""'State from block %s requested, but root hash %s was missing""",2.2458076,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1701,27,"""Exception in validator.""",2.2511346,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1700,27,"""Memory runs out on block catchup if backlog is too high""",2.2483063,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1699,27,"""could not start seth-rpc with the command in the documentation""",2.2474964,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1698,27,"""DockerHub repos have not been updated in the last year. Consider updating.""",2.2435837,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1697,27,"""DockerHub repos have not been updated in the last two years. Consider deleting or updating""",2.2461445,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1696,27,"""DockerHub repos not updated for three years: consider deleting or updating""",2.2450385,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1695,27,"""Consider deleting unused DockerHub repos.""",2.2492504,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1694,27,"""void""",2.2470114,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1693,27,"""void""",2.2498798,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1692,27,"""void""",2.2470114,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1691,27,"""void""",2.2470114,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1690,27,"""Docs: Error instead of help output in sawtooth-validator CLI reference""",2.2473698,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1689,27,"""PBFT engine storage location config stuck to """"memory""""""",2.2456279,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1688,27,"""Sawtooth Contrib Repo""",2.248916,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1687,27,"""Implement the Sawtooth Contrib Repo""",2.2472463,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1686,27,"""Build the Sawtooth Contrib Repo""",2.246094,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1685,27,"""Define the Sawtooth Contrib Repo""",2.2478855,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1684,27,"""Sawtooth ubuntu apt installation fails on ubuntu 18""",2.2477477,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1683,27,"""javascript sdk monorepo""",2.25132,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1682,27,"""Docs: Fix batch completeness info in Arch Guide - Journal - The Completer""",2.2427728,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1681,27,"""Docs: Add info on event_data field in App Dev Guide/About Events""",2.24535,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1680,27,"""Bad key in sawtooth.settings.vote.authorized_keys prevents genesis block creation""",2.2508438,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1679,27,"""Evaluate Heartbeat logging for an idle network""",2.2473936,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1678,27,"""Enable Heartbeats over all ZMQ connections""",2.2468495,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1677,27,"""Validate sawtooth.consensus.pbft.members before applying""",2.251674,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1676,27,"""Reject Transaction by TP causes loops of retry""",2.2431817,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1674,27,"""Batches containing transactions with dependencies failing""",2.2431295,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1673,27,"""Reorder block validation in validator""",2.2488208,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1672,27,"""Support offchain configuration for the pbft members.""",2.2502475,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1671,27,"""Publish chime-nightly docker images for all components""",2.2477264,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1670,27,"""Remove Rust Nightly""",2.2514353,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1669,27,"""Cannot Subscribe to Event Transactions""",2.2464006,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1666,27,"""Rerun PoET LR with Patch""",2.2518115,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1664,27,"""Validator sends duplicate block to consensus engine""",2.244007,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1663,27,"""seth-rpc uses hard-coded version number""",2.2469323,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1662,27,"""seth-tp doesn't have a -V or --version flag""",2.2533617,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1661,27,"""Rust version of settings-tp doesn't log to /var/log/sawtooth/""",2.2452312,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1660,27,"""Rest API crashes when no content-type header is found""",2.2502599,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1658,27,"""Seth builds again private fork of Burrow, not Hyperledger version""",2.2480478,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1657,27,"""Inconsistent data type for block numbers """,2.2457075,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1656,27,"""Backport consensus message queue fix to 1.1""",2.246317,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1655,27,"""Batch stay with PENDING state""",2.2469363,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1654,27,"""Validator & engine comes to a standstill after Publish log """,2.249143,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1653,27,"""Key error during fork resolution""",2.242509,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1652,27,"""Fix sabre-tp version string""",2.2511039,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1651,27,"""Future timeout error on summarize block""",2.2415586,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1650,27,"""Default poet docker compose file validator registration issue""",2.248797,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1643,27,"""PBFT can't handle blocks received out of order""",2.24691,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1642,27,"""Publish Java sdk""",2.2500663,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1640,27,"""Update core doc links for PBFT and Sabre to latest""",2.2460847,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1639,27,"""Update the Sawtooth Core Docs for PBFT Consensus Version""",2.2434015,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1638,27,"""Update PBFT Version Number""",2.2440796,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1637,27,"""Write PBFT Blog for Chime Release""",2.2478597,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1636,27,"""Write Chime Release Notes""",2.245404,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1635,27,"""Write Chime Release Blog Post""",2.2473402,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1634,27,"""Create Jenkins Nightly Docker Job""",2.2471366,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1633,27,"""Update Doclinks for the Chime Release""",2.2488604,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1632,27,"""Tag all Repos for Chime Release""",2.2516413,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1628,27,"""Implement add logs to Transaction Receipts.""",2.245038,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1627,27,"""Write RFC for Logs in Txn Receipt """,2.2473636,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1626,27,"""Implement SDE SDK""",2.247139,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1625,27,"""SDE SDK RFC""",2.2542503,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1624,27,"""Implement Key/Value SDE process""",2.2478478,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1623,27,"""Key/Value SDE process RFC""",2.2531812,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1622,27,"""Implement Key/Value State Wrapper""",2.249915,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1621,27,"""Key/Value State Wrapper RFC""",2.2501352,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1620,27,"""Simplifed API for State/SDE""",2.2493176,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1619,27,"""PBFT lr7 10 node chime testing""",2.250907,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1618,27,"""AWS Marketplace image can't process transactions""",2.2466989,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1617,27,"""Broken link for JavaScript SDK in documentation""",2.2476392,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1616,27,"""Update the Grid contracts to be able to log""",2.2514722,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1615,27,"""Release Sabre 0.4""",2.2515807,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1614,27,"""Update Sabre Version number to 0.4""",2.2550004,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1613,27,"""Compilation error 'Unable to detect OpenSSL version'""",2.2476664,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1612,27,"""Chime poet-engine error""",2.248874,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1611,27,"""Include javadocs for client library and transaction processor""",2.250703,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1610,27,"""Change Default Key of sawset CLI, or make """"--key"""" Mandatory""",2.2474813,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1609,27,"""Contexts leaked on Unscheduled, Inflight Transactions""",2.2473211,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1605,27,"""Publish mobile Swift SDK tutorial""",2.2513347,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1604,27,"""Publish Swift SDK autogenerated docs""",2.2497487,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1603,27,"""Expose all capablities of the TransactionContext to a Sabre Smart Contract""",2.2483425,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1602,27,"""Properly marshall TpProcessRequest through entrypoint""",2.2461174,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1601,27,"""Update documentation on how to make smaller WASM files""",2.2521405,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1600,27,"""Add commands to the Sabre cli to list/show components""",2.2510645,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1599,27,"""On Execute, check request input/outputs against namespace permissions""",2.247014,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1598,27,"""Update Sabre docker-compose file to use validator-key volume""",2.251606,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1597,27,"""Add rust linting to Sabre""",2.2517314,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1596,27,"""Create tools to allow sabre contracts to be submitted into genesis block""",2.256991,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1595,27,"""Update CliError to use source""",2.254411,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1594,27,"""Update remaining code in Sabre to be rust edition 2018""",2.2525144,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1593,27,"""Add running unit tests to the sabre Jenkinsfiles""",2.2523105,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1592,27,"""Add unit tests for Sabre TP""",2.2537162,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1591,27,"""Replace all instances of agunde406/rust-crypto with rust-crypto-wasm""",2.2532282,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1590,27,"""Write How to Doc on Smart Permissions""",2.2493227,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1589,27,"""Add compatiblity section to Sabre Doc index""",2.2547467,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1588,27,"""Sabre 1.0""",2.2510552,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1587,27,"""Add CI test for cargo packaging for packages that are published to crates""",2.2538214,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1586,27,"""Describe node catch-up for PBFT doc""",2.2447078,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1585,27,"""Update release name & number in docs for Chime release""",2.2436745,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1584,27,"""Test Sys Admin multinode procs with PoET""",2.245883,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1583,27,"""Test Sys Admin multinode procs with PBFT""",2.2502823,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1582,27,"""Test App Dev multinode procs with PoET""",2.249395,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1581,27,"""Test App Dev Multinode Procs with PBFT""",2.2508378,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1580,27,"""Send community-architects a note about the upcoming release""",2.242362,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1579,27,"""Document Ubuntu 18/bionic support""",2.245586,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1578,27,"""Add links to mobile Swift SDK docs""",2.2459583,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1576,27,"""Link Swift Signing API docs to client tutorial docs""",2.2474835,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1575,27,"""Define list & priority of Troubleshooting Guides""",2.2452846,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1573,27,"""Devmode Consensus Engine Configuration Issue""",2.2483423,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1572,27,"""Disk storage increased exponentially and low performance (sawtooth-seth)""",2.2506123,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1571,27,"""Add sawtooth-sdk-swift to Jenkins""",2.247491,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1570,27,"""Add native rust implementation of proto messages""",2.2554157,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1569,27,"""Develop initial """"Troubleshooting Guide"""" to test processes and drive out gaps""",2.2459552,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1568,27,"""Add eth_call() support to Seth""",2.2496948,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1567,27,"""(DUPLICATE) Add swift-sdk to Jenkins""",2.2481313,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1565,27,"""(invalid)""",2.249582,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1564,27,"""Add no-op logging macros in sabre-sdk""",2.254383,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1563,27,"""Add logging backend for Sabre smart contracts""",2.2487786,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1562,27,"""Replace python sawadm with Rust version""",2.2480416,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1561,27,"""Coordinate testing of raw transaction header PRs""",2.246083,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1560,27,"""Publish poet integration tests image to dockerhub""",2.2462406,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1559,27,"""Review FAQ Sawtooth in General""",2.2454944,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1558,27,"""Transaction Purging RFC""",2.2478845,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1557,27,"""Poet LR7 against Chime""",2.2476547,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1556,27,"""Check upgrading from 1.0 to 1.2 with Consensus settings""",2.245707,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1555,27,"""Fix performance regression in master validator""",2.2469888,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1554,27,"""Create Chime Branch""",2.2453644,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1552,27,"""Provide better support for consensus backwards compatibility""",2.2469628,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1551,27,"""Describe consensus defaults""",2.247317,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1550,27,"""Add PBFT steps to K8s App Dev Guide procedure""",2.2494493,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1549,27,"""PBFT LR7 against Chime""",2.2484565,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1547,27,"""Reorg Sawtooth docs by audience""",2.2505867,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1546,27,"""Rename Doc Files per Standards""",2.2467937,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1545,27,"""Add doc builds to Jenkins in Swift SDK""",2.2468953,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1544,27,"""Investigate performance degredation""",2.250358,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1543,27,"""Publish mobile Java SDK tutorial""",2.2528527,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1542,27,"""Update PBFT glossary""",2.248812,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1541,27,"""Add links to mobile Java SDK docs""",2.2501087,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1540,27,"""Publish Java SDK autogenerated docs""",2.2532706,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1539,27,"""Sawtooth 1.2 (Chime)""",2.249681,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1538,27,"""Create a Sawtooth Component Diagram""",2.2484345,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1535,27,"""Genesis Block Invalid Predecessor (GBIP) and PENDING Transactions""",2.244666,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1533,27,"""Not able to sign message from seth-rpc""",2.2454333,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1532,27,"""settings list return """"Error parsing message""""""",2.2529094,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1531,27,"""Patch Validator and REST API to work with IPv6""",2.2501283,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1529,27,"""Blocks stop publishing after a day""",2.2460396,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1528,27,"""Test, code review and rework""",2.2465122,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1527,27,"""Fix the issue""",2.245253,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1526,27,"""Reproduce the issue""",2.2438705,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1525,27,"""Implement the feature in sawtooth-sdk-cxx""",2.2425885,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1524,27,"""Implement the feature in sawtooth-sdk-rust""",2.246165,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1523,27,"""Implement the feature in sawtooth-sdk-python""",2.2434978,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1522,27,"""Implement the feature in sawtooth-core (validator part)""",2.245198,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1521,27,"""Send raw transaction header to transaction processor""",2.2502763,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1520,27,"""intkey cli tool does not respect /etc/sawtooth/cli.toml""",2.2464778,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1519,27,"""Custom events examples are incorrect""",2.244823,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1518,27,"""Validator Panic after TxP removed from network""",2.252664,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1517,27,"""2019-03 license scanning results""",2.2491217,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1516,27,"""Batch contain empty transaction """,2.246722,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1515,27,"""Create doc-specific 404 page for Sawtooth website""",2.245582,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1514,27,"""Set up file auto-redirection for doc website""",2.2515993,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1513,27,"""Create doc-specific 404 page for broken doc links""",2.2509158,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1512,27,"""Set up file auto-redirection for doc website""",2.2515993,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1511,27,"""A doc page-not-found error jumps out of docs into Sawtooth website""",2.2470002,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1510,27,"""Sawtooth Validator Reconnection Issue""",2.2437906,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1509,27,"""seth account create causes sawtooth-validator to panic""",2.248451,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1508,27,"""Add K8s file(s) for PBFT procedure in App Dev Guide""",2.2493043,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1507,27,"""Add Docker file(s) for PBFT procedure in App Dev Guide""",2.2461202,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1506,27,"""Make consensus engine configuration backwards compatible""",2.2432225,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1505,27,"""Fix memory leak in validator""",2.2539675,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1504,27,"""Stabilize block manager reference counting""",2.2488475,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1503,27,"""1-0 builds are failing with a maven error""",2.2467074,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1502,27,"""Version Test""",2.2462487,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1501,27,"""All hexified strings must be lower case""",2.2483902,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1500,27,"""ECDSA signature must be normalized""",2.249631,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1499,27,"""sawtooth-shell docker file does not refer to the right build and is missing an apt-get install statement""",2.2492778,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1498,27,"""'sawadm genesis' in the rust version should print the same strings as the python version to ensure we are not breaking any scripts built around the python version""",2.2507458,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1497,27,"""Block, Batch and Transaction lists are unavailable temporarily through Rest API interface in sawtooth-raft setup""",2.2487364,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1496,27,"""sawtooth-devmode-rust panics when the validator process stops""",2.2494736,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1495,27,"""Compare python and rust sawadm and ensure feature parity and recommend improvements to the rust version""",2.2468283,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1494,27,"""Documentation contains broken links""",2.2449775,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1493,27,"""Improve sawtooth_identity package metadata""",2.24852,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1492,27,"""Improve sawtooth-smallbank-workload package metadata""",2.2457669,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1491,27,"""Improve sawtooth-intkey-workload package metadata""",2.2477622,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1490,27,"""Improve sawtooth-block-info-tp package name and metadata""",2.2486205,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1489,27,"""Improve sawadm package name and metadata""",2.2488804,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1488,27,"""Deprecate python sawadm in favor of the rust version and update documentation  """,2.245792,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1487,27,"""Broken Rust SDK links in Sawtooth core doc""",2.2491727,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1486,27,"""Broken JavaScript SDK links in Sawtooth core docs""",2.2504587,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1485,27,"""Broken GO SDK links in Sawtooth core docs""",2.2478447,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1484,27,"""Max retries exceeded with url: /state?address=5b7349 (Caused by NewConnectionError('<requests.packages.urllib3.connection.HTTPConnection object at 0x7f166b37af28>: Failed to establish a new connection: [Errno 111] Connection refused',))""",2.245976,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1483,27,"""Installing sawtooth nightly (1.2) results in unmet dependencies error""",2.2446814,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1482,27,"""sawtooth-supply-chain does not support latest release, Sawtooth 1.1 Bionic""",2.2474148,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1481,27,"""sawtooth-validator must be restarted if a consensus engine is restarted""",2.2482257,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1480,27,"""Grid github repo is missing README information""",2.2521617,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1479,27,"""Block-info-tp and identity-tp docker images don't have python3-sawtooth-sdk installed.""",2.247149,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1478,27,"""validator error after multiple delete and write in one transaction""",2.2525396,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1477,27,"""reject transaction by TP causes loops of retry""",2.2466881,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1476,27,"""sawtooth-validator cannot validate the incoming blocks""",2.246028,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1475,27,"""Docs: Grafana documentation gives opentsdb_url port as 3000 instead of 8086""",2.245341,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1474,27,"""Asyncio error causes unit_python_sdk test to fail intermitantly""",2.2446983,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1473,27,"""New node cannot catch up the exsiting network without the older versions of custom TPs.""",2.246689,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1472,27,"""Docker build failed with education-sawtooth-simple-supply""",2.253387,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1471,27,"""ConsensusBlocksGetHandler does not include block summary""",2.247407,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1470,27,"""PoET engine is tightly dependent on validator service to restart""",2.2504625,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1469,27,"""Inappropriate logging message in PoET 2 debug logs""",2.2484903,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1468,27,"""External dependency issues on installing sawtooth-poet2 package""",2.2466288,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1467,27,"""Permissioning issues with sawtooth-poet.service""",2.2464097,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1466,27,"""Test""",2.2491992,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1465,27,"""Rest query for an invalid transaction to show rejected reason""",2.2471929,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1464,27,"""Add protobuf UNSET field clarification to documentation""",2.2561135,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1463,27,"""Core Rust SDK does not compile""",2.251521,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1462,27,"""Docker Compose has version issue with current master of Sawtooth Core""",2.2504368,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1461,27,"""Raft panics on invalid transaction""",2.2457168,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1460,27,"""Can't determine when transactions fail via Seth RPC""",2.243913,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1458,27,"""Seth RPC contact deploy transaction unsuccessful""",2.2450528,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1457,27,"""Support updating Raft config on-the-fly""",2.2470233,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1455,27,"""Raft engine hangs on restart""",2.248926,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1454,27,"""Update sawtooth sgx documentation""",2.2447906,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1452,27,"""Update sawtooth grafana / influxdb documentation""",2.2445266,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1451,27,"""Validator stops sending messages after """"'NoneType' object is not callable"""" error""",2.2490494,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1450,27,"""Transaction executor wait invariably to post batches""",2.243816,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1448,27,"""Validator fails to send all necessary BlockNew notifications in the event of a consensus engine crash""",2.2487402,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1447,27,"""Update rest-api auth section of sysadmin guide""",2.2507424,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1446,27,"""Implement ROUTER_PROBE functionality for ZeroMQ""",2.2457209,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1444,27,"""Sawtooth Distro for Windows and Mac""",2.245185,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1442,27,"""Get Jenkins building and archiving sawtooth-raft packages""",2.2474809,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1431,27,"""Seth and Truffle/web3 compatibility""",2.252167,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1430,27,"""Build failure in sawtooth-sdk-javascript >> master""",2.2509747,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1427,27,"""Revamping of the Java SDK""",2.2461665,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1419,27,"""Restarted nodes crash when rejoining the network""",2.246709,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1404,27,"""Executor does not wait to resubmit a Transaction if the TP Crashes""",2.2472315,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1403,27,"""Error in create_wait_certificate for sawtooth(nightly) and PoET SGX""",2.2457733,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1402,27,"""Update System Administrator's Guide for Accuracy (master branch)""",2.245426,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1401,27,"""Improve Chain Controller Concurrency Model""",2.2470114,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1400,27,"""Sawtooth Raft Integration""",2.245826,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1399,27,"""Different block_id""",2.2490335,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1398,27,"""Sawtooth SDK support for Ubuntu 18.04 LTS (Bionic)""",2.247564,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1397,27,"""Validator stops working and forking issue""",2.2476797,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1396,27,"""Rewrite noop in Rust""",2.2504635,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1395,27,"""maximum_peer_connectivity broken""",2.2447064,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1391,27,"""Service 'seth-tp' failed to build""",2.2476172,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1389,27,"""Need the new block_id return for summarize_block() call in rust consensus sdk""",2.248477,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1375,27,"""Allow read several addresses once from TP by using address prefix""",2.247666,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1374,27,"""backpressure never ends""",2.2486265,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1373,27,"""All transactions stay pending after receiving txn with unkown family_name""",2.2473934,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1372,27,"""Javascript SDK doc is not being published""",2.2476428,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1371,27,"""Sawooth state list/ response give Internal server error with genesis block. """,2.2512815,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1370,27,"""Block response is not updating paging parameters (limit and start) properly.""",2.2470486,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1368,27,"""signer_public_key is kept on the chain""",2.2513978,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1367,27,"""Seth-rpc exits after three smart contract call transactions""",2.2447157,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1363,27,"""Missing sawtooth-settings.pb2 in sawtooth-sdk version 1.0.4""",2.2487016,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1356,27,"""Intkey workload command run in endless loop with wrong URL. """,2.2489493,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1347,27,"""/GET State returns empty data property without address namespace prefix """,2.2516322,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1346,27,"""/GET State does not give proper json response on passing a bad address parameter""",2.2516596,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1345,27,"""/GET State does not give proper json response on passing a bad head parameter""",2.251842,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1343,27,"""Add Kubernetes Support to Application Developer's Guide""",2.2496886,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1342,27,"""Sawtooth Raft for LR Testing""",2.2408853,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1341,27,"""Rewrite Block Validator in Rust""",2.2540417,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1332,27,"""Validator is not responding for some time (5 min) in block abandon condition""",2.245003,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1331,27,"""Unpredictable state root hash mismatch error on Validator""",2.2495403,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1317,27,"""Sawtooth Raft for LR Testing""",2.242785,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1316,27,"""Integrate Rust Block Manager""",2.2481809,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1315,27,"""Update Sawtooth Architecture Guide for Accuracy """,2.2459576,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1314,27,"""batch with no transactions causes endless loop in validator publisher""",2.2454615,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1313,27,"""Post batch with  Signer Public Key as string is not responding""",2.250647,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1308,27,"""Some sawtooth cli sub-commands do not use cli.toml""",2.2400522,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1307,27,"""Validator Error when processing simple transaction""",2.2515728,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1305,27,"""Document Recommended System Requirements""",2.2535758,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1304,27,"""Enable all CLI commands that have --url option to use cli.toml""",2.241005,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1302,27,"""Add note about importance of sawtooth.settings.vote.authorized_keys""",2.2498565,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1301,27,"""REST API /subscriptions sends old deltas""",2.250852,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1300,27,"""port 3030: Connection refused | docker-compose.yaml with seth-rpc """,2.2470298,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1299,27,"""validator fails batch when input/output contains addresses with uppercase A-F""",2.2524793,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1298,27,"""Inaccurate documentation for Identity Transaction Family""",2.2495973,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1297,27,"""Provide ability to create dependencies between batches (coarse grained)""",2.244998,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1289,27,"""Improvements to PoET1.0""",2.246968,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1258,27,"""Sharing protos between sawtooth-core and sawtooth-sdk-go repo""",2.248837,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1250,27,"""Value of """"msg.sender"""" is incorrect in Solidity constructors""",2.24814,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1249,27,"""C++ SDK: GetState() returns true for non-existent state address""",2.2457705,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1248,27,"""Link to GossipBook.pdf broken in the Validator Network section of documentation""",2.2470946,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1244,27,"""Batch Serialising With Extra Char""",2.2476883,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1242,27,"""pyformance sends nan values to influxdb""",2.2519503,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1241,27,"""""""seth account create myalias --wait"""" causes segmentation violation""",2.2501268,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1239,27,"""Encrypt data at rest""",2.2473986,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1238,27,"""sawtooth-rest-api ran out of file handles""",2.251333,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1237,27,"""Implement PoET consensus engine Block Publishing""",2.2497213,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1231,27,"""Add method for creating private key from hex to signing contexts""",2.2483573,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1230,27,"""Add unit test code coverage reporting for Rust components""",2.2471876,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1221,27,"""Implement PoET 2.0""",2.2478995,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1216,27,"""PoET Simulator Consensus Engine""",2.2472558,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1209,27,"""Fix intermittent namespace permissioning test failure""",2.2478611,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1208,27,"""Devmode Consensus Engine""",2.2425957,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1207,27,"""ztest scalability issues""",2.2415864,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1203,27,"""Invalid Batches sometimes return """"pending"""" status when queried""",2.2501915,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1198,27,"""Provide invalid address in transaction inputs/outputs cause transaction pending forever""",2.2501948,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1197,27,"""Write Building an Application chapter""",2.2512648,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1185,27,"""EDX 201 Training""",2.242271,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1179,27,"""Add support for ARM64 for sawtooth images""",2.2465515,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1176,27,"""The REST-API /peers endpoint returning list with redundant peers listed""",2.2463636,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1175,27,"""Update java sdk""",2.2501738,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1174,27,"""Unhandled KeyError in client_handlers""",2.2439919,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1173,27,"""Transaction ID included in State Change""",2.246989,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1172,27,"""Transaction Processor Mock Testing for JAVA """,2.2455215,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1169,27,"""Sawtooth Seth - contract list includes invalid addresses""",2.2470865,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1167,27,"""Stopped/Restarted TP not being sent new transactions from validator""",2.2439115,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1166,27,"""Sawtooth Seth - contract recieves authorization exception getting state address for CREATE opcode""",2.2504163,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1150,27,"""[Question] on immutability""",2.250144,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1148,27,"""Build Rust debian packages with Jenkins build""",2.2492428,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1141,27,"""Sawtooth-Seth RPC unable to unlock alias""",2.2457879,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1138,27,"""Transition to Jenkins JJB""",2.2479959,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1135,27,"""Generic Ansible Roles""",2.2487187,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1134,27,"""Update Hyperledger 101 EdX Training Material""",2.2421093,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1133,27,"""State Pruning""",2.24791,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1132,27,"""Chain Controller and Block Publisher Rust Conversion""",2.2445273,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1131,27,"""Raft Prototype""",2.2479513,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1130,27,"""Sawtooth Grafana Setup Documentation""",2.2484293,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1129,27,"""StateDeltaSubscriberHandler does not handle missing event data well""",2.2507234,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1128,27,"""Completer gives BlockPublisher incomplete batch""",2.2467732,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1126,27,"""Ping Requests Sent More Frequently than Interval""",2.247388,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1125,27,"""Validator peering fails with error: Endpoint cannot include 'lo': tcp://hashblock3.westus2.cloudapp.azure.com:8800""",2.2487063,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1124,27,"""Contract address slicing index out of range error""",2.2449903,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1123,27,"""client.LookupAccountNonce() causes segfault""",2.245185,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1121,27,"""validator degrades into more and more 429s""",2.2493103,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1117,27,"""Transaction execution components are slow to shutdown or do not shutdown""",2.2481976,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1116,27,"""GossipMessage time_to_live is never decremented""",2.2484682,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1115,27,"""Validator synchronization issue after transaction processor dissconnects""",2.2426276,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1114,27,"""Transaction Processor (JAVA SDK) gets stuck in run loop after disconnect""",2.2453985,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1113,27,"""PoET fork resolver incorrectly evaluating genesis block.""",2.2506013,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1111,27,"""Add state verifier test""",2.24747,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1110,27,"""State Delta export""",2.253539,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1107,27,"""Exception Occurs on Cache Miss""",2.2468038,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1106,27,"""Parallel scheduler doesn't handle checks for predecessors of predecessors of ... correctly""",2.2443352,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1105,27,"""Validatator goes into endless loop with set and delete context state""",2.2545366,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1103,27,"""Unhandled KeyError in ParallelScheduler._is_in_same_batch""",2.2472308,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1096,27,"""Examine State with Web Browser""",2.2498846,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1095,27,"""Client Requests via REST API & ZeroMQ""",2.2454085,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1086,27,"""Update Seth for 1.0""",2.2493687,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1085,27,"""Go Transaction Processor fail to Reconnect""",2.2427642,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1082,27,"""Unhandled attribute error in executor thread""",2.2460878,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1081,27,"""Validators forking/consensus issues""",2.242026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1080,27,"""Fix executor data race""",2.2442925,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1079,27,"""battleship related small fixes""",2.2462459,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1078,27,"""gpg: requesting key 1091A5FD from hkp server keyserver.ubuntu.com""",2.2444701,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1077,27,"""CXX SDK Support for adding data and events to the transaction receipt """,2.2423654,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1074,27,"""Publisher marks batches invalid en masse""",2.24351,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1072,27,"""App Developers Guide does not use consistent prompt to represent CLI container""",2.2517445,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1071,27,"""Unhandled KeyError in parallel scheduler""",2.243625,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1068,27,"""Pending Queue Limit improperly calculated""",2.2485402,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1066,27,"""Validators publishing blocks with invalid state root hashes""",2.2508178,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1065,27,"""Seth - Unable to download docker image for Seth (Sawtooth-Ethereum)""",2.249131,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1064,27,"""Validator freeze when too many batches are submitted""",2.2459707,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1063,27,"""Checking block_info state in Intkey creates bug in validator""",2.2498434,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1062,27,"""The IAS client does not support HTTP proxies""",2.2458482,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1061,27,"""Version Testing""",2.2485435,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1059,27,"""Make Thread pool configuration for Chain Controller""",2.2479668,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1058,27,"""Sawtooth Multi Validator System Eventually Stops Processing Transactions""",2.248723,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1057,27,"""Parallel Scheduling doesn't improve transaction rate""",2.24779,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1055,27,"""Parallel scheduler state root hash calculation is non-deterministic""",2.2482316,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1053,27,"""REST API loses ZMQ Connectivity without recovering""",2.2470555,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1051,27,"""The documentation doesn't contain information about replication between peer nodes""",2.2466118,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1050,27,"""on_chain_updated exception while creating identity policy """,2.2474875,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1049,27,"""Uncommitted Injected Batches Are Put in Pending Queue""",2.248023,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1048,27,"""block info timestamp validation""",2.2486484,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1047,27,"""Fix smallbank workload to not use """"wait"""" query parameter.""",2.2461715,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1046,27,"""Enhance Workload Intkey Generation Tool""",2.2440128,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1039,27,"""Update Examples with Componentized Address Mapping & State Encoding""",2.2441564,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1038,27,"""Update `sawtooth identity policy create` to replace space between """"PERMIT_KEY <key>""""  """,2.2443027,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1035,27,""".deb packages don't include dependency versions """,2.2487323,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1034,27,"""Block Info state values not available in Transactions""",2.2462082,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1033,27,"""Application Developer Guide Rewrite""",2.2465322,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1032,27,"""Application Developer Guide Rewrite""",2.2500374,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1031,27,"""Items Scheduled after Threadpools are shutdown""",2.248715,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1027,27,"""Unhandled KeyError in validator context manager""",2.2475767,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1025,27,"""Explicitly cancel candidate blocks on chain update""",2.246314,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1023,27,"""Validator segfaults when under load""",2.252579,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1022,27,"""Close connection file descriptor leak""",2.2477868,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1021,27,"""Go TPs return INTERNAL ERROR when internal work queue fills up""",2.2467551,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1020,27,"""Failure to reconnect to other validators (Disconnect after lag)""",2.2455575,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1019,27,"""Expected attributes missing from objects""",2.2486072,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1011,27,"""Remove Unnecessary Write on StateView creation""",2.2503583,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-999,27,"""Unhandled KeyError in client_handler""",2.2467382,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-998,27,"""Remove python sawadm implementation""",2.249884,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-996,27,"""On networks with large chains, new nodes hang while catching up""",2.2424035,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-995,27,"""Block validation race condition on checking for transaction dependencies""",2.2400806,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-993,27,"""Remove Base64.* from libpoet_bridge  """,2.2465568,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-992,27,"""Remove libpoet_bridge""",2.2517457,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-991,27,"""Improve database naming scheme""",2.2536552,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-989,27,"""lmdb.ReadonlyError when running sawtooth-validator as a service""",2.2449327,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-988,27,"""poet registration create fails unless python3-cryptography is separately upgraded.""",2.2464297,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-987,27,"""Unhandled KeyError in parallel scheduler""",2.2452412,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-986,27,"""Node not receiving the genesis block from its peers""",2.2486806,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-985,27,"""exec format error run docker Raspberry Pi""",2.246988,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-984,27,"""Enhance Smallbank Workload Generation Tool""",2.2444305,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-966,27,"""reduce use of SGX monotonic counters""",2.2470803,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-965,27,"""SGX timer nonce is not serialized in the wait timer""",2.254383,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-964,27,"""Minimum wait time not attested to in the wait certficate""",2.249955,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-963,27,"""PoET settings should be fully populated in state before starting poet consensus """,2.2469344,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-962,27,"""Research fork resolution optimizations and faulty node resiliency""",2.2488117,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-960,27,"""Improve logging around fork resolution""",2.2486482,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-959,27,"""Create Seth account fails unless nonce specified""",2.2489204,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-958,27,"""Attribute Error on _determine_next""",2.2458777,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-957,27,"""MDB_PAGE_NOTFOUND on State DB Write""",2.2485728,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-956,27,"""Investigate rest api block list memory leak""",2.2477994,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-955,27,"""Investigate discrepancy between volume of sent TP_PROCESS_REQUESTS and transaction execution count""",2.2455864,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-954,27,"""Transaction execution does not resume occasionally on stop/start of go transaction processors""",2.2479925,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-953,27,"""Validator forward progress occasionally halts on cessation of input workload""",2.2481337,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-952,27,"""Subscribing to state-delta event without subscribing to block-commit event provides no error message""",2.2474425,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-951,27,"""Catch Exception thrown when trying to remove a processor that is already removed""",2.2473292,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-948,27,"""Update base64 source files to latest repo path""",2.2478187,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-945,27,"""Event Broadcaster Logs Whole Event""",2.2504683,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-944,27,"""Make the number of threads used in Go Transaction Processors configurable""",2.2501502,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-911,27,"""State Delta Events: Filter state deltas based on addresses in attributes""",2.2507102,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-910,27,"""NULL_BLOCK_IDENTIFIER is not a valid Block ID""",2.2473426,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-908,27,"""Java SDK Transaction Processor does not handle Parallel Requests""",2.2452502,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-907,27,"""update CONTRIBUTING.md""",2.247398,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-906,27,"""Fix Network Permissioning Test""",2.2403245,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-904,27,"""Configuring Sawtooth to Use SGX""",2.2445035,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-903,27,"""Run Virus Scan on Docker Containers""",2.2478747,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-902,27,"""Validate Inputs on Gossip Messages""",2.249214,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-901,27,"""BlockCache removes predecessors required for valid Chain""",2.24762,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-897,27,"""1.0 Release Blocking Issues""",2.2488298,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-896,27,"""Replace banned functions with secure alternatives""",2.256271,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-894,27,"""Market Place Update""",2.249444,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-865,27,"""Implement single cache for batches""",2.24627,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-864,27,"""Implement single reader/writer for Block Store, all other access through Block Cache""",2.2521174,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-860,27,"""Test bulk import""",2.248134,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-855,27,"""Implement Client Builder for Javascript SDK""",2.2456632,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-852,27,"""Rename `poet genesis` to `poet registration create`""",2.251428,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-849,27,"""Closing state delta websocket renders the REST API unusable""",2.2503676,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-843,27,"""Update SDK Client docstrings""",2.250306,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-841,27,"""Clarify approval_threshold and add default in Setting Transaction Family Spec""",2.2488616,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-839,27,"""Update OpenStack Bandit script""",2.244026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-833,27,"""fix typos in c++ sdk example intkey transaction processor""",2.248263,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-821,27,"""Add an UNSET = 0 enum to all proto enums""",2.2514892,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-814,27,"""Consensus Engine API""",2.2443242,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-813,27,"""Consensus Pluggability""",2.2468255,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-808,27,"""Sawtooth CLI throws stack trace on broken pipe""",2.244359,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-802,27,"""Update c++ SDK state methods to new API""",2.2490358,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-801,27,"""Fix doc strings in python SDK""",2.2469432,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-792,27,"""Switch LR to use small bank instead of intkey workload""",2.249539,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-786,27,"""LMDB Page Full - State Value""",2.2550106,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-785,27,"""LMDB Page Full - Block Size""",2.2513342,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-775,27,"""Redo intkey command to mirror xo functionality""",2.2505322,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-731,27,"""`intkey workload` doesn't exit gracefully""",2.2450113,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-729,27,"""Fix CLI `-V` version flag""",2.2431126,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-728,27,"""Add CLI version flag `-V` to Go TPs""",2.24679,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-727,27,"""Add CLI flags to Javascript TPs""",2.2485557,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-700,27,"""Update bin/run_lint""",2.245398,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-699,27,"""Seth CLI commands fail to print out the event type""",2.2476156,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-695,27,"""Track & Trade Basic Asset UI""",2.2466877,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-694,27,"""1.0 Release Performance/Stability""",2.2435493,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-692,27,"""1.0 Release Documentation Refresh""",2.2442372,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-689,27,"""1.0 Release API Documentation""",2.252085,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-685,27,"""1.0 Release API Stability""",2.2479174,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-683,27,"""1.0 Release Build & Packaging""",2.2469726,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-682,27,"""0.8 Stable Branch""",2.2467856,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-679,27,"""Tendermint for Consensus Design""",2.2455251,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-677,27,"""Validator option """"-P dynamic"""" should force the presence of """"--seeds""""""",2.2517264,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-671,27,"""Add event catchup and ClientEventGetRequest message to EventBroadcaster""",2.2465227,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-664,27,"""JavaScript SDK: reorganize structure and exported modules for publishing""",2.2523863,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-663,27,"""JavaScript SDK: """"unwrapped"""" InvalidTransaction errors unhandled """,2.2482872,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-662,27,"""JavaScript SDK: apply function handle undefined return values gracefully""",2.2492507,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-642,27,"""Add HW counter simulator to Poet Simulator""",2.247045,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-641,27,"""Add handling for invalid signupdata""",2.245243,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-618,27,"""Generate some multi-validator docker compose files""",2.2418878,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-616,27,"""poet sgx unit tests out of sync with simulator""",2.2379375,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-609,27,"""Change """"Sawtooth Lake"""" to """"Hyperledger Sawtooth"""" in sawtooth-core.""",2.2426322,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-608,27,"""Sawtooth block list should take an argument for number of blocks to retrieve.""",2.242472,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-606,27,"""Enhance document version selector""",2.252909,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-604,27,"""Update context manager to handle deletes""",2.2534585,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-602,27,"""use consistent hash function in merkle-radix trie address construction""",2.2556171,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-599,27,"""Publish High-Level Component Diagram to docs""",2.2494268,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-592,27,"""Implement on-chain address access permissioning""",2.246898,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-577,27,"""Component Permissioning""",2.2490656,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-549,27,"""Track and Trade""",2.2507355,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-540,27,"""PoET Release""",2.2496195,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-539,27,"""Sawtooth Performance Analysis""",2.2429104,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-538,27,"""Performance Workload""",2.2397795,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-526,27,"""Create Monitoring & Troubleshooting Section""",2.253095,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-525,27,"""Deployment: Create Validator Genesis Section""",2.2521114,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-524,27,"""Deployment: Create Starting with System D Section""",2.2549167,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-523,27,"""Deployment: Create Validator Key Definition Section""",2.2511537,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-522,27,"""Deployment: Installing from Repository""",2.250665,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-521,27,"""Deployment: Create Deployment with SGX Section""",2.2497475,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-520,27,"""Deployment: Create Upgrading Section""",2.249425,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-519,27,"""Recommended Set-up: Create Networking Section""",2.2541442,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-518,27,"""Recommended Set-up: Create Diagrams & Descriptions""",2.2484787,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-517,27,"""Workload generator error when auth info is not supplied as an argument""",2.2467823,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-516,27,"""Add Digest Auth support to the XO CLI""",2.2484667,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-515,27,"""Add Digest Auth support to the IntKey CLI""",2.2483988,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-514,27,"""Add Digest Auth support to the Sawtooth CLI""",2.2487793,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-513,27,"""Write Integration Test for REST API behind Digest Auth proxy""",2.2459104,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-512,27,"""Ensure REST API works properly behind a Digest Auth proxy""",2.2461739,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-508,27,"""Batches submitted via REST API during genesis are lost""",2.2456353,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-507,27,"""Update Java XO to match docs""",2.242879,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-505,27,"""validator without access to log directory gives Traceback""",2.246457,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-504,27,"""Update the Java sdk to be multithreaded""",2.2491028,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-503,27,"""Add argparse to java tps""",2.2528124,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-502,27,"""Add --wait option to xo take""",2.2474165,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-501,27,"""Refactor XO commands to output friendlier text""",2.2468667,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-500,27,"""Split scheduler tests.py file into multiple test files""",2.2493315,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-494,27,"""Implement a state cache between the Burrow-EVM TP and validator""",2.2470999,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-493,27,"""Separate sawtooth config cli commands  """,2.245264,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-492,27,"""Validator won't round-robin over Go and Python intkey tps""",2.2455556,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-491,27,"""Add Supplychain CLI client""",2.2534497,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-477,27,"""IAS Proxy and Client""",2.252601,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-473,27,"""Create install deb for c++ SDK""",2.248754,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-472,27,"""Update C++ SDK build to build the samples from the installed sdk""",2.2490916,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-469,27,"""Add integration test for the SupplyChain CLI""",2.2496119,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-468,27,"""Add SupplyChain Python Client UnitTests""",2.249545,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-467,27,"""Add C++ sdk client support""",2.247687,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-463,27,"""Digest Auth Proxy Support""",2.245511,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-462,27,"""C++ SDK: Add signing/encoder client functionality""",2.2481709,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-461,27,"""Java SDK: Add signing/encoder client functionality""",2.2487345,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-447,27,"""Solidity Developer Compatibility""",2.2455423,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-443,27,"""Write Telegraph Plugin""",2.24504,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-441,27,"""Running Transaction Processor Tests""",2.2493289,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-440,27,"""Writing Transaction Processor Tests""",2.2476869,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-437,27,"""Document Writing Transaction Processors for Python""",2.2409492,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-436,27,"""Document Writing Transaction Processors for C++""",2.243238,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-433,27,"""Document Writing Transaction Processors for Javascript""",2.2432497,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-432,27,"""Add C++ example to Building & Submitting Transactions Template""",2.2490845,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-431,27,"""Add Python example to Building & Submitting Transactions Template""",2.246056,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-430,27,"""Add Java example to Building & Submitting Transactions Template""",2.2507615,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-429,27,"""Add Go example to Building & Submitting Transactions Template""",2.252572,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-428,27,"""Write install guide for Python SDK""",2.2497354,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-427,27,"""Write install guide for C++ SDK""",2.2486465,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-421,27,"""Define Section for High-Level Architecture""",2.2453096,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-420,27,"""Define Section for On-Chain Settings""",2.2476664,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-419,27,"""Define Section for Transaction Processing Platform""",2.2486272,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-418,27,"""Define Section for Interconnect""",2.2494237,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-417,27,"""Define Section for Permissioning""",2.2470944,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-416,27,"""Define Section for Consensus Implementation""",2.2505915,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-415,27,"""Define Section for Transaction Lifetime""",2.2454023,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-414,27,"""Define Section for Blocks & Chains""",2.2484002,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-412,27,"""Implement hash collision handling in xo go""",2.2458105,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-411,27,"""Extend SupplyChain Rest API to provide StateQuery Information""",2.2525306,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-410,27,"""Extend Supplychain Rest API to support remote Transaction Signing""",2.2463627,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-402,27,"""Design mechanism for allowing the context manager to limit access of the tree to certain pubkeys based on on-chain config. """,2.245192,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-401,27,"""Update Network to Support IPv6""",2.249378,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-400,27,"""Update sdks to handle null values in state""",2.2512956,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-397,27,"""Update documentation to replace apt urls in master documentation with nightly repo.""",2.2468894,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-395,27,"""Create support for a Private Transaction System on Sawtooth""",2.2445993,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-392,27,"""Check the transaction_ids list in the batch header against the transaction list in the batch""",2.2453706,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-382,27,"""Rename XO CLI option username to player""",2.2482376,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-381,27,"""Add """"append"""" action to Settings Transaction Family""",2.2427096,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-380,27,"""Open Source PoET SGX""",2.2531376,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-376,27,"""Update C++ SDK to pass error information in responses""",2.2496364,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-365,27,"""Add log file/config support to sawtooth-rest-api""",2.2458162,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-364,27,"""Add log file/config support to all Java transaction processors""",2.2468474,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-363,27,"""Add log file/config support to all C++ transaction processors""",2.2473269,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-362,27,"""Add log file/config support to all javascript transaction processors""",2.2455337,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-361,27,"""Add log file/config support to all go transaction processors""",2.2434025,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-360,27,"""Add log file/config support to all python transaction processors""",2.2450655,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-355,27,"""Log File Support""",2.2465613,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-351,27,"""Standardize CLI Commands and Options""",2.2457805,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-347,27,"""Add noop.toml configuration file""",2.243601,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-332,27,"""Create ansible roles to assist with configuration of sawtooth""",2.2489233,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-331,27,"""System Admin's Guide""",2.2500663,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-330,27,"""Architecture Documentation""",2.2476518,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-329,27,"""App Dev Guide""",2.2450676,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-328,27,"""CLI produces stack trace when specifying url without scheme""",2.2485247,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-326,27,"""Migrate State Delta Subscription Design to sphinx docs""",2.2505789,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-325,27,"""Implement Intkey -> PostGRES State Delta Subscription Example""",2.250191,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-324,27,"""Added Settings Make Address and Read Utils to SDKS """,2.2512293,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-323,27,"""Add TOML """"in-file"""" support to """"sawtooth config proposal create"""" for settings""",2.2463613,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-321,27,"""Report failed transactions""",2.2485266,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-320,27,"""On failure bandit needs to report errors to the build log(stdout). """,2.2471,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-319,27,"""run_bandit requires additional configuration to run in dev environment. """,2.2461429,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-318,27,"""Flesh out the Composition/Decomposition Usecases. """,2.246824,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-313,27,"""Support CORS with REST API""",2.2487836,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-312,27,"""Make validator --public-uri optional if --network-endpoint is not provided, but required if --network-endpoint is provided""",2.2486088,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-298,27,"""File Config""",2.2482615,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-293,27,"""Design 'per-node' key management/configuration strategy for Curve ZMQ TLS Keys""",2.2494404,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-288,27,"""ZMQ Transport Security""",2.245378,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-287,27,"""Validator Network Permissioning""",2.247567,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-284,27,"""Publish Python SDK to pip.""",2.2551503,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-283,27,"""Publish Java SDK to a Maven repository """,2.2523837,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-282,27,"""Add git commit hash to Ubuntu deb metadata""",2.2498994,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-280,27,"""In published/tagged documentation, state the version number of the tag for clarity""",2.252811,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-278,27,"""Docker compose_client_1 image should use non-root default user""",2.251721,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-275,27,"""Signing Key Permissioning""",2.2448325,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-274,27,"""Implement signing key-based client batch submit permissioning (file config)""",2.247065,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-273,27,"""Add swagger UI to docker compose file""",2.2521346,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-268,27,"""Document sending requests to an authorized REST API""",2.2469802,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-267,27,"""Document setting up authorized REST API""",2.2485247,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-266,27,"""Update remaining clients to handle authorization""",2.2466087,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-265,27,"""Update CLI client to support authorization""",2.2452328,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-264,27,"""Implement auth on existing REST API routes""",2.2503762,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-263,27,"""broad auth configuration for REST API""",2.2482035,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-262,27,"""Implement /authorization route for REST API""",2.2479243,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-261,27,"""Add append/remove to Config Transaction Family""",2.246018,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-251,27,"""REST api-key auth""",2.252096,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-250,27,"""REST Basic Auth""",2.2468824,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-249,27,"""Determine approach for running Signature Verification in separate processes""",2.247387,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-241,27,"""Design burrow evm client""",2.2472327,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-239,27,"""App Dev Guide: Building and Submitting Transactions - Go""",2.2445748,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-237,27,"""Use glide for Go dependency management""",2.2464252,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-236,27,"""OMI Summer Lab""",2.250385,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-234,27,"""Supplychain Transaction Processor""",2.247748,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-233,27,"""Convert dynamic network test to Docker""",2.2451491,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-232,27,"""App Dev Guide needs context on how to use TransactionProcessorTestCase when using Ubuntu deb install""",2.2470033,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-231,27,"""App Dev Guide needs context on how to use TransactionProcessorTestCase when using docker-compose""",2.2481806,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-229,27,"""Determine set of useful docker compose files for App Dev Guide""",2.2478228,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-227,27,"""Build Docs Command""",2.2456393,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-226,27,"""Fix Version Pin Sphinx""",2.2534366,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-224,27,"""Add general purpose filter query parameters to REST API""",2.2525814,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-222,27,"""Implement basic validator stat collection""",2.2537942,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-221,27,"""0.8 Java SDK""",2.2509136,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-218,27,"""0.8 Javascript SDK""",2.2475092,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-215,27,"""Docker compose_client_1 image should default to appropriate REST API URL""",2.2477853,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-214,27,"""xo command throws an exception when keys are not found""",2.2490962,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-212,27,"""Implement git hook to enforce basic commit message formatting rules""",2.244153,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-208,27,"""Replace aiohttp.web.run_app with custom app startup""",2.2500038,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-207,27,"""Handle transaction process request overloading""",2.2497804,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-206,27,"""Make the State class thread-safe""",2.2454765,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-205,27,"""Research optimal algorithm for receiving messages from sockets using zmq_poll()""",2.2492712,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-204,27,"""Eliminate extra deserialization step needed for routing""",2.2437005,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-203,27,"""Comprehensive integration tests for REST API""",2.245719,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-202,27,"""Implement proper Logger for Rest Api""",2.2547626,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-199,27,"""Fix PR builds so they can't pull from sawtooth debs from ubuntu/nightly""",2.2449696,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-192,27,"""run_tests needs to clearly indicate success or failure. """,2.2475803,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-190,27,"""Journal function get_current_root needs to be renamed""",2.2515717,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-184,27,"""Implement State Delta Export Integration Tests""",2.2473464,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-183,27,"""Verify that Python3-specp256k1 uses bitcoin-core version of libsecp256K1""",2.251826,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-182,27,"""Address """"Future"""" recommendations""",2.2468495,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-181,27,"""Address dynamic analysis requirements and suggestions""",2.249065,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-180,27,"""Remove CurveZMQ keys from source code""",2.25117,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-178,27,"""Secure REST interface against casual snooping""",2.2500281,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-177,27,"""Static Code Analysis - Policy or process demnstrating timely resolution of high and medium discoveries""",2.2477589,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-176,27,"""Vulnerability reporting process""",2.249025,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-175,27,"""Bug reporting process - demonstrating bug report acknowledgement and response""",2.2486794,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-174,27,"""Release Notes""",2.244625,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-173,27,"""Version Numbering - Conform to SemVer format""",2.2475617,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-172,27,"""Linux Foundation CII Badge""",2.248631,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-171,27,"""Enable integration tests for the C++ SDK. """,2.2504034,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-170,27,"""Create build_cxx scripts. """,2.2432027,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-169,27,"""Enable cpplint on the c++ sdk. """,2.2475224,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-168,27,"""Package json.h as a deb for install and remove it from git""",2.2532387,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-166,27,"""Update CXX IntKey to match IntKey Spec.""",2.2512636,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-162,27,"""DEFECT: Investigate and Resolve Validator Registry Info Containing None for Transaction ID""",2.2457423,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-152,27,"""Improve Logging in Javascript SDK""",2.2510216,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-125,27,"""Update Signature Creation Example in Rest API Doc""",2.2474704,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-123,27,"""0.8 C++ SDK""",2.2464294,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-122,27,"""Design a Byzantine Validator Simulator""",2.2457614,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-119,27,"""Handle Multipart ZMQ Messages With More Than 2 Parts""",2.245507,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-106,27,"""0.8 Burrow Family""",2.2449884,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-105,27,"""Add xo Transaction Family Specification to documentation""",2.2461157,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-99,27,"""Remove bare excepts in python xo transaction processor""",2.2476912,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-98,27,"""Add Python 2.7 REST client instructions""",2.2488909,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-95,27,"""0.8 Python SDK""",2.2474117,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-91,27,"""Remove 'sawtooth cluster' command""",2.2499425,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-90,27,"""Remove support for sawtooth cluster subprocess backend""",2.2474022,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-87,27,"""Running intkey with no parameters produce bad errror message. """,2.2482305,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-84,27,"""App Dev Guide: Writing Transaction Processors-C++""",2.2452323,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-63,27,"""Prevent exceptions from being swallowed in Gossip.start()""",2.2493944,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-62,27,"""DEFECT: Interconnect crashes when receiving multipart messages with more than two parts""",2.2448661,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-60,27,"""Implement direct send of messages from peer to peer by routing the message across the network topology""",2.249537,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-59,27,"""Design network routing to a particular validator""",2.247744,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-51,27,"""0.8 PoET Simulator""",2.2515054,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-49,27,"""0.8 Long Running (LR) Networks""",2.2514997,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-48,27,"""0.8 CLI Tools""",2.2517257,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-47,27,"""Serial and Parallel Schedulers""",2.2470822,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-46,27,"""0.8 Settings Family""",2.2495422,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-45,27,"""0.8 Stat Collection""",2.2444139,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-44,27,"""0.8 Deployment Packages""",2.250476,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-43,27,"""0.8 Documentation""",2.2456965,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-38,27,"""Go SDK does not send graceful disconnect message on CTRL-C""",2.2470489,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-36,27,"""0.8 Go SDK""",2.2486892,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-32,27,"""0.8 State Export""",2.244533,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-28,27,"""0.8 REST API""",2.2481978,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-24,27,"""Golang SDK: intkey_go example: """"index out of bound"""" panic when endpoint is not specified""",2.247942,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-17,27,"""Unable to start cluster of 2 validators and 2 transaction processors""",2.2446833,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-16,27,"""vagrant up failure in branch 0-7""",2.247368,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-15,27,"""Failed to build sawtooth-core""",2.2505376,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-14,27,"""Code refactoring about generate_identifier(signingkey) etc in SignedObject""",2.2487338,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-12,27,"""ImportError: No module named poet0_enclave_simulator""",2.2443092,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-11,27,"""Proposal of participant registration improvement in STL""",2.2501936,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-10,27,"""Fix is_valid in arcade for transactions that have been altered""",2.2483397,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-9,27,"""Investigate is_valid in arcade for transactions that have been altered""",2.24738,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-8,27,"""Test External ID Story""",2.2519817,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-6,27,"""Uber chaincode (UC)""",2.2508278,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-5,27,"""Update Tutorial Configuration File""",2.2470508,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-4,27,"""Update Turorial to address Dev environment Vagrant installation issue  """,2.251159,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-3,27,"""Rename Environment Variable CURRENCY to SAWTOOTH""",2.2483177,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+STL-1,27,"""Fix Transaction Family Tutorial""",2.250201,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1

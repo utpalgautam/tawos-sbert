@@ -26,3 +26,8 @@ logs/*.log
 .idea/
 .vscode/
 *.swp
+
+
+*.npy
+.venv/
+__pycache__/

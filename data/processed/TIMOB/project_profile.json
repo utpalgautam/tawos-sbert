@@ -1,0 +1,37 @@
+{
+  "project_id": 12,
+  "project_key": "TIMOB",
+  "total_rows": 22059,
+  "labeled_rows_raw": 4665,
+  "unlabeled_rows_raw": 17394,
+  "missing_title": 0,
+  "missing_description": 1177,
+  "non_numeric_labels": 0,
+  "label_stats": {
+    "count": 4665.0,
+    "mean": 7.242765273311897,
+    "std": 99.32644929121862,
+    "min": 0.0,
+    "25%": 3.0,
+    "50%": 5.0,
+    "75%": 8.0,
+    "max": 6765.0
+  },
+  "zero_labels": 243,
+  "fractional_labels": 19,
+  "labels_gt_100": 10,
+  "issue_type_counts": {
+    "Bug": 2860,
+    "Improvement": 712,
+    "New Feature": 526,
+    "Story": 467,
+    "Sub-task": 38,
+    "Epic": 37,
+    "Technical task": 25
+  },
+  "flagged_rows_distinct": 403,
+  "excluded_rows": 0,
+  "labeled_clean_rows": 4665,
+  "unlabeled_rows": 17394,
+  "preprocessing_version": "v1"
+}

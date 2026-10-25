@@ -1,0 +1,37 @@
+{
+  "project_id": 42,
+  "project_key": "DNN",
+  "total_rows": 10060,
+  "labeled_rows_raw": 2594,
+  "unlabeled_rows_raw": 7466,
+  "missing_title": 0,
+  "missing_description": 126,
+  "non_numeric_labels": 0,
+  "label_stats": {
+    "count": 2594.0,
+    "mean": 2.1625289128758673,
+    "std": 2.529050481954523,
+    "min": 0.0,
+    "25%": 1.0,
+    "50%": 2.0,
+    "75%": 2.0,
+    "max": 100.0
+  },
+  "zero_labels": 9,
+  "fractional_labels": 48,
+  "labels_gt_100": 0,
+  "issue_type_counts": {
+    "Bug": 1634,
+    "Improvement": 408,
+    "Story": 297,
+    "Sub-task": 140,
+    "Task": 104,
+    "New Feature": 10,
+    "Epic": 1
+  },
+  "flagged_rows_distinct": 104,
+  "excluded_rows": 0,
+  "labeled_clean_rows": 2594,
+  "unlabeled_rows": 7466,
+  "preprocessing_version": "v1"
+}

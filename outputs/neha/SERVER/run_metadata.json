@@ -1,0 +1,71 @@
+{
+  "project_id": 33,
+  "project_key": "SERVER",
+  "member": "neha",
+  "seed": 42,
+  "python": "3.13.1 (v3.13.1:06714517797, Dec  3 2024, 14:00:22) [Clang 15.0.0 (clang-1500.3.9.4)]",
+  "platform": "macOS-13.0-arm64-arm-64bit-Mach-O",
+  "torch": "2.11.0",
+  "sklearn": "1.9.1",
+  "pandas": "3.1.0",
+  "numpy": "2.5.4",
+  "encoder_checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+  "dataset_path": "data/raw/tawos.csv",
+  "max_epochs_override": null,
+  "config": {
+    "experiment": {
+      "name": "problem5_sbert_cnn_within_project_random",
+      "random_seed": 42,
+      "project_setting": "within_project",
+      "split_strategy": "random",
+      "development_fraction": 0.8,
+      "test_fraction": 0.2,
+      "validation_folds": 5,
+      "min_labeled_issues": 100,
+      "preprocessing_version": "v1"
+    },
+    "data": {
+      "path": "data/raw/tawos.csv",
+      "project_column": "project_id",
+      "issue_key_column": "issue_key",
+      "title_column": "title",
+      "description_column": "description_text",
+      "target_column": "story_point",
+      "issue_type_column": "issue_type",
+      "approved_exclusions": "data/approved_exclusions.csv"
+    },
+    "sbert": {
+      "checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+      "fine_tune": false,
+      "expected_embedding_dim": 384,
+      "encode_batch_size": 64
+    },
+    "cnn": {
+      "conv_channels": [
+        128,
+        64,
+        32
+      ],
+      "kernel_size": 3,
+      "padding": 1,
+      "dropout": 0.2,
+      "output_dim": 1
+    },
+    "training": {
+      "loss": "mse",
+      "optimizer": "adam",
+      "learning_rate": 0.001,
+      "batch_size": 64,
+      "max_epochs": 100,
+      "early_stopping_patience": 10,
+      "early_stopping_metric": "validation_mae"
+    },
+    "evaluation": {
+      "required_metrics": [
+        "mae",
+        "mdae"
+      ],
+      "baseline": "training_median"
+    }
+  }
+}

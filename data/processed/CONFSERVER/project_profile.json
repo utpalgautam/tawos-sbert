@@ -1,0 +1,32 @@
+{
+  "project_id": 22,
+  "project_key": "CONFSERVER",
+  "total_rows": 42324,
+  "labeled_rows_raw": 662,
+  "unlabeled_rows_raw": 41662,
+  "missing_title": 0,
+  "missing_description": 416,
+  "non_numeric_labels": 0,
+  "label_stats": {
+    "count": 662.0,
+    "mean": 3.1367069486404833,
+    "std": 1.9752163447059154,
+    "min": 0.0,
+    "25%": 2.0,
+    "50%": 3.0,
+    "75%": 3.0,
+    "max": 21.0
+  },
+  "zero_labels": 17,
+  "fractional_labels": 1,
+  "labels_gt_100": 0,
+  "issue_type_counts": {
+    "Bug": 606,
+    "Suggestion": 56
+  },
+  "flagged_rows_distinct": 24,
+  "excluded_rows": 0,
+  "labeled_clean_rows": 662,
+  "unlabeled_rows": 41662,
+  "preprocessing_version": "v1"
+}

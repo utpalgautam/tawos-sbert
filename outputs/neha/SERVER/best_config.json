@@ -1,0 +1,6 @@
+{
+  "learning_rate": 0.001,
+  "final_epochs": 5,
+  "selection_rule": "lowest mean validation MAE across folds; epochs = median best epoch",
+  "mean_cv_mae": 1.3731077671051026
+}

@@ -1,0 +1,10 @@
+{
+  "encoder_checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+  "fine_tuned": false,
+  "embedding_dim": 384,
+  "preprocessing_version": "v1",
+  "sentence_transformers_version": "6.2.0",
+  "n_labeled": 2594,
+  "n_unlabeled": 7466,
+  "text_hash": "3f27c48ba3f9c141"
+}

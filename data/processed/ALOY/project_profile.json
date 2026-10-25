@@ -1,0 +1,36 @@
+{
+  "project_id": 7,
+  "project_key": "ALOY",
+  "total_rows": 1519,
+  "labeled_rows_raw": 315,
+  "unlabeled_rows_raw": 1204,
+  "missing_title": 0,
+  "missing_description": 100,
+  "non_numeric_labels": 0,
+  "label_stats": {
+    "count": 315.0,
+    "mean": 3.9682539682539684,
+    "std": 2.729691975158325,
+    "min": 0.0,
+    "25%": 3.0,
+    "50%": 3.0,
+    "75%": 5.0,
+    "max": 21.0
+  },
+  "zero_labels": 12,
+  "fractional_labels": 0,
+  "labels_gt_100": 0,
+  "issue_type_counts": {
+    "Bug": 161,
+    "Improvement": 104,
+    "New Feature": 34,
+    "Story": 11,
+    "Sub-task": 3,
+    "Epic": 2
+  },
+  "flagged_rows_distinct": 14,
+  "excluded_rows": 0,
+  "labeled_clean_rows": 315,
+  "unlabeled_rows": 1204,
+  "preprocessing_version": "v1"
+}

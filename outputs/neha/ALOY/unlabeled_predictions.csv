@@ -1,0 +1,1205 @@
+issue_key,project_id,title,predicted_story_point,encoder_checkpoint,model_version
+ALOY-1742,7,"""Add ability to run static code outside of controller instance""",3.3792698,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1741,7,"""Remove iOS Splash Screens from Alloy template""",3.3642552,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1740,7,"""Build times impact by assets & lib files in widget itself""",3.3808815,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1739,7,"""Alloy: Update releases tags, keep them up to date""",3.3721616,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1738,7,"""CLI 8.1.0: crash when to listening backbone.events on required controller in ScrollableView""",3.385646,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1736,7,"""aloy new fails if dev dependencies do not exist in package.Json""",3.3800256,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1735,7,"""Add vscode settings file to projects""",3.3777802,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1734,7,"""JS files imported in """"alloy.js"""" don't have access to Alloy globals as of Titanium 9.0.0""",3.3770628,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1733,7,"""Add templates for webpack usage""",3.379998,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1731,7,"""Webpack: Alloy loader recompiles unchanged components""",3.377981,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1730,7,"""Add support for style tag in Alloy XML views""",3.3725088,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1729,7,"""Add a """"widget wide"""" tss file that serves as the base for the widget (think app.tss for app wide)""",3.3856008,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1728,7,"""Alloy compiler failed using TabbedBar/ButtonBar with SDK 9.0.0""",3.3747964,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1727,7,"""@import feature for Alloy TSS files""",3.371047,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1726,7,"""Remove support for platforms removed from the SDK""",3.3744836,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1724,7,"""Add global event handlers""",3.3815238,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1723,7,"""Remove python file from Alloy plugin""",3.3759477,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1722,7,"""Cannot make calls to alloy programmatically via require""",3.3784778,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1720,7,"""Version string comparison will break for SDK 10.0.0""",3.3726635,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1719,7,"""Split out Alloy monolith into separate packages""",3.3779714,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1718,7,"""Android: Custom theme is removed during build""",3.3750513,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1717,7,"""Android: Investigate default project-assets""",3.3760827,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1716,7,"""Implement a way to load app/config.json options through command line""",3.383699,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1714,7,"""Allow ~/ to be used as a shortcut for WPATH() in xml view attributes""",3.3794296,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1713,7,"""Alloy Alloy widgets to be used as primary element for XML view""",3.3796675,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1712,7,"""ImageViews constantly reloading while scrolling in ListView templates""",3.3757234,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1711,7,"""An empty view file throws an alloy compile error""",3.371154,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1710,7,"""[Hyperloop] Unable to Build Hyperloop app""",3.3843825,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1709,7,"""ListView: TextField with iOS.Toolbar catch click event of “Done” Button""",3.3795831,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1708,7,"""Alloy: Compile fails if object property contains variable""",3.3666995,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1706,7,"""Compile error if Alloy view filename contains hyphen""",3.3705156,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1705,7,"""Fix issue with return outside of function when using npm packages""",3.3793876,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1704,7,"""Allow Alloy Widgets to be discovered by package.json properties""",3.3745058,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1703,7,"""XML attribute shortcuts for verticalAlign are not used on Android""",3.37747,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1702,7,"""Improve support for SFSymbols and SemanticColor in Alloy markup""",3.3774865,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1700,7,"""Add support for <Script> tag in View XML files""",3.3757546,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1699,7,"""Add support for using code in View XML attributes""",3.3733716,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1697,7,"""Add WebView """"onlink"""" callback support""",3.3833916,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1696,7,"""CLI: Unable to see project files in Chrome debugger on Windows""",3.376001,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1694,7,"""app/lib files do not have sourceMappingURL comments""",3.3765748,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1692,7,"""Unable use unicode characters in config.json""",3.3796427,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1689,7,"""Optimize model """"change"""" and """"remove"""" data-binding with ListView/TableView""",3.3821535,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1688,7,"""Android: ActionBar Subtitle not working when using both Alloy & NavigationWindow""",3.3701608,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1687,7,"""iOS: In Alloy, Empty LeftNavButtons tag generates unrunnable code""",3.3644383,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1685,7,"""Improve incremental build times""",3.3710167,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1684,7,"""Calling sort for a collection does not call the dataFunction as of backbone 1.1.2 and above""",3.3799424,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1683,7,"""Alloy: UnderscoreJS upgrading to v1.9.1""",3.373869,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1682,7,"""Alloy: MomentJS upgrading to v2.24.0""",3.3822,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1681,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1680,7,"""Alloy.Globals is not working""",3.3741348,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1679,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1678,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1677,7,"""Alloy.Globals is not working""",3.3741348,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1676,7,"""Alloy.Globals is not working""",3.3741348,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1675,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1674,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1673,7,"""Alloy.Globals is not working""",3.3741348,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1672,7,"""Alloy.Globals is not working""",3.3741348,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1671,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1670,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1669,7,"""Alloy.Globals is not working""",3.3741348,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1668,7,"""Alloy.Globals is not working""",3.3741348,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1667,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1666,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1665,7,"""Alloy.Globals is not working""",3.3741348,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1664,7,"""Alloy.Globals is not working""",3.3741348,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1663,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1662,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1661,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1660,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1659,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1658,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1657,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1656,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1655,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1654,7,"""iOS: Warning message thrown when using <View> in <AlertDialog> (Android-only)""",3.377026,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1653,7,"""Runtime error on Android when using optiondialog and not declaring destructive or cancel properties""",3.384826,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1652,7,"""CLI: Improve handling of missing directories and files in alloy new""",3.3780954,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1651,7,"""Update default version of backbone used""",3.3805258,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1650,7,"""Debugger does not hit breakpoints when running Android on Windows """,3.3686674,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1649,7,"""Creating a collection or model with leading slash throw error on require""",3.3822894,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1648,7,"""Include BackboneJS v1.4.0""",3.3799567,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1646,7,"""Allow platform xml namespaces to be used with xml attributes in Alloy""",3.381031,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1645,7,"""Fix TSS pegjs definition to work on newer pegjs versions""",3.3777072,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1644,7,"""Selective compilation does not regenerate platform app.js on Windows""",3.3739276,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1643,7,"""Alloy: Conditional styling broken in tss""",3.368016,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1642,7,"""Investigate why ALOY-1641 was not caught by tests/eslint""",3.372309,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1639,7,"""Use Matrix2D/Matrix3D instead of 2DMatrix/3DMatrix""",3.3753731,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1637,7,"""ES6 code frame fails when using duplicate variable declarations""",3.3783793,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1633,7,"""Alloy should assign globals directly rather than using the implicit global scope of app.js""",3.378537,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1630,7,"""Remove LocalStorage as sync adapter from new model creation""",3.3705132,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1629,7,"""Move to babel 7 packages""",3.3716836,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1625,7,"""Reduce splash screen image sizes""",3.3780558,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1624,7,"""Alloy: moment is not a function. (In 'moment(myDate)', 'moment' is an instance of Object)""",3.3794878,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1623,7,"""Data Binding: Deep Link Binding Broken""",3.382892,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1622,7,"""Migration on a model with sql adapter type: build error due to an undefined variable""",3.3732207,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1619,7,"""Add new app template: Drawer Layout""",3.3783267,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1618,7,"""Add new app templates""",3.3715117,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1612,7,"""CLI: Be able to use Alloy source-maps in Safari Debugger / Chrome Dev-Tools""",3.3763187,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1610,7,"""Allow controller created variables to be used in tss""",3.381714,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1608,7,"""Not possible to add elements on ti.map through alloy""",3.3787363,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1605,7,"""Android: Unable to build alloy apps using master""",3.3749082,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1604,7,"""iOS 10.0: Bluebird Promise not firing 'then' if Alloy is used.""",3.37463,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1600,7,"""Alloy: Deprecate TSS in favor of something JSON or JavaScript based.""",3.3811014,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1598,7,""" samples/apps/models/binding_no_persistence produces runtime error""",3.3801084,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1593,7,"""Android Debugger: Some breakpoints not hit if """"Resume"""" is done anytime during debug""",3.3721833,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1590,7,"""Android: OS_IOS assigned to a variable causes a crash.""",3.370395,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1589,7,"""ListItem having a Label with AttributedString is not working""",3.383323,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1588,7,"""Alloy: iOS build and deploy terminated after alloy compiling phase""",3.3660982,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1584,7,"""[Android] Ti.UI.Toolbar has no click event on 'displayHomeAsUp' icon when used as ActionBar, but ActionBar allows to close the window on its back-button press.""",3.3826163,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1582,7,"""Ti.Platform.osname reports windows""",3.370896,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1577,7,"""Android: baseController does not expose the element type""",3.3790252,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1565,7,"""KitchenSink v2 errors out on iOS""",3.372942,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1562,7,"""iOS: TextArea can't get focus or blur if it is located in two different TableViewSections""",3.3709168,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1560,7,"""can not scroll up or down (vertically) in a map inside a scrollView""",3.3848898,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1558,7,"""Annotation doesn't work on Alloy""",3.3766797,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1555,7,"""Need expert advice on core.js boilerplate Alloy Project""",3.372666,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1554,7,"""unable to set a background colour for tableHeader""",3.3863084,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1549,7,"""Remove autoloading of index controller from Alloy.js""",3.3844938,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1548,7,"""renaming index breaks the app""",3.3770301,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1547,7,"""Unable to set font properties directly from the XML tag, instead of the TSS file""",3.37162,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1546,7,"""Alloy.builtins.social:  Unable to get Twitter user info""",3.3715303,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1539,7,"""Correct NSP/Retire.js errors in alloy""",3.3691726,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1538,7,"""Alloy <FlexSpace> is wrapped with a deprecated API""",3.381654,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1532,7,"""Windows: SearchBar (inside ListView) is not working well for alloy project""",3.375057,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1525,7,"""Alloy Binding without persistence doesn't seem to work anymore""",3.3715963,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1522,7,"""Silence Alloy warnings about non-model files for file names that begin with a period""",3.3758283,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1516,7,"""Alloy: Text property inside LABEL element not displaying output of any method in combination with any text correctly""",3.3782728,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1513,7,"""Allow multiple global stylesheets""",3.377517,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1511,7,"""Alloy Model-View binding not working for ListItem accessoryType property.""",3.3811696,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1509,7,"""Generate spec-compliant require calls""",3.3773544,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1503,7,"""After Alloy compile, property which has array disappear.""",3.3692927,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1501,7,"""Installing widgets with npm breaks for npm scoped packages""",3.3803487,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1500,7,"""Provide an accessor method for alloy bound elements.""",3.375255,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1499,7,"""Multiple Rest api request in Alloy models returns same result in second call""",3.3743215,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1498,7,"""Add ability to create new alloy app from apps other than builtin sample apps""",3.3717349,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1497,7,"""Alloy model - filtered change event fires with any attribute""",3.3773897,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1491,7,"""Remove mapping sample app""",3.375848,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1490,7,"""Alloy 1.8+ not copying symbolic links to the platform folder in the project root""",3.374447,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1489,7,"""Support defining supported Alloy version range in config.json""",3.3734763,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1488,7,"""Alloy Hyperloop in Alloy XML views""",3.3732176,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1487,7,"""Support using dashes and other special characters in XML element IDs""",3.3753316,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1485,7,"""Warning on relocation of platform folder confusing if it contains only one platform""",3.373832,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1484,7,"""Regression: Moment.js languages for i18n folders no longer included""",3.3691304,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1483,7,"""Support composite use of L(key) and strings in XML attribute values""",3.3694143,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1482,7,"""Data binding: Support deep binding of model object attributes""",3.3785765,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1481,7,"""Data binding: Support binding multiple models to the same view""",3.376505,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1477,7,"""Regression: Missing model attributes cause error on collection data binding""",3.3784745,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1375,7,"""Alloy extract-18n --apply writes to wrong strings.xml in  Alloy 1.8.1""",3.372512,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1374,7,"""GitHub Alloy repository is missing CLA check""",3.3780086,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1373,7,"""/platform and /i18n folder contents can be lost on build""",3.3758109,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1372,7,"""Remove the Module XML tag""",3.3770516,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1371,7,"""Make Alloy less dependent on knowledge about Titanium APIs for parsing XML""",3.3713045,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1369,7,"""Complex data binding for collection doesn't work with transform""",3.3797257,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1367,7,"""Guide on how to submit a PR to the Alloy repo""",3.3704636,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1366,7,"""Alloy: images from widget theme not merged with Resources""",3.371548,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1365,7,"""Improve how Alloy works with i18n and platform folders""",3.3720992,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1363,7,"""Add support to set object properties via XML""",3.372424,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1362,7,"""Alloy: Long time build process""",3.3813498,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1359,7,"""Alloy should support multiple selectors""",3.3746588,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1354,7,"""A ListItem's text node should be used as title""",3.380366,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1349,7,"""Alloy Framework Model/Database - Some Docs or Features missing""",3.3751926,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1348,7,"""Provide better inline documentation/comments for generated files""",3.370275,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1347,7,"""API reference is missing controller properties and methods""",3.378651,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1344,7,"""App crash on controller.close when the searchBar has focus""",3.3721886,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1343,7,"""Android intent filter not receiving file data""",3.3677533,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1339,7,"""iOS: ListView Images[] property not working of embedded imageview""",3.3744144,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1338,7,"""LiveView do not do full restart app""",3.3773234,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1337,7,"""Support setting breakpoints in the CommonJS modules""",3.3790195,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1336,7,"""Alloy Theme Fails to merge/overwrite the platform/iphone folder - specifically 'Settings.bundle' sub-folder""",3.3679535,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1334,7,"""Alloy version not correct when printing Alloy.version""",3.378145,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1333,7,"""Support check if compatible Alloy version is used""",3.3793354,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1332,7,"""Alloy.version does not match actual version""",3.373503,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1330,7,"""Include async as a built-in library""",3.372227,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1329,7,"""Either keep Alloy backwards compatible with older Titanium SDKs or specify and validate minimum version""",3.3716125,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1328,7,"""Refactor data-binding to be incremental rather then reset""",3.3858886,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1327,7,"""Android: Alloy not working well when activity recreated by system""",3.3713603,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1326,7,"""Paths and names of Collections/Images/Controllers is not consistent.""",3.38051,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1324,7,"""Support Boolean (and Number) values in XML views""",3.374522,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1312,7,"""Upgrade Alloy to ES6 """,3.3810904,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1309,7,"""Debounced and """"onced"""" events""",3.3716285,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1307,7,"""Support theming of controllers, views and other files/folders""",3.3755915,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1306,7,"""AttributedString proxy property doesn't work if there's whitespace""",3.3709033,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1303,7,"""$.removeListener() should be called by $.destroy()""",3.373609,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1301,7,"""CHANGELOG out-dated: 1.7.0-dev - 1.7.4 missing""",3.366504,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1294,7,"""Windows: Cannot use custom template for ListView""",3.3761926,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1293,7,"""Add JSON sync adapter""",3.3753014,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1292,7,"""Add CommonJS sync adapter""",3.371771,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1291,7,"""RSS sync adapter""",3.3723767,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1290,7,"""Provide a global event dispatcher as alternative for Ti.App.fireEvent""",3.368199,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1289,7,"""Alloy social.js plug-in incompatible with newest Twitter APIs""",3.3753333,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1286,7,"""Windows: Default project's windows icons and splashes are incomplete and lack logo""",3.3680365,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1284,7,"""dataFilter and dataTransform attributes should be cross referenced to js file to ensure function exists""",3.374671,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1282,7,"""Ti.Map.View > Annotation data-binding not working as expected""",3.3834605,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1279,7,"""Android: Battery event listener causes a crash after open and close multiple windows""",3.3732247,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1277,7,"""Allow to load Alloy TSS styles from a string, not only from a filename""",3.3706868,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1275,7,"""Override not working when child controller is opened""",3.3774607,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1274,7,"""SplitWindow should be mapped to Ti.UI.iOS instead of Ti.UI.iPad""",3.3745325,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1270,7,"""createStyle""",3.37732,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1268,7,"""Implement Backbone dualStorage adapter""",3.3737946,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1267,7,"""Add built-in REST API adapter to use with Arrow""",3.3813076,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1266,7,"""Use indirect eval instead of direct eval""",3.3842707,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1264,7,"""Support New iOS SplitWindow in XML Markup""",3.3784919,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1263,7,"""Compiler should force """"strict mode"""" to increase (Android) performance""",3.378671,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1259,7,"""Alloy: The code in alloy.js should be wrapped by app.js to protect global scope""",3.3774822,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1258,7,"""RightNavButtons child button click events not fired consistently""",3.3746417,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1256,7,"""Widget/Require as top-level element uses controller as view""",3.3775718,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1255,7,"""Test ticket please ignore (nderzhak)""",3.3764594,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1254,7,"""Alloy: Support model transform() method for collection-view binding""",3.3758168,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1253,7,"""Alloy: Support WPATH in widget XML view attribute values""",3.3756685,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1251,7,"""Alloy: if-condition on required proxy property missing form assigning that property""",3.3804722,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1247,7,"""Model ID is undefined after model.destroy() with properties as adapter""",3.3751564,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1246,7,"""Alloy: LeftNavButton/RightNavButton should support text node for title""",3.374087,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1245,7,"""Alloy: """"alloy new"""" should only create assets folder for target platforms""",3.3806298,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1244,7,"""Alloy: """"alloy new"""" should remove/empty """"Resources"""" folder""",3.379233,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1243,7,"""Test of JIRA move issue""",3.375634,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1235,7,"""Alloy: Improve how config.json conditions are handled""",3.3761716,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1233,7,"""Alloy: there’s no way to use ItemTemplates outside of ListViews""",3.3739421,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1227,7,"""Alloy doesn't add new momentjs language after i18n folder is created""",3.3768399,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1224,7,"""Alloy Widget template needs updating""",3.380052,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1218,7,"""Alloy: Enable two-way data binding for input elements""",3.3786933,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1204,7,"""Override L behavior and id attributes in views""",3.3744924,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1203,7,"""TSS Platform Evaluation fails when there are spaces between the object and platform""",3.3846366,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1200,7,"""Alloy CLI create option to generate a Titanium project """,3.3798673,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1198,7,"""Update ui/android_menu text for Honeycomb/action bar usage""",3.3780856,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1194,7,"""Dev should be able to import TSS, and have independent TSS Files""",3.37417,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1193,7,"""Alloy: Changing Style in JS doesn't work for dynamically created views""",3.372311,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1192,7,"""iOS: apps crashing using TiSDK 3.5.X """,3.3768518,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1191,7,"""Star-rating image aspect ratio styles""",3.3739295,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1187,7,"""Update extract-18n command to extract i18n keys from special XML attributes""",3.3684325,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1176,7,"""Compilation Error when adding a SearchView as a child of MenuItem ActionView""",3.380605,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1143,7,"""Alloy: textid does not work for android""",3.3749082,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1126,7,"""The wrong version of Alloy : """"alpha"""" downloaded instead of """"beta""""""",3.369184,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1119,7,"""New property for ListView - separatorView""",3.3756688,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1114,7,"""Alloy: Backbone update""",3.380348,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1110,7,"""Another flavor of data binding in Alloy""",3.3766196,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1109,7,"""Better code completion for tss files in JetBrains IDE""",3.3818114,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1106,7,"""Array returned by Controller.getViews() doesn't have length""",3.380246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1100,7,"""Select and implement syntax for specifying static strings for binding properties""",3.3785913,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1095,7,"""Pickers not working if using 'Ti.' instead of 'Titanium' and ID is not 'picker'""",3.377672,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1084,7,"""[Alloy] jake app:run should accept -I (really all titanium CLI flags)""",3.3657928,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1071,7,"""Can't dynamically override backgroundColor of a view""",3.378567,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1070,7,"""""""Native"""" Alloy views""",3.3733735,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1066,7,"""Windows, Android: Alloy build to device fails when spawning Alloy compile command""",3.3666666,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1065,7,"""Source mapping of non-controller files should ignore non-JavaScript files""",3.3722003,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1061,7,"""Alloy: Require a specific view via XML""",3.3809671,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1060,7,"""Remove dependency on is""",3.3729577,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1058,7,"""Picker is not displayed if 'type' property is set in .TSS""",3.3765333,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1057,7,"""Update version number in lib/alloy.js to 1.4.0""",3.3708973,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1056,7,"""Cannot set onTintColor attribute/property in XML markup""",3.371938,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1055,7,"""iOS: build fails using a ScrollableView that contains a ListView using Templates""",3.3678768,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1053,7,"""Build error using 'type' property """,3.3722246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1052,7,"""Alloy: Support use of L in XML proxy elements""",3.3750036,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1051,7,"""Font properties not properly merged when using dynamic styles""",3.3769748,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1050,7,"""Parity Issue: app shows different behaviour on iOS and android""",3.366691,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1049,7,"""Alloy: Localized Strings not working for android""",3.3723564,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1048,7,"""Alloy: A warning appears in index.xml file while creating default Alloy project""",3.3753629,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1047,7,"""Compile error when there is no """"assets"""" folder under widget and themed widget directory.""",3.3696246,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1046,7,"""MobileWeb: Unable to package the sample alloy widget app""",3.3746526,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1045,7,"""Update SDK version in the HarnessTemplate tiapp.xml for 3.3.0.GA""",3.3788383,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1042,7,"""Themes/Assets images not always correctly applied when using same theme for multiple platforms""",3.3716083,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1040,7,"""Android: Bouncy logo does not appear while running sample alloy widget app""",3.3667452,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1039,7,"""Alloy version built from 1_4_X branch is """"1.4.0-alpha4""""""",3.3676302,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1038,7,"""Conditionals with negation are not working""",3.3714573,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1037,7,"""Expose instantiation arguments of createController""",3.3773806,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1036,7,"""CustomTSS: Comma-separated queries are using wrong operator AND instead of OR""",3.3763978,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1035,7,"""Themes: Assets images not being applied as expected""",3.3670104,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1034,7,"""Alloy : Incorrect month value used in generated file names, e.g. migrations""",3.3797097,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1033,7,"""ListView searchView property throws error if set in XML""",3.381523,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1032,7,"""Mobileweb: Application Error using JSON.stringify on a UI object""",3.37635,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1031,7,"""Alloy: ListView not binding correctly with Collection when using Encrypted Database Module""",3.3784978,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1030,7,"""Build fails for """"ToDo List"""" Alloy sample""",3.3700972,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1029,7,"""Listview code errs on Android but works on iOS platform""",3.3672721,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1028,7,"""platform attribute with comma-separated string not correctly applied during build""",3.375911,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1027,7,"""Create a master demo Alloy app from the repo demo apps""",3.3702374,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1026,7,"""Update and prioritize the samples in the Alloy repo""",3.3723037,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1025,7,"""Update docs related to Alloy samples""",3.3682196,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1024,7,"""Make existing and new Alloy samples & demos more prominent and available""",3.3705835,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1023,7,"""Issue merging font styles""",3.3673325,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1022,7,"""Bad JS-Code when using '-' in element id""",3.3747623,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1017,7,"""Alloy: 'method' and 'module' should not be passed to create a function""",3.3765235,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1015,7,"""LiveView: Ti.include statements not supported""",3.3695924,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1014,7,"""Document the ways we can publicize the Alloy sample apps""",3.3748107,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1013,7,"""MobileWeb: Builtin Confirm Dialogs not closing after clicking on yes/no""",3.3839166,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1011,7,"""Android ActionBar: issues using TSS styles""",3.37278,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1009,7,"""Alloy: Add <Option> titleid so that it can use i18n strings""",3.3765156,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1008,7,"""targetSdkVersion=11 has to be removed or updated from Harness Template""",3.3746786,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1007,7,"""Picker: update existing sample to new ALOY-263 Picker parser""",3.3712575,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1006,7,"""Debugger does not stop at breakpoints set in alloy.js""",3.3741832,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1005,7,"""Alloy <Require> doesn't care about the platform attr (parent or itself)""",3.3787432,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1004,7,"""Styles priority is not correctly respected when using Custom TSS queries""",3.3720262,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1003,7,"""ListView binding compile error when """"type"""" is used as a bindId""",3.380066,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1002,7,"""Platform-specific folders within a widget's assets are copied unnecessarily to the Resources folder""",3.376314,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1001,7,"""Remove usage of wrench in favor of fs-extra""",3.380521,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1000,7,"""Model Binding a View generates multiple calls to update the data of bound objects.""",3.3820155,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-999,7,"""Alloy: Add Compile time defines functionality""",3.3789089,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-998,7,"""Address to-do comment in compilerUtils.js regarding TIMOB-14884""",3.380687,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-997,7,"""Add theme support for i18n and platform directories""",3.3732822,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-996,7,"""Remove changes made in ALOY-858""",3.3791854,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-995,7,"""Support turning off iCloud backup for auto-generated model databases""",3.3755748,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-994,7,"""Add <ActionBar> tag to set activity.actionBar properties""",3.373836,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-993,7,"""Ti.Android.Menu.js -- remove Android version test once Android 2.x is no longer supported""",3.3769667,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-992,7,"""Alloy : Geocoder sample application in Titanium Studio""",3.371064,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-991,7,"""Support new ActionBar subtitle property in <Menu>""",3.373783,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-990,7,"""Alloy : createCollection() should accept 'options' as an argument""",3.3827543,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-989,7,"""Custom TSS: issue when using more than one conditional""",3.37702,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-988,7,"""Update tests: """"known good"""" code no longer matches generated code""",3.3721983,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-987,7,"""Alloy : Shorthand for fetch() don't work correctly using default alloy_id""",3.3837514,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-986,7,"""Alloy: Allow 'binding' properties to be set on an Alloy view from a controller""",3.3761055,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-984,7,"""Support RightNavButtons and LeftNavButtons in Alloy XML Markup""",3.3679285,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-983,7,"""Popover height and width are ignored when using ContentView element""",3.3668,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-982,7,"""Unit tests failures for ALOY-709""",3.365272,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-981,7,"""Implement KeyboardToolbar for TextArea""",3.3774943,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-980,7,"""Alloy: Builtin moment.js causes exception on device if language is not EN""",3.3749907,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-979,7,"""Document tools""",3.3788927,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-978,7,"""Document team processes""",3.3728645,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-976,7,"""Document the 'alloy compile' process""",3.375141,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-975,7,"""Document the Alloy repo / file structure""",3.3687184,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-974,7,"""Document Alloy""",3.3693113,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-972,7,"""Alloy : Alloy.Controller.getView returns a controller when requesting a widget or remote view by ID""",3.3784814,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-971,7,"""Alloy : Collection events triggered with trigger() method are firing twice""",3.378978,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-970,7,"""Update jake and Harness template for Ti 3.2.2.GA""",3.3680067,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-969,7,"""Variable position in compiled alloy file""",3.3737624,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-968,7,"""strings in xml on boolean values (""""false""""/""""true"""") fail in mobileweb""",3.3836944,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-962,7,"""Menu control doesn't appear in Todo sample on Android""",3.3805714,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-960,7,"""Add support for ContentView in Popover Alloy View xml""",3.3820462,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-959,7,"""Alloy: Android ignores Alloy config settings""",3.3713377,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-958,7,"""Alloy: Allow adding of custom tss file""",3.3784993,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-957,7,"""Alloy: How to consume alloy widget asset in 3.2.0?""",3.3773916,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-956,7,"""Jake: remove hardcoded SDK version""",3.3839095,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-955,7,"""Remove tizen support""",3.3773494,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-954,7,"""<ItemTemplate> sometimes not applied properly to <ListView>""",3.3776214,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-953,7,"""Alloy Social.js builtin: improve UI for both iOS 7 and Android""",3.3714364,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-951,7,"""Social.js builtin: throws JS error after canceling authorization""",3.3753707,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-949,7,"""Customizable properties for dialogs bultin""",3.3875139,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-948,7,"""Alloy: LiveView: runtime tests not working if LiveView is enabled""",3.3600342,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-946,7,"""Confirm manual attachment of SOASTA IDs in Alloy XML works as expected""",3.378472,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-945,7,"""Alloy compile copies .svn files from widgets and models to build""",3.3759294,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-944,7,"""Add """"setTopLevelViews"""" so controllers extending others can redefine the UI""",3.3758085,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-943,7,"""iOS: App Icon is not set""",3.3668344,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-941,7,"""Add a unique and unchanging ID property to all UI components for Appcelerator Test usage""",3.373264,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-940,7,"""Unable to add NavigationWindow to Popover in Alloy""",3.3795848,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-938,7,"""Using conditional TSS results in unexpected _.extend() calls""",3.37495,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-937,7,"""Platform specific widget assets are misplaced under Resources""",3.3707635,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-936,7,"""Alloy, TSS as js not """"parsed json""""""",3.3765366,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-935,7,"""Update xmldom once upstream implements PR#74""",3.3614626,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-933,7,"""ui/map app not working for iOS with TiSDK 3.2.0+""",3.376223,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-931,7,"""Programmatic Binding API""",3.3784869,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-930,7,"""ListView: HeaderView must come before Templates tag or it won't show up""",3.3819735,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-929,7,"""Widget/Require includes references to child elements targeted for other platforms""",3.3785226,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-927,7,"""TextField: Support keyboard and return key type shortcuts strings in XML and TSS definitions""",3.3774157,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-926,7,"""Allow --platform to specify multiple platforms or even """"all""""""",3.3720586,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-925,7,"""XML: Allow for in-line script blocks""",3.374298,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-924,7,"""Alloy: Built-in loading widget fails to be added in controller whose top-level view is a navigation window""",3.3728993,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-923,7,"""TextField with proxy property causes compile error as ItemTemplate""",3.3808577,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-922,7,"""Alloy: Previously working code crashes with Alloy 1.3.0 + Titanium SDK 3.2.0""",3.3758593,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-920,7,"""should.js causes compiler error""",3.3680468,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-919,7,"""1.3.1 release notes""",3.3714046,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-917,7,"""Alloy RSS Sample generates runtime error on iPhone""",3.3724654,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-916,7,"""Alloy 1.3 does not apply theme images where filenames are the same as the replacement""",3.3685257,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-915,7,"""Alloy Collection (RESTful) is not releasing memory properly""",3.3863661,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-914,7,"""Default Alloy Project shows incorrect appicon""",3.3720992,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-913,7,"""Error TextField on addEventListener on dataCollection""",3.3804853,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-912,7,"""Alloy 1.3.0 ignores formfactor in headerView - leads in crash""",3.3692904,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-911,7,"""touchEnabled property in Alloy xml crashes on Android with Titanium SDK 3.2.0.GA""",3.3725278,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-910,7,"""Need refresh control support in Alloy view mark-up""",3.376213,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-909,7,"""Tooling: No meaningful error message given for invalid XML markup""",3.373154,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-907,7,"""JavaScript syntax error output is incorrect and confusing""",3.3762271,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-905,7,"""Make 1.3.0 compatible with TiSDK < 3.2.0""",3.3725743,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-904,7,"""Requesting widgets/requires to receive reference to their parent""",3.3813305,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-903,7,"""Alloy: __parentSymbol property missing for widgets in TableView """,3.3685486,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-901,7,"""Deleting app/alloy.js causes compile error""",3.3714178,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-900,7,"""Create a new table with Alloy and pre-built db""",3.3855507,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-899,7,"""Cannot add/remove class from ListViewItem""",3.3803718,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-898,7,"""com.appcelerator.loading widget causes memory leak """,3.3709755,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-897,7,"""Adding a Widget that uses arguments to a controller's XML causes a Proxy leak""",3.3793747,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-895,7,"""Set Switch state by databinding on opening window""",3.3706882,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-894,7,"""Android proxies throwing ClassCastException on non string attributes""",3.3750725,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-893,7,"""social.js update to REST API 1.1""",3.3733516,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-891,7,"""Make sure all samples work with TiSDK 3.2.0""",3.378079,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-890,7,"""Replace <NavigationGroup> with <NavigationWindow> in all test apps""",3.3767061,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-889,7,"""iOS: <NavigationGroup> object generates Ti.UI.iPhone.createNavigationGroup, removed in 3.2.0 """,3.3796432,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-887,7,"""In XML files of an Alloy project, open a comment block but not closing it, will hang up the compiler""",3.3728082,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-886,7,"""Android: some widget samples does not show with TiSDK 3.2.X""",3.3741615,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-885,7,"""Version output on failed TiSDK check is in error""",3.3757427,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-884,7,"""Errors removing orphaned sync adapters when using a widget-specific sync adapter""",3.375652,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-883,7,"""Support proxy-like elements in Alloy widget/require child view-elements""",3.37938,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-880,7,"""Improve error reporting on duplicate alloy controller id""",3.3813243,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-879,7,"""Alloy: Properly expose Alloy NPM package as a CommonJS module""",3.373414,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-878,7,"""<SplitWindow> not recognized when used with formFactor tags""",3.377829,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-877,7,"""Add TiSDK 3.2.0 warning for Alloy 1.3.0""",3.375413,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-876,7,"""Alloy 1.3.0 - Could not find app.js""",3.3708503,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-875,7,"""1.3.0 Release notes""",3.3700464,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-874,7,"""Proxy properties not showing on data bound tables or lists""",3.370063,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-873,7,"""ListView data binding test app fails on second start""",3.3754268,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-872,7,"""Modify the Harness template for Android project to workaround ti.paint module not working""",3.3785665,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-871,7,"""Custom TSS device queries""",3.375786,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-868,7,"""Can't use deep <Require>'s for proxy properties""",3.3818748,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-867,7,"""dataTranform executes twice in Alloy using sql data source""",3.3808193,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-866,7,"""Only recompile app.js when necessary""",3.3711073,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-865,7,"""Cache global style""",3.3798275,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-864,7,"""Remove ALOY-477 workaround for rhino support""",3.370798,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-863,7,"""Mobileweb 3.2.0 breaks Alloy apps with """"'apiName' is read only""""""",3.373411,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-862,7,"""index.xml in subfolder throws error if it doesn't have a top-level container""",3.382389,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-861,7,"""When creating a new controller, add arguments statement to the JS file""",3.3827841,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-860,7,"""Consider adding conditional for theme support in Alloy""",3.3691475,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-857,7,"""Alloy: Add ability to have custom parsers""",3.379951,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-856,7,"""Support CSS like Selectors in TSS style files""",3.377955,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-853,7,"""Internationalization in markup required cause of creation only property""",3.371136,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-852,7,"""Android: closure-compiler warns for suspicious Alloy code""",3.3703532,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-851,7,"""Alloy: Setting default ID on first top-level XML view element doesn't take platform attribute into account""",3.3769264,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-850,7,"""Alloy: Automatically remove constants for platforms not targeted on compile""",3.3777401,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-849,7,"""Using different code file depending whether device or simulator is used""",3.3793387,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-848,7,"""Titanium Alloy Map not showing in production release""",3.3711488,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-847,7,"""Could this be a memory leak in Alloy ? (bitmap trapped / Android)""",3.3760908,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-846,7,"""iPad: detailWindow inside TabGroup does not load after switching tabs""",3.3820822,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-845,7,"""way to use os version in tss files""",3.3771913,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-844,7,"""Alloy - Event Listeners added repeated to different XML formFactors""",3.3744109,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-843,7,"""ListView/ListSection: Support new API elements in XML""",3.382444,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-842,7,"""Alloy: Have the measurement builtin use actual pixels for iOS as well""",3.3710248,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-841,7,"""Add an `once` function for call-once global events""",3.3735054,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-840,7,"""Alloy: XML elements may be without end slash?""",3.3772085,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-839,7,"""Alloy compile copies .svn folders to generated 'Resources'""",3.3751125,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-838,7,"""Alloy: Mix conditional environment and platform values""",3.380063,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-837,7,"""Alloy: Comment appear in the button""",3.3760366,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-835,7,"""Get Alloy in CI""",3.38055,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-834,7,"""Android only: Alloy generates addeventlistener call before createTabGroup call causing crash on Android when <Menu> is in XML...""",3.3783576,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-833,7,"""Allow <Widget> as child of TableView""",3.3775754,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-832,7,"""Geocoder Sample: Unable to geocode address""",3.3670776,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-831,7,"""NavigationWindow in Tabs fails""",3.3687615,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-830,7,"""Alloy: ns should not be passed to create function""",3.3768475,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-826,7,"""Required ListSections always come first""",3.3694656,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-824,7,"""Update NavigationWindow sample app""",3.3765714,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-822,7,"""Add support for unsetting properties in TSS via 'undefined'""",3.3801486,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-821,7,"""Offscreen to onscreen window animation problem""",3.3691578,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-820,7,"""Fix alloy.jmk loading""",3.3742595,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-819,7,"""Alloy 1.2.1 escapes control values contained within XML""",3.3677075,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-818,7,"""iOS7: NavigationWindow should work also inside Ti.UI.iPad.SplitWindow""",3.3739576,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-817,7,"""Wrong method used to add an event listener when using custom namespace in markup""",3.3743951,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-816,7,"""Add deprecation for Ti.UI.iPhone.NavigationGroup, minimum version validation for Ti.UI.iOS.NavigationWindow""",3.3745162,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-815,7,"""iOS 7: add 'navigationWindow' API to XML markup""",3.3810966,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-814,7,"""Not all widgets are compiled and added to Resources directory by Alloy since 1.2.1""",3.3790233,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-813,7,"""Unicode characters display as a text string rather than the character""",3.3756974,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-812,7,"""Alloy: Automatically convert string-values for number-properties like borderWidth in TSS""",3.3751996,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-810,7,"""When moving app outside Studio workspace, alloy compile fails""",3.3699121,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-809,7,"""Debugger stops because of an exception when adding event listeners in the view""",3.3791633,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-808,7,"""Alloy: Can't use 'Alloy.CFG' in a model definition""",3.3828754,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-807,7,"""Alloy: Style properties are not showing with runtime values on package distribution""",3.3685124,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-805,7,"""Windows fails generate.js spec on Windows with weird behavior""",3.3808875,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-804,7,"""jake not working on Windows""",3.3848875,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-803,7,"""Windows: issues using subfolders in controllers/views""",3.3760884,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-802,7,"""Build failure on Windows with 'Invalid hex-character pattern in string' error""",3.371751,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-801,7,"""Not properly cleaning up platform-specific orphan files""",3.3803213,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-800,7,"""Add support for <Annotation> within <Module module=""""ti.map"""" method=""""createView"""" platform=""""android"""">""",3.3817418,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-799,7,"""Alloy app containing multiple widgets won't build""",3.3827796,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-798,7,"""Modify Error Message: Cannot read property 'manifest' of undefined""",3.3714232,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-797,7,"""momentjs 2.1 zone() behavior has changed with moment-timezone release""",3.3852165,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-796,7,"""Bump xml2tss dependency to 0.0.5""",3.3790383,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-795,7,"""Remove """"jake"""" from dependencies""",3.3734772,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-794,7,"""Alloy Conditional code not functional""",3.3791764,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-793,7,"""Build fails if using ' \ ' character as text in styles .tss """,3.369106,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-792,7,"""Builtins: Add flip animation""",3.3749716,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-791,7,"""Repair icon asset file names for iOS""",3.3608272,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-790,7,"""Alloy: Error when calling $.createStyle if the style file contains \n""",3.3703287,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-789,7,"""Improperly escaping line terminators""",3.376804,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-788,7,"""iOS: rightButton for TextField doesn't work""",3.3747752,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-787,7,"""A <Widget> in a widget view should default to the current src""",3.3774922,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-786,7,"""Alloy parser for Switch should set the value property on iOS""",3.3758729,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-785,7,"""Pass TabGroup as __parentSymbol to widgets providing a tab""",3.378821,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-784,7,"""Implement Titanium.Android.ActionBar properties in <Menu>""",3.3809373,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-783,7,"""Alloy: config.json environment-specific global values are ignored, always returning the env:development value""",3.3766668,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-782,7,"""Add support for XML views and properties like 'titleid' to i18n-extract""",3.371818,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-781,7,"""Add option to extract-i18n to remove strings not used in code""",3.3734605,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-780,7,"""Support DEBUG compiler constant""",3.3810666,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-779,7,"""Add optimized config.json to each test app""",3.3712192,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-778,7,"""Confirm Dialogs no opening on device""",3.3784425,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-777,7,"""Create tool for adding contributors to AUTHORS file""",3.3766978,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-776,7,"""Allow a Require to provide multiple ListSections""",3.3775086,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-775,7,"""Allow a Require to add both (multiple) Templates and ListSections""",3.369962,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-774,7,"""Alloy dynamic styling can't handle WPATH""",3.3761199,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-773,7,"""Tizen does not support Android constants for softKeyboardOnFocus property""",3.3785675,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-772,7,"""Update dynamic_styling test app to account for TIMOB UI bugs""",3.3711874,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-771,7,"""Allow operators and expressions in TSS""",3.3753092,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-770,7,"""Views .xml tags not closed properly are not detected as an error""",3.3739984,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-769,7,"""Tizen support""",3.365908,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-768,7,"""""""binding_listview"""" sample: set 'touchEnabled:true' or 'bubbleParent:false' to button.tss """"#label"""" style""",3.3716536,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-767,7,"""""""Bindings_scrollableView"""" sample on Android does not display images""",3.367191,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-766,7,"""Sample: 'binding_dashboard' is not including specific code for non-iOS platforms""",3.3760014,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-765,7,"""Alloy: Introduce a compiler hook that runs before assets are copied""",3.37655,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-764,7,"""BlackBerry: add support for Model/Collection using SQL adapter""",3.3775704,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-761,7,"""BlackBerry: Map annotation are not displayed if object properties are set in the view .xml """,3.3754852,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-760,7,"""Generate runtime files to Titanium platform-specific folders""",3.371513,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-759,7,"""Support the ability to have compiler conditionals defined as JS constants""",3.376487,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-758,7,"""Create pre-compiled versions of Alloy core runtime libraries per-platform""",3.374703,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-757,7,"""Only recompile controllers when necessary""",3.3814619,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-756,7,"""Alloy dynamic styling: access global app raw styles""",3.381133,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-755,7,"""Alloy dynamic styling: modify raw styles should affect new alloy controllers""",3.382587,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-754,7,"""Alloy: Add theme-support for config.json""",3.375006,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-753,7,"""Alloy properties adapter 'reset' event fired twice""",3.3795826,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-752,7,"""font property is not properly being mixed in when using multiple classes""",3.3788705,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-751,7,"""Android: some Style properties are not removed using $.removeClass""",3.3728251,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-750,7,"""Can't use a pipe separator (bitwise operator) in TSS for some API's that require it""",3.376731,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-749,7,"""Remove unstable oauth builtin""",3.3761642,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-748,7,"""Alloy code should pass cleanly through jslint""",3.3751667,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-747,7,"""Alloy: Add attributes to override create, add and remove methods""",3.3801749,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-746,7,"""1.2.0 inline API docs update""",3.3707116,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-745,7,"""Styles priority is not correctly respected using platform-folder app.tss""",3.3774273,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-744,7,"""Alloy: Specify controller code that needs to come before generated view code""",3.3729072,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-743,7,"""Alloy: Add proper dynamic loading of namespace objects""",3.3802974,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-742,7,"""CLI: alloy generate style command does not check for the existence of the global style or files without view-controllers before overwriting it""",3.374179,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-741,7,"""moment.js builtin causes compile error if """"i18n"""" folder doesn't exist""",3.3780708,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-740,7,"""Alloy samples: remove """"(Alloy)"""" from the labels in json response""",3.3747041,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-739,7,"""ScollableView performance lagging on Android in Alloy""",3.3718445,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-738,7,"""Alloy: Allow bitwise OR operand '|' in TSS files""",3.3788588,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-737,7,"""ALLOY: Integrate xml2tss""",3.3716896,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-736,7,"""Alloy: Twitter builtin does not close loading popup after login""",3.3783126,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-735,7,"""Allow arbitrary paths for preloaded sqlite databases""",3.3725224,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-734,7,"""""""logger"""" not defined in CoverFlowImageType and BarItemType parsers""",3.3792846,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-733,7,"""Alloy controller inheritance""",3.3778608,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-732,7,"""Alloy: Model db_name is ignored when db_file is set""",3.379204,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-731,7,"""Alloy: Ti.UI.textField: clearOnEdit being passed back as String instead of bool, causes crash""",3.3772974,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-730,7,"""Fetching different models with a specific idAttribute inserts instead of replaces the """"old"""" object in the fetch success response object.  """,3.3847353,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-729,7,"""Alloy fails to compile when TabbedBar Labels have no properties""",3.3757062,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-728,7,"""Add a CLI command to extract i18n strings from alloy code and update the strings.xml files""",3.3731587,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-727,7,"""Alloy: OptionDialog androidView not showing up""",3.3817775,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-726,7,"""Update momentjs builtin to 2.1.0, and make translations available""",3.3784387,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-725,7,"""autoLink values show as error in TSS files""",3.383412,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-724,7,"""Implement Ti.Android.Menu with TabGroup""",3.377823,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-723,7,"""Alloy: Remove log unimportant log calls in production""",3.3781383,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-722,7,"""ScrollableView is automatically repositioning itself to currentPage=0 when Alloy Model updates""",3.3751884,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-721,7,"""Alloy.resetClass() & $.resetClass()""",3.377928,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-720,7,"""Allow Widgets as child of Menu tag""",3.3820298,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-719,7,"""Alloy Android feature request: view/style API level conditional code""",3.3753245,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-718,7,"""ALLOY: SQL sync adapter should not require knowledge of the table name""",3.380629,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-717,7,"""Improve """"reflow""""/""""repaint"""" functionality when adding and removing classes""",3.3807738,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-715,7,"""Create a basic dynamic styling test app""",3.3788934,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-714,7,"""Shorthand for some proxy properties (i.e., <RightNavButton>)""",3.378857,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-713,7,"""TabbedBar not showing in data bound TableViewRow""",3.3791454,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-712,7,"""Dynamic styling test app""",3.3790953,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-711,7,"""Alloy Widgets samples are outdated and should be improved""",3.3724163,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-710,7,"""Alloy: Line number reported in the 'Errors' report is not always accurate if referring to a compiled file in the 'Resources' folder.""",3.3716652,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-709,7,"""Add ability to disable auto adding """"classes"""" and """"apiName"""" properties""",3.3777661,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-707,7,"""Alloy builtins to share a post on twitter with images but currently only string message is supported""",3.374205,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-706,7,"""Store """"classes"""" and """"apiName"""" on Alloy-created proxies""",3.3744206,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-705,7,"""Add possibility to read a Model by its ID in the SQLite sync adapter""",3.3813431,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-704,7,"""Alloy social: adding username and userid""",3.3752463,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-703,7,"""Less modified code generation""",3.3756142,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-702,7,"""Double quotes not properly escaped in TSS strings""",3.3787813,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-701,7,"""Alloy Listview templates don't support nesting""",3.3741107,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-700,7,"""Add android density specific test app""",3.3713377,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-699,7,"""Navbuttons in splitWindow markup""",3.3773248,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-698,7,"""Change require('alloy/styler').generateStyle() to Alloy.createStyle()""",3.3671372,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-697,7,"""<LeftButton> and <RightButton> not implemented in the Alloy markup""",3.371463,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-696,7,"""Support for Alloy.UI.create() and $.UI.create() in widgets""",3.375905,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-695,7,"""Create controller-specific version of Alloy.UI.create() that doesn't require controller name""",3.3816042,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-694,7,"""Add support for Google Maps v2 add-on module""",3.375819,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-693,7,"""Alloy: Detect using the same ID for multiple view elements""",3.372955,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-692,7,"""Alloy error output truncated with SDK < 3.0 on Windows""",3.3741407,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-691,7,"""Alloys Data Binding feature does not respect platform property""",3.3840463,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-690,7,"""Add config.json option to disable source map creation""",3.3804753,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-689,7,"""ALOY: Bottons are not displayed using the proxy properties.""",3.3705363,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-688,7,"""Alloy: Runtime error occured in Binding Bars Sample app.""",3.377786,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-687,7,"""Pre-process all platform queries in runtime styles""",3.3815153,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-686,7,"""ALLOY: Add option for adding generate items to the git repository""",3.3711293,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-685,7,"""Port generateStyleParams() into a runtime version""",3.3781798,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-684,7,"""Interface for dynamically creating styled UI elements""",3.376187,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-683,7,"""CFG.js not being regenerated with changes to config.json""",3.3798034,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-682,7,"""Alloy: Prevent default ID for a view's root element to be used by child element""",3.3728042,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-681,7,"""Use CLI """"project"""" hook to update app/assets platform-specific resources""",3.3768003,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-680,7,"""add compiler directives to distinguish between ad-hoc and app-store distribution""",3.3828928,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-679,7,"""Defaults for pre sqlite file""",3.3821628,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-678,7,"""Adding child Views to Ti.UI.View in ItemTemplate fails""",3.3721983,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-677,7,"""XML Entities in views are not unescaped""",3.376249,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-676,7,"""Make constants.js valid for both nodejs and Titanium""",3.376906,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-675,7,"""Move logger.js out of """"common"""" folder""",3.3783362,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-674,7,"""multiple columns for an idAttribute""",3.384698,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-673,7,"""Add git tags for Alloy versions back to 1.0.0""",3.3704467,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-672,7,"""Alloy for binding existing Model instances to Model element""",3.3778687,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-671,7,"""Alloy app when accessing module from controllers->index.js, giving runtime error""",3.3749576,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-669,7,"""Generated style arrays sometimes contain """"undefined"""" keys""",3.3791494,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-668,7,"""Generate runtime style modules in alloy/styles""",3.3712842,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-667,7,"""Alloy: having a button (one for each platform) with same ID causes Ti.Contacts.showContacts() weirdness""",3.3732288,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-665,7,"""Using namespace in markup event""",3.3840775,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-664,7,"""Create wiki documentation on Alloy internals""",3.370395,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-663,7,"""Go through test apps and make sure they work with blackberry""",3.3740282,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-661,7,"""CLONE - Code Processor: Get alloy to recompile before an analysis""",3.37317,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-660,7,"""Alloy: tag the source with <version> when publishing a version to global npm""",3.371999,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-659,7,"""Bad behavior when setting a platform specific 'controller' .JS with no platform specific associated .XML""",3.3788364,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-657,7,"""FixedSpace not supported in XML Markup""",3.3785233,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-656,7,"""Must have index.xml even if no UI is needed for the index controller""",3.382835,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-655,7,"""Provide a data- attribute support for Alloy xml""",3.376758,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-654,7,"""Android builds runs the new CLI hook, then also the legacy python compiler plugin """,3.3767662,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-653,7,"""Android: FastDev is not working for Alloy when app manually relaunched""",3.3722258,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-652,7,"""Preprocess style for runtime""",3.377017,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-651,7,"""Create compile and runtime unit testing for style processing""",3.3742292,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-650,7,"""Abstract all style handling code to single module""",3.3778799,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-649,7,"""Don't put ticket-based test apps on npm""",3.3825848,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-648,7,"""Allow ListViewAnimationProperties to be passed to functions while data binding""",3.3707583,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-647,7,"""Allow complex data binding on ListView for sections and items""",3.3781002,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-646,7,"""Alloy: Module args on method""",3.3771336,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-645,7,"""onClick=""""nested.object.here"""" throws errors in Alloy""",3.380812,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-644,7,"""Alloy should use no persistence when no adapter type is specified""",3.372929,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-643,7,"""Upgrade underscore.js to version 1.4.4""",3.380607,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-642,7,"""Memory leak with animation.js fadeIn() and fadeOut()""",3.3754423,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-641,7,"""Support remoteBackup for SQLite adapter""",3.3788514,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-640,7,"""Don't minify backbone.js and underscore.js in development build""",3.375971,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-638,7,"""Create complex style test app for testing all style combinations""",3.3733168,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-637,7,"""Port node-based style handling code to Titanium""",3.3746817,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-636,7,"""Improved unit testing""",3.375488,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-635,7,"""Styles not being sorted properly among global, controller, platform-specific, and theme""",3.3741887,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-634,7,"""Alloy: Create a Model that contains a field/column with a Default value of CURRENT_TIMESTAMP""",3.3873274,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-633,7,"""OS_IOS undefined in animation.js""",3.375309,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-632,7,"""Builtins being processed out of order""",3.3677351,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-631,7,"""ListView in view markup throws error""",3.3720894,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-630,7,"""Use base xml files for views""",3.379645,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-629,7,"""app.tss not being applied if set in a platform-specific styles folder""",3.366794,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-628,7,"""When merging <viewname>.tss styles, platform specific Themes styles are not having priority over platform specific generic styles""",3.3758957,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-627,7,"""Only regenerate and copy CFG.js to Resources when app/config.json is added/removed/changed""",3.3767834,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-626,7,"""Remove unneeded resources from samples/mapping""",3.3761113,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-625,7,"""app.tss not being applied to views that don't have controller-specific styles""",3.3736475,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-624,7,"""TypeError: Cannot read property 'isListItem' of undefined at processStyle """,3.370949,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-623,7,"""Test and merge PR #102 - Buttongris widget fixes""",3.3726928,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-622,7,"""app.tss doesn't apply to baseController """,3.3800561,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-621,7,"""Only generate sync adapters for one specified""",3.371762,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-620,7,"""Reduce compile time""",3.3861177,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-619,7,"""Compile time checking for native modules in markup""",3.3826277,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-618,7,"""Prepare Alloy 1.1.2 with BB support""",3.3731942,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-617,7,"""Create source mapping for .XML files""",3.3713002,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-616,7,"""Create source mapping for .JS files currently unsupported by the Debugger""",3.3736048,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-615,7,"""BlackBerry : Building alloy app for BB deletes the BB folder in resources & adds 'Iphone','android','mobile web' folder to it which causes build failure""",3.3748715,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-614,7,"""Dynamic DataCollection for UI""",3.3816974,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-613,7,"""Develop API for adding/removing style classes""",3.3795903,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-612,7,"""Make raw styles available at runtime""",3.3736832,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-611,7,"""Add <Require> support to ListView""",3.3786175,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-610,7,"""TiAPI: Read Alloy markup files natively """,3.3680327,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-609,7,"""ListSection data binding""",3.3810856,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-608,7,"""Support ListView's ItemTemplate in markup""",3.3762798,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-607,7,"""Enable basic ListView, ListSection, and ListItem support in markup""",3.3727927,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-606,7,"""Alloy doesn't work well under non-administration Windows account""",3.373165,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-605,7,"""Creating a rightnavbutton wrongly results in no errors, not death""",3.3772576,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-604,7,"""Events inside binded views do not work""",3.3801079,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-603,7,"""Allow Alloy widgets to be wrapped around child elements in XML views""",3.3776276,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-602,7,"""Nested collection bindings don't work as expected""",3.3770947,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-601,7,"""Use env variables from config.json for distributed builds""",3.3776546,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-600,7,"""Ability for baseController to handle events marked up in descendant views.""",3.37423,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-599,7,"""Support data binding for text nodes and multiple fields""",3.3730407,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-598,7,"""Alloy Build Plugins""",3.3753402,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-597,7,"""Windows: Debug source map reports incorrect line""",3.383743,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-596,7,"""Function is being called twice When adding alternate Window platform=""""android"""" on view.xml""",3.373528,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-594,7,"""Alloy: Naming a collection """"collection"""" will fail""",3.3737478,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-593,7,"""Validate project names for Alloy projects for Studio Integration""",3.3726814,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-590,7,"""Abstract platform-specific checks and functionality in Alloy to make adding platforms trivial""",3.373488,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-589,7,"""Support BB with """"alloy new""""""",3.3707106,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-588,7,"""Implement and test isTablet and isHandheld functions for Blackberry""",3.377672,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-587,7,"""Add Blackberry to optimizer.js AST checks""",3.381133,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-586,7,"""Get compiler plugin/hook working with blackberry""",3.375953,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-585,7,"""ListView XML markup integration""",3.3761234,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-584,7,"""Validate all testing and test apps with BB""",3.3772562,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-583,7,"""Device query support for BB in Alloy""",3.378614,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-582,7,"""Add BB to Alloy's internal conditional platform checks""",3.3701437,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-581,7,"""BB Alloy compiler directives""",3.3723025,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-580,7,"""Get Titanium BB environment set up and building a basic app""",3.3691537,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-578,7,"""Minify doesn't handle already-escaped quotes correctly""",3.3801985,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-577,7,"""Theme assets not removed in orphan file cleanup""",3.3688312,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-575,7,"""Widgets controllers require an xml file""",3.3674862,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-574,7,"""Alloy: Create filters for the code processor""",3.374429,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-573,7,"""App won't compile without Resources/app.js file present""",3.3712518,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-570,7,"""Don't add an id to local/repeated views""",3.3767836,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-569,7,"""add a basic ListView usage test app""",3.3763912,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-568,7,"""Access to widget config with Alloy""",3.3795636,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-566,7,"""Remove workaround for TIMOB-13068 regarding SplitWindow and TabGroups""",3.37811,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-565,7,"""Make """"ui/splitwindow"""" fail gracefully on non-iPad runs""",3.3643792,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-564,7,"""Support """"npm test""""""",3.3756092,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-563,7,"""Allow for autoinitialization of Alloy repetition views from global collections on creation""",3.3791478,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-562,7,"""Order of TSS classes declaration has effect instead of order in which they are assigned to an object""",3.3758764,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-561,7,"""Move source maps to """"build/map""""""",3.3769147,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-560,7,"""Alloy optimisation breaks functionality""",3.3754647,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-559,7,"""Alloy optimisation breaks functionality""",3.3765702,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-558,7,"""Fix optimizer.js sections that can be resolved with uglify-js updates""",3.3871226,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-557,7,"""Fix osname optimization is AST parsers optimizer.js""",3.3806093,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-556,7,"""Update documentation to reflect that jake 0.5.9 must be used with alloy with nodejs 0.10.0""",3.369969,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-555,7,"""update jake to 0.5.9 to support nodejs 0.10.0""",3.3715262,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-554,7,"""fix undefined path.join() in loadGlobalStyle() on themes""",3.3787432,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-553,7,"""fix paths.Resources error in """"alloy new"""" """,3.382758,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-552,7,"""Alloy generates erroneous code to set an event listener inside a repetition view""",3.377361,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-551,7,"""""""alloy generate migration"""" adds file extension twice""",3.3737543,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-550,7,"""Make Alloy compatible with Node 0.10.0""",3.3788636,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-549,7,"""Move .map folder to build folder""",3.3737028,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-548,7,"""Widget views containing valid child elements are not accepted like with require""",3.3800125,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-547,7,"""TSS selector Widget doesn't work like Require does""",3.3831537,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-546,7,"""Alloy generate controller doesn't make folder(s) specified""",3.3772168,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-545,7,"""Setting widget view-controller from within XML views""",3.3817635,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-542,7,"""idAttribute set to a model attribute that is of type text not persisting""",3.386924,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-541,7,"""Android: large TableViews take much longer to load or fail to open""",3.3779113,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-538,7,"""Create """"alloy test"""" command""",3.3737373,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-537,7,"""Create internal source map for generated files from alloy compile""",3.3806612,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-536,7,"""Update uglifyjs to version 2.0""",3.3739908,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-535,7,"""Need support for prepared statements""",3.383409,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-533,7,"""Better error message when defining menu on a lightweight window""",3.3800216,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-532,7,"""Implement the source mapping API to support alloy debugging""",3.3802097,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-531,7,"""Alloy: add TabGroup inside SplitWindow is not working""",3.3825274,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-530,7,"""Creation functions for widgets""",3.3770964,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-529,7,"""Alloy.createWidget() should recognize the 2nd parameter as either a widget controller name or argument object """,3.3797452,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-528,7,"""Enable Collection binding for TabbedBar""",3.3818634,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-527,7,"""Enable Collection binding for ToolBar""",3.3812618,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-526,7,"""Enable Collection binding for ButtonBar""",3.3786697,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-525,7,"""Add support for new tag to group many blocks of XML code together easier""",3.3798957,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-524,7,"""Improve logging to show the filename of the file.""",3.3747232,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-523,7,"""On errors running from titanium CLI, you get double log severity labels""",3.378327,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-522,7,"""Allow <View> to load custom view from a module""",3.3825257,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-521,7,"""Make models/login test app only work on iOS""",3.3729978,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-520,7,"""Add """"jake app:quickrun"""" to just copy app folder to harness for quick builds""",3.370262,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-519,7,"""Undo documenting in """"unstable"""" oauth builtin""",3.3801038,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-518,7,"""Add support for internationalized strings in view XML files""",3.377021,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-515,7,"""Document constants used throughout alloy examples""",3.3710372,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-514,7,"""Fix typo in models/login test app's login.tss file""",3.3758068,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-513,7,"""iOS only sample 'ui/dashboard' runs on Android with error""",3.3776126,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-511,7,"""Incorporate changelog into package.json""",3.3763187,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-510,7,"""Issue using 'alloy run' (deprecated) for building on iOS device""",3.368454,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-508,7,"""sql_new adapter doesn't save the id provided when creating a new object""",3.3852332,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-507,7,"""ability to configure search path for widgets""",3.3769414,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-506,7,"""Alloy: Adding hooks for pre UI code""",3.3798084,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-505,7,"""Alloy app crashes on Android phone when debugging is enabled.""",3.372238,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-504,7,"""Remove event listeners on dataFunction""",3.375497,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-503,7,"""Support Ti.Map.View > Annotation for Model-View binding""",3.3744512,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-502,7,"""Unexpected error when requiring a widget that provides a valid view to it's parent""",3.3747015,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-501,7,"""Alloy: 'alloy run' command does not correctly handle parameters """,3.375307,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-500,7,"""Fix models/binding_dashboard app after TIMOB-12606 is resolved""",3.3824534,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-499,7,"""Generated code contains undefined objects when a comma not needed is present on tss files""",3.3812532,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-497,7,"""Alloy: Journal sample runtime error switching between different platforms""",3.3693771,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-496,7,"""Alloy: formFactor attribute wrong behaviors""",3.3733647,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-495,7,"""""""View"""" in TSS matches both Ti.UI.View and Ti.Map.View""",3.375416,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-494,7,"""ImageView doesn't support animated images """,3.3742085,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-492,7,"""Events are blocked in special cases in TableViewSection""",3.3741257,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-491,7,"""Alloy bind() function for creating data binding in code""",3.3703785,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-490,7,"""Allow native modules to be added in  markup""",3.3790016,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-489,7,"""Allow developers to specify an explicit function name for autogen binding function""",3.3771658,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-487,7,"""SQL adapter does not accept ID when using PRIMARY KEY""",3.3855505,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-486,7,"""sql adapter does not update ID in client-side model when using AUTOINCREMENT""",3.386931,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-485,7,"""Collection binding on views for iOS incorrectly repopulating UI""",3.3804061,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-484,7,"""todo app throw exception when deleting last row in table on android""",3.3794332,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-482,7,"""View-based collection binding not properly clearing children before repopulating""",3.3799803,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-481,7,"""Update all supported sync adapters to send correct parameters to success and error callbacks""",3.3790848,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-480,7,"""Replace """"sql"""" adapter with """"sql_new""""""",3.3762126,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-479,7,"""Migration processing bug""",3.3708951,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-478,7,"""Remove `alloy run` command""",3.3742745,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-477,7,"""Remove rhino support workaround (ups the threadstacksize)""",3.369528,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-476,7,"""Widgets within model-bound view get bound to unexisting $model""",3.3843734,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-475,7,"""Create test app for testing sql adapter apps with no migrations""",3.3725102,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-474,7,"""TSS: allow extra commas in parser""",3.3774014,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-473,7,"""Abort compile process with message if trying to compile Alloy 1.0+ for anything less than Titanium 3.0""",3.3741403,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-472,7,"""Enable Collection binding for CoverFlowView""",3.3750355,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-471,7,"""Enable Collection binding for DashboardView""",3.3800929,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-470,7,"""models/sql_queries test app""",3.3826883,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-469,7,"""Update the README files in the Alloy Sample Apps""",3.3683043,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-468,7,"""add insertRow() and deleteRow() function in sql migrations""",3.3796308,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-467,7,"""idAttribute assignable from Model config""",3.3797789,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-466,7,"""Alloy TableViews with sections not reliably passing 'click' events """,3.382342,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-465,7,"""Implementing rightNavButton and leftNavButton for Popover""",3.3785832,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-464,7,"""Alloy - HeaderView element not working for TableViewSection""",3.3720148,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-463,7,"""Alloy doesn't allow requiring of an Android Menu""",3.379673,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-462,7,"""Update Backbone to 0.9.10 and Underscore 1.4.3""",3.3809388,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-461,7,"""Alloy - Allow usage of """"Require"""" or """"Widget"""" in TableView""",3.3792512,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-460,7,"""ScrollableView with noticeable lag when swiping between views""",3.3807662,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-459,7,"""Remove rs.fieldCount vs. rs.fieldCount() in sql.js""",3.3803406,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-458,7,"""Alloy sql sync adapter to execute queries on fetch()""",3.383525,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-457,7,"""Make Alloy sync adapter sync() function signature match that of Backbone""",3.3736587,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-456,7,"""Support multiple databases in sql adapter""",3.3783488,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-455,7,"""Remove Backbone eventing from Titanium proxies""",3.3740895,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-454,7,"""iOS is rebuilding apps every time with new CLI""",3.376781,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-453,7,"""Fully support up and down migrations in sql adapter""",3.368901,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-452,7,"""Remove expr() syntax from TSS files, replace with Alloy namespace access""",3.3757327,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-451,7,"""Collection Binding on ScrollableViews""",3.3762653,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-450,7,"""Accept multiple root-level emelents to index.xml view based on platform""",3.3760583,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-449,7,"""Parsing state not clean when processing multiple top-level UI elements""",3.3768454,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-448,7,"""Using Subversion with the Alloy framework does not compile any changes to the local code into the Resources directory""",3.3780088,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-447,7,"""Alloy Models should have 'autoincrement' option for primary keys""",3.3725896,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-446,7,"""sql adapter should open/close DB between operations""",3.3688142,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-445,7,"""Should be able to require inside a nav group declaration""",3.3791125,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-444,7,"""Collection Binding on TableViewSections""",3.3828564,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-441,7,"""Markup event handlers defined as function expressions can't manually be triggered til after controller code is executed""",3.3849428,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-439,7,"""ActionItems created in markup don't appear in action bar.""",3.3826072,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-438,7,"""Proxy off() function from Backbone is not working""",3.3778331,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-437,7,"""Alloy fastdev support for Android""",3.3741572,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-436,7,"""Alloy compile failures not aborting builds with new CLI (3.0+)""",3.3749282,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-435,7,"""UI Object Allocations with Alloy and Titanium Studio""",3.379857,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-434,7,"""Styles in platform-specific and theme folders should be merged, not completely overwrite base styles""",3.3794124,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-433,7,"""Android compile time warning when building for production""",3.3684778,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-432,7,"""add destroy() function to all controllers""",3.379819,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-431,7,"""Expose Model and Collection class definitions more easily""",3.3794122,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-430,7,"""Collection binding doesn't handle Backbone """"reset"""" event""",3.3876376,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-429,7,"""Convert jake app runner to use new CLI""",3.3719456,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-424,7,"""As a Titanium Developer, I want to use Alloy to develop an app for Blackberry platform""",3.37267,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-423,7,"""Process PR #90 , improvements for buttongrid widget""",3.3770902,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-422,7,"""Strip all platform-specific XML that doesn't apply to the current compile before processing""",3.3755722,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-421,7,"""replace the datetime.js builtin with moment.js""",3.3759637,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-420,7,"""refactor TableView parser to allow model-bound tables to use proxy properties""",3.375354,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-419,7,"""Create """"alloy generate adapter"""" command""",3.3784046,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-418,7,"""Implement proxy property parsers for Ti.UI.TextField: keyboardToolbar, leftButton, rightButton""",3.372255,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-417,7,"""properties adapter improvements""",3.3821383,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-415,7,"""Make models/properties test app collection work properly""",3.3783722,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-414,7,"""Make models/tableview_binding app work with properties adapter""",3.3780773,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-413,7,"""Allow views to explicitly define the associated controller""",3.371764,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-412,7,"""Create a few standalone samples for Alloy apps""",3.3683171,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-411,7,"""Test app for inline/<Require> and instance/singleton TableView Collection binding""",3.3773928,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-410,7,"""Enable Collection binding via instance collections""",3.3832848,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-409,7,"""Collection binding giving error on inline rows in TableView""",3.3798745,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-408,7,"""Create special notation for js, constants, etc... in XML attributes of views""",3.3694723,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-407,7,"""Make """"alloy generate model"""" calls uniform in format, regardless of adapter""",3.3773859,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-406,7,"""Custom device queries in TSS files""",3.3789046,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-405,7,"""'orientation' device query""",3.3739998,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-404,7,"""Create an Alloy model type that uses no persistence""",3.381877,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-403,7,"""Create Alloy.Collections.instance() and Alloy.Models.instance() functions""",3.3834062,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-402,7,"""Account for all 1.0.0 deprecations and API changes""",3.372074,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-401,7,"""Change Alloy.globals to Alloy.Globals""",3.3718371,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-400,7,"""Move Alloy properties (like globals, Collections, Models, CFG) into alloy.js instead of app.js""",3.368926,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-399,7,"""Improve generated variable names""",3.3743205,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-397,7,"""make sure all animation.js functions have finishCallback""",3.3766396,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-396,7,"""Builtins: animation builtin functions should support callback on completion""",3.37578,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-395,7,"""<Collection> and <Model> generated code should appear BEFORE UI code""",3.3802385,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-394,7,"""Model-view binding on Views using collections""",3.3806207,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-393,7,"""Enable optimizer.js""",3.3827698,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-392,7,"""optimizer.js only optimizes platform conditionals if Ti.Platform is on left hand side""",3.376821,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-391,7,"""Create <Model> in markup (instance)""",3.3835564,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-390,7,"""Create <Model> in markup (singleton)""",3.3804576,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-389,7,"""TiStudio code completion for Alloy style files (TSS)""",3.3755438,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-388,7,"""TiStudio code completion for Alloy view files (XML)""",3.3769557,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-387,7,"""TiStudio code completion for Alloy controller files (JS)""",3.3784833,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-386,7,"""create an """"alpha"""" branch in the alloy github repo""",3.37373,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-385,7,"""Standardize unit testing for optimizer.js""",3.375503,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-384,7,"""Standardize unit testing for optimizer.js""",3.375503,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-383,7,"""inViewHierarchy markup attribute""",3.3782227,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-382,7,"""rightNavButton markup (and other similar properties)""",3.3763936,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-381,7,"""Resolve global variables in commonjs modules platform disparities""",3.380428,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-380,7,"""app/alloy.js file created on all new project""",3.3730407,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-379,7,"""Create <Collection> in markup (instance)""",3.382521,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-378,7,"""Widget themes""",3.3675597,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-377,7,"""Touch Test - An Alloy enabled app won't work by default because there isn't an app.js by default""",3.3775632,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-376,7,"""Better handling of Menu component on iOS""",3.375721,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-375,7,"""Alloy Model Generation providing incorrect adapter type within definition""",3.3846073,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-373,7,"""Create <Collection> in markup (singleton)""",3.3799906,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-372,7,"""Support 'alloy generate' command for widget components""",3.3747942,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-371,7,"""Support adding widget views (besides widget.xml) in markup""",3.37458,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-370,7,"""In order to assign functions to exports object in controller - you must declare a local function vs a variable assigned function""",3.3783185,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-368,7,"""Widgets should reference controllers within their standalone structure when using createController""",3.3801785,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-366,7,"""Alloy compile benchmarking with process.hrtime()""",3.3792903,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-365,7,"""create Alloy.globals and reserve for developer use""",3.3746736,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-364,7,"""Review PR #81: Added function to retrieve date in RFC822 format in datetime builtin""",3.3772962,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-363,7,"""MobileWeb: Default Project: fails with Uncaught TypeError: Cannot use 'in' operator to search for 'click' in undefined index.html:5219""",3.3816018,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-362,7,"""Allow controller-less views with some controller logic""",3.3711135,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-361,7,"""Device Query formFactor overwrite """,3.3802269,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-360,7,"""Model-View binding""",3.3838637,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-359,7,"""buttongrid Widget and orientation change""",3.3770065,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-358,7,"""Guide for developing Alloy widgets""",3.3803635,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-357,7,"""Button fires event """"singletap"""" twice""",3.371214,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-356,7,"""Remove string builtin from runtime alloy.js file""",3.3709137,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-355,7,"""Improve path handling in compiler plugin for OSX (PR #77)""",3.371632,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-354,7,"""'alloy generate jmk' does not work""",3.3857625,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-353,7,"""Titanium proxies built from markup should support all Backbone eventing""",3.3735595,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-352,7,"""sql adapter requires a migration for initial install""",3.3770459,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-351,7,"""Only include sync adapters when necessary""",3.3709316,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-349,7,"""Enable debugging of Alloy apps in Studio""",3.3679323,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-347,7,"""Unit testing for """"info"""" command""",3.3868253,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-346,7,"""Unable to use createController('index')""",3.3686323,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-345,7,"""Load pre-existing SQLite DBs with sql adapter""",3.3739438,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-342,7,"""Allow 'alloy generate' to create platform-specific files""",3.368621,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-341,7,"""Assess and test PR #76""",3.3698118,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-340,7,"""Android fails with """"too deep recursion while parsing"""" with Rhino runtime""",3.3770432,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-339,7,"""unit testing for """"alloy"""" executable with no args""",3.3772972,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-338,7,"""Create CHANGELOG.md in github repo""",3.367036,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-337,7,"""Support """"themes""""""",3.376457,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-336,7,"""Mobileweb logs not showing up in console - TISTUD-2525""",3.375638,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-335,7,"""platform checks not working due to TIMOB-11489""",3.3745358,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-334,7,"""Use the new alloy screen and icons for Alloy projects""",3.3694222,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-333,7,"""Parser abstraction and simplication""",3.372589,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-332,7,"""Improve TabGroup creation """,3.380677,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-331,7,"""Get iOS compiling with new CLI through Studio""",3.3734126,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-330,7,"""Make `alloy run` execute `titanium build`""",3.3758836,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-329,7,"""Cover alloy commands with unit testing""",3.3759537,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-328,7,"""Revamp and simplify quick start""",3.381005,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-327,7,"""Create unit testing for """"generate"""" commands""",3.3755853,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-326,7,"""Create unit testing for """"install"""" command""",3.377423,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-325,7,"""Create unti testing for """"new"""" command""",3.3764777,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-324,7,"""DRY out parser code where possible""",3.3760788,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-323,7,"""Make Alloy support only TiSDK 3.0+""",3.3809717,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-322,7,"""Get Mobileweb compiling in TiStudio with new CLI""",3.3777204,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-321,7,"""SearchBar cannot be added to TableView directly in the view""",3.3854437,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-319,7,"""Adjust test suite to only test only supported platforms on current OS""",3.370251,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-318,7,"""Abstract out """"optimizers"""" for compile command""",3.3817947,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-317,7,"""Throw compile error when reserved JS words are used as IDs""",3.3746076,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-316,7,"""Add Alloy.version API""",3.3736305,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-315,7,"""Trim node text for labels and buttons""",3.3790557,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-314,7,"""Add Ti.Analytics.featureEvent for Alloy apps""",3.3747268,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-313,7,"""Use applyProperties to assign properties to Ti.Android.MenuItem in parser""",3.3833606,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-312,7,"""Update underscore.js and backbone.js""",3.3791993,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-311,7,"""Don't assign Ti.Android.MenuItem properties twice in parser""",3.3776424,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-310,7,"""Initial """"alloy run"""" sometimes ending in iOS error""",3.365984,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-309,7,"""Specific markup error causes the compiler to hang""",3.379835,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-308,7,"""Update github README.md""",3.3758862,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-307,7,"""Add --android for specifying the android sdk to alloy run""",3.3720887,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-306,7,"""Abstract types in markup do not currently support platform, formFactor, or inline event attributes""",3.372057,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-305,7,"""Event callbacks defined in markup are not working for Windows defined in NavigationGroup""",3.376311,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-304,7,"""Special tag parsers are overwriting properties defined in TSS, even when empty""",3.3818135,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-303,7,"""""""hook"""" command to add alloy to titanium""",3.3772655,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-302,7,"""add ti.start.alloy analytics call to alloy apps""",3.3709197,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-301,7,"""Create alloy """"hooks"""" for new CLI""",3.3758202,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-300,7,"""Start using node-appc for titanium info""",3.3697445,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-299,7,"""Remove """"no alloy run for mobileweb"""" conditional""",3.3776674,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-298,7,"""Titanium SDK 3.0.0 breaks the """"models/sql"""" test app on iOS""",3.3779337,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-297,7,"""Add shorthand <Widget> markup for <Require type=""""widget"""">""",3.3807065,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-296,7,"""Remove WPATH() workaround for Android""",3.3782105,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-295,7,"""Need bootstrap hooks in the app""",3.3726382,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-294,7,"""Ti.alloy compiler plugin should use PATH when possible for finding alloy/node""",3.373255,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-293,7,"""Implement Ti.UI.OptionDialog parser""",3.3853443,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-292,7,"""Implement Ti.UI.DashboardView and Ti.UI.DashboardItem parsers""",3.3798802,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-291,7,"""Implement Ti.UI.AlertDialog parser""",3.3766367,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-290,7,"""Android Screen Density based resourses""",3.374616,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-289,7,"""Implement a Ti.UI.Buttonbar parser""",3.3752217,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-288,7,"""Implement a Ti.UI.iOS.CoverFlowView parser""",3.372167,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-287,7,"""Implement Ti.UI.iOS.TabbedBar parser""",3.3779087,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-286,7,"""Alloy - ImageView is not working in Android""",3.3736742,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-285,7,"""Organize test apps""",3.3807497,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-284,7,"""Accept Titanium SDK constants in the XML markup""",3.3735538,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-283,7,"""Ignore Node ACS binding files on Resources clean""",3.3810074,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-282,7,"""Alloy - Syntax error breaks build process""",3.366293,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-281,7,"""builtins not pulling in dependencies""",3.373731,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-280,7,"""Remove alloy.jmk from default projects""",3.377617,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-279,7,"""Improve JSON parsing error output""",3.3772547,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-278,7,"""Improve general compile time logging and error output """,3.3744223,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-277,7,"""Implement Ti.Android.Menu parser""",3.3818655,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-276,7,"""Compile time check of <Require> paths missing pre-installed widgets""",3.3792899,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-275,7,"""Improved unit testing""",3.376539,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-274,7,"""Improve optimizer.js code and testing""",3.378331,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-273,7,"""uglifyjs improperly handles if/else without curly braces""",3.3752813,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-272,7,"""Grammar for TSS files""",3.3772259,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-271,7,"""Get message, line, column, and position from all AST parsing errors""",3.3764212,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-270,7,"""app/assets changes not reflected in /Resources""",3.3703082,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-269,7,"""Manage installed version of Alloy """,3.3753192,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-268,7,"""Normalized density-specific image handling across platforms""",3.375028,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-267,7,"""Improve Malformed XML error reporting""",3.3752637,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-266,7,"""Ti.UI.Picker should handle <Require>""",3.3848383,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-265,7,"""Improve Ti.UI.Picker parser effeciency""",3.376712,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-264,7,"""Simplify special tag parsers code""",3.370072,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-263,7,"""Implement Ti.UI.Picker parser (DATE & DATE_TIME)""",3.3747132,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-262,7,"""Add shorthand markup for iOS SystemButtons""",3.3821414,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-261,7,"""Re-evaluate use of uglifyjs vs. code-processor""",3.3762722,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-260,7,"""Expose Anvil unit testing to developer through Alloy""",3.3765287,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-258,7,"""Integrate New Titanium CLI""",3.3723547,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-257,7,"""Assess/Improve TiStudio integration""",3.3767803,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-256,7,"""Improve efficiency of <Require> expansion""",3.3747077,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-255,7,"""Assess/Improve Alloy Documentation""",3.3776982,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-254,7,"""Analyze Ti API for more possible special tag parsers""",3.3701077,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-253,7,"""Investigate improving uglifyjs """"beautify"""" output""",3.378691,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-252,7,"""Make tss file commas between items optional""",3.3777883,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-251,7,"""Errors with <Require> expansion and validation""",3.3685424,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-250,7,"""Alloy should throw errors on XML formatting failures""",3.367635,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-249,7,"""Better error output on python < 2.7""",3.374046,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-248,7,"""sql adapter and/or sql_model do not work with Android""",3.3764794,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-247,7,"""Form factor specific Alloy files""",3.3722725,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-246,7,"""Platform-specific alloy files""",3.3662465,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-245,7,"""Add .gitignore to Alloy projects""",3.3750517,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-244,7,"""Error expanding <Require> tags when they are widgets""",3.370919,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-243,7,"""Simple parser for Ti.UI.TableView""",3.3785017,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-242,7,"""Implement a Ti.UI.iOS.Toolbar parser""",3.373776,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-241,7,"""Change getController() to createController() to better show it returns a new instance each time vs getView()  with always returns the same object""",3.3806407,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-240,7,"""Implement Ti.UI.Picker parser (PLAIN)""",3.3815157,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-239,7,"""Remove """"vendor"""" folder""",3.378477,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-238,7,"""Find offical home for Alloy quick start""",3.3747644,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-237,7,"""social builtin create and authorize functions do not seem to be working as expected""",3.3781636,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-236,7,"""oauth builtin throwing application error""",3.3747778,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-235,7,"""Color codes showing up in TiStudio output""",3.3730888,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-234,7,"""sql.js sync adapter won't fetch() a collection""",3.3781202,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-233,7,"""Only automatically create a migration when generating a sql model""",3.3757646,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-232,7,"""Add ability to extend collection class like is done for model""",3.3772712,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-231,7,"""If model descriptor is sql but no migration then automatically generate table.""",3.3729181,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-230,7,"""Add to """"alloy generate model schema"""" the adapter name""",3.3831396,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-229,7,"""Alloy CLI needs a way to tell Studio what adapters are available.""",3.3752162,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-228,7,"""Alloy CLI needs a way to tell Studio what sample and widget manifests are available locally.""",3.379831,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-227,7,"""Alloy CLI needs a way to tell Studio what sample and widget manifests are available locally.""",3.378321,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-226,7,"""Widget generation needs to add widget name to config.json""",3.3781834,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-225,7,"""Remove Android <Require> Annotation workaround from """"namespaces"""" sample""",3.3780453,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-224,7,"""""""namespaces"""" sample failing on android""",3.3832588,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-223,7,"""Move optimizer.js runtime to checks for iPhone vs. iPad vs. Universal to compile time where possible""",3.3747556,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-222,7,"""Process SQL migration column names at compile time""",3.3748605,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-221,7,"""Improve error output from ti.alloy compiler plugin for all python versions""",3.3749754,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-220,7,"""How to handle uglifyjs alloy-specific changes""",3.3788934,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-219,7,"""When executing a run via the common/titanium.js script, check tiapp.xml for deploy targets""",3.3736324,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-218,7,"""Expand widget generation CLI capabilities""",3.3778648,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-217,7,"""Confirm element under Ti.UI.Tab markup is actually a <Window>""",3.3825338,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-216,7,"""Improve parser error output""",3.3805568,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-215,7,"""Confirm <Require> under Ti.UI.iPhone.NavigationGroup markup is actually a <Window>""",3.3828292,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-214,7,"""Confirm <Require> under Ti.UI.iPad.SplitWindow markup is actually a <Window>""",3.3826783,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-213,7,"""Confirm <Require> under Ti.Map.View markup is actually an <Annotation>""",3.3755462,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-212,7,"""Add compile time check to Alloy.Require.js parser to ensure require file exists""",3.38356,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-211,7,"""Determine minimum TiSDK version for Alloy""",3.3773456,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-210,7,"""Support Dynamic Styling""",3.38359,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-209,7,"""ti.physicalSizeCategory module removed for Alloy 1.0.0 (TiSDK 3.0+)""",3.3792934,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-208,7,"""Handle i18n localization folder""",3.3734686,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-207,7,"""Improve command line help """,3.3820002,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-206,7,"""Compose Alloy's list of CLI commands from the directories in Alloy/commands""",3.3765976,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-205,7,"""Move all in-code TODOs to jira issues""",3.3674805,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-204,7,"""Improve compile time validation of all markup parsers""",3.3797061,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-203,7,"""Build on Android - physicalSizeCategory not found""",3.378266,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-202,7,"""Implement a """"nolayout"""" attribute (or something similar) in tags""",3.3813298,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-201,7,"""Implement Ti.UI.Mobileweb.NavigationGroup parser""",3.3719792,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-200,7,"""All apps without config.json fail at compile""",3.376156,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-199,7,"""Documentation: Make Alloy safe for documentation""",3.3732274,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-198,7,"""Alloy does not work with the latest 2.2.0 master of titanium_mobile for iOS""",3.3721373,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-197,7,"""Define pull request acceptance workflow""",3.3784075,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-196,7,"""e.source.id not returning id in event handlers""",3.3785741,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-195,7,"""Drastically improve debugging""",3.3703835,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-194,7,"""Github repo README.md is inaccurate""",3.3841057,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-193,7,"""Discuss, test, and merge PR #55 on alloy repo""",3.3731642,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-192,7,"""Make sql_model test app behave like a true app""",3.3778718,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-191,7,"""Alloy model verification app""",3.3719673,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-190,7,"""All widgets are included in all Alloy projects""",3.3774867,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-189,7,"""ti.physicalsizecategory module getting added on every build to tiapp.xml""",3.3836446,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-188,7,"""Remove toLowerCase() in installModule() when linked ticket is resolved""",3.3776636,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-187,7,"""Implement Ti.UI.iPhone.NavigationGroup in markup parsers""",3.3706691,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-186,7,"""'CalledProcessError' object has no attribute 'output' on build""",3.381339,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-185,7,"""When doing alloy new command if the is not a platform Resource folder the app folder is created but the commands gives a missing file error""",3.3761873,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-184,7,"""Inspect <Require> tag's elements at compile time""",3.3782928,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-183,7,"""Change getUIRoot() to getView()""",3.3721201,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-182,7,"""Move default iphone, android, mobile web resources to assets""",3.372828,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-181,7,"""Add analytics support to alloy new and compile command""",3.375821,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-180,7,"""Go through test apps and make sure they work with latest controller changes""",3.3731897,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-179,7,"""Adding commands 'dry-run' option""",3.3788085,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-178,7,"""Add exports basecontroller property""",3.380175,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-177,7,"""The <Include> element should be removed.""",3.378,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-176,7,"""make sure ti.physicalSizeCategory-android-1.0.zip is not at project root""",3.379061,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-175,7,"""Rather then using the $.foo = function() { }; in controller use exports.foo = function() { }""",3.3809645,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-174,7,"""Take away making ids in markup available outside module and add a getView(""""id"""") method""",3.3749008,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-173,7,"""So args can be passed to controllers do Alloy.getController(path, args)""",3.3770516,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-172,7,"""Resources : By default in Titanium Studio, the resources folder is hidden from an end user""",3.3771439,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-171,7,"""""""src"""" and """"type"""" attributes from <Require> should not be passed to the generated code""",3.3783357,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-170,7,"""Possible do something with getController to return UI root vs the controller object""",3.3772657,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-169,7,"""Change getRoot() controller method to getUIRoot make clearer what is happening""",3.373961,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-168,7,"""Add to the Book Search sample the master detail functionality and remove master detail""",3.3781626,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-167,7,"""Add scan for widgets and if in markup move to Resources/alloy/widgets folder""",3.3754864,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-166,7,"""Add multiple view sample to show opening multiple views and calling methods and functions in other views.""",3.376262,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-165,7,"""Advanced sample that shows inheritance and lifecycle functions""",3.3804462,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-164,7,"""Add args to lifecycle """,3.3754463,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-163,7,"""""""controller"""" attribute for <Alloy> element""",3.3797681,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-161,7,"""Allow developers to create controllers with no associated view or style""",3.3719413,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-160,7,"""BaseController.js setParent() fails when given an Alloy conroller""",3.3833573,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-159,7,"""Assign controller inheritance from markup via """"parentController""""""",3.3766654,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-158,7,"""Templates for """"alloy new""""""",3.373293,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-157,7,"""All top-level elements in a required view should be added its parent's view hierarchy""",3.379709,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-156,7,"""Animation library improvements""",3.375421,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-155,7,"""When generating a new project only create an assets, controllers, models, styles and views folder""",3.3793976,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-154,7,"""Take away the separate generater for component and  controller when generate controller generate a view, style and controller. """,3.3804588,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-153,7,"""For the Widget element change the syntax to be <Require widgetid=""""myWidgetID/> """,3.3732827,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-152,7,"""Add an Include and Require element see description""",3.3780792,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-151,7,"""Change root node of markup back to Alloy.""",3.3770216,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-150,7,"""Change the current hidden exports to be explicit just as in regular commonjs""",3.37602,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-149,7,"""Change name of the combined code of xml, styles, controllers from Component to Controller""",3.3795745,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-148,7,"""Sample: City App""",3.3778265,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-147,7,"""Login widget""",3.3773878,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-146,7,"""Imageview widget""",3.3692973,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-145,7,"""Tableview widget""",3.3711934,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-144,7,"""Progress bar widget""",3.3793323,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-143,7,"""Allow all elements to have """"require"""" attribute""",3.3823023,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-142,7,"""Sample To-Do app using ACS""",3.3794289,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-141,7,"""Build a brochure sample app""",3.3766088,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-140,7,"""Widgets should be auto-added to projects like builtins""",3.377659,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-139,7,"""Android : Unable to add a window to the root index on Android""",3.3725314,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-138,7,"""Enforce """"platforms"""" tag in widget.json manifest""",3.3772612,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-137,7,"""All """"model"""" config and code should be contained in a single file""",3.3766322,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-136,7,"""`alloy generate model` should also generate custom model script""",3.3841827,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-135,7,"""Improve widget asset and lib path handling""",3.3749912,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-134,7,"""TiStudio : Modules - The included ti.physicalSizeCategory module gives a warning in the module view of tiapp.xml that it is incompatible with the 2.1.1 sdk""",3.383291,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-133,7,"""Widgets need to support their own models""",3.379474,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-132,7,"""Change """"Alloy"""" tag to """"Component"""", make required, adjust all code and samples""",3.3739288,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-131,7,"""Use uglify to intelligently determine if getRoot() should be used in add() or remove() functions""",3.3806968,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-130,7,"""Interpret .tss files as JS, not JSON""",3.3838763,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-129,7,"""Web-based quick start for new Alloy developers""",3.3778653,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-128,7,"""Ti.UI.currentTab undefined in controller""",3.3818276,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-127,7,"""'alloy generate view' should generate a View not Window""",3.373849,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-126,7,"""As a developer, I'd like to be able to use L() in TSS files to simplify using i18n strings in my app""",3.3731632,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-125,7,"""Add style attributes to markup """,3.3797092,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-124,7,"""Broken Generator""",3.3739147,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-123,7,"""Pass styles to require views""",3.3749087,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-122,7,"""Pass styles to the create() function of widgets""",3.382006,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-121,7,"""TSS parsing does not handle arrays of object properly""",3.3879263,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-120,7,"""Add """"platforms"""" tag to widget.json manifest""",3.379499,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-119,7,"""Global style""",3.3771486,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-118,7,"""alloy generate migration is crashing""",3.3775666,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-117,7,"""Identify is a device is """"handheld"""" or """"tablet"""" on all supported platforms""",3.3746076,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-116,7,"""Release notes for public prerelease""",3.3704574,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-115,7,"""Script (document) a 5 step process to create a simple Alloy app from fresh install to running app """,3.3733437,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-114,7,"""Make sure all Alloy CLI commands can work with inner folders """,3.3775141,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-113,7,"""Create a simple sample that shows having a widget in a widget""",3.375736,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-112,7,"""Improve syntax of custom model functions""",3.3853092,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-111,7,"""Create simple sample that shows application life cycle """,3.3803644,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-110,7,"""Create a basic REST adapter and sample""",3.3836634,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-109,7,"""Alloy developer to add custom markup (tags) and associate with a custom processing library """,3.372097,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-108,7,"""tss file expr() syntax needs to be handled recursively""",3.3780236,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-107,7,"""Need to have the command """"alloy new ."""" generate style index.tss """,3.381922,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-106,7,"""Need to have Alloy fully documented in Appcelerator engineering docs""",3.3715653,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-105,7,"""Add Anvil Unit Testing to Alloy""",3.3796473,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-104,7,"""Enable Model-View binding on TableViews""",3.3834667,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-103,7,"""Model-View binding for discrete components""",3.3806875,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-102,7,"""Investigate adding  debugger support - see description""",3.3765128,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-101,7,"""Allow Alloy.Models.MODEL_NAME notation""",3.3773832,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-100,7,"""Finalize the app descriptor  for  samples""",3.3807473,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-99,7,"""Create a folder for templates""",3.3682399,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-98,7,"""Create a folder for more complete samples like fashion closet """,3.371545,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-97,7,"""Add tags section to widget descriptor""",3.3744571,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-96,7,"""Finalize Alloy CLI API for all build and generate commands""",3.3769512,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-95,7,"""Create ACS adapter that will persist backbone objects in cloud""",3.3801358,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-94,7,"""On model samples take away crud ops and use on change event instead""",3.381338,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-93,7,"""Make sure sql sync operation work on single table""",3.3781698,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-92,7,"""Go through all GitHub ReadMe files and make sure content is accurate and descriptive, snippets of code is helpful. """,3.374798,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-91,7,"""SAP-FC Sample needs review""",3.374986,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-90,7,"""Change view extensions to 'txml', styles to 'tss', abstract out others""",3.3746018,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-89,7,"""Platform and form factor specific files for styles""",3.373988,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-88,7,"""Alloy style files to specify platform and form factor specific sections""",3.3757842,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-87,7,"""Platform and form factor specific styling, like media queries""",3.3771396,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-86,7,"""Widget dependency management""",3.378958,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-85,7,"""Need to make ti.alloy compiler plugin work consistently""",3.3776903,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-84,7,"""Models are only generated in the index component""",3.3791556,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-83,7,"""Allow platform conditionals in markup via the """"platform"""" attribute""",3.3783371,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-82,7,"""Allow views/controllers/styles to be structured in folders""",3.3730924,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-81,7,"""Add the ability to create singleton component objects""",3.3836648,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-80,7,"""Establish Ti.UI.iPad.SplitWindow markup syntax""",3.3761966,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-79,7,"""Widgets need to bundle assets and libraries""",3.379035,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-78,7,"""Documentation for builtins""",3.3737297,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-77,7,"""Support per-component tag parsing for complex relationships""",3.3699582,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-76,7,"""Compiling of json style files break when a object value is used.""",3.3730118,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-75,7,"""Ensure that that translated markup has css and script included.""",3.3760655,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-74,7,"""Scan in script and css and append to css and script source.""",3.384423,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-73,7,"""Currently just going through metadata files in need to open external script and css files in ti_ui_translator.js. Handle the both local and network based files.""",3.3747947,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-72,7,"""Work with Arthur on styles that fall outside scope and document how they should be done in code.""",3.3733103,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-71,7,"""For styles like fonts that become json objects develop method that can map from css to Ti API.""",3.3766484,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-70,7,"""Create the $Ti(selector).css(x) for returning a property and $Ti(selector).css(x, y) for setting values""",3.3776095,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-69,7,"""Using combined css apply style during object creation.""",3.3764865,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-68,7,"""In tiUIRuntime.js add code to merge the class, id and style css into a single css rule.""",3.378128,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-67,7,"""Ensure that any scripts that operate on ZipTI can be run from command-line or Ti Studio.""",3.3825758,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-66,7,"""Take the data-ti-platform and during code generation put if ([platform]) around element. Ignore subelements.""",3.3840432,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-65,7,"""Add a new markup attribute called data-ti-platform=""""[iPhone, iPad, Android, Mobile Web [version]]""""""",3.3785636,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-64,7,"""Need to handle all selector types""",3.3671002,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-63,7,"""Establish specificity of selectors in CSS""",3.3714707,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-62,7,"""Establish priority between inline, embedded, and external styles""",3.3799353,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-61,7,"""Support external style sheets""",3.375976,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-60,7,"""Support embedded style sheets""",3.3759751,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-59,7,"""Create a widget factory. Meet with Chris and Tony and based on W3C Specs come up with a widget factory that can handle unique ids, nested widgets and css for class and ids.""",3.3759553,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-58,7,"""Modify translator and package scripts to be node NPM compliant.""",3.3803365,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-57,7,"""Make sure to test node scripts on Linux, Windows, and Mac.""",3.3769112,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-56,7,"""Add complex dom structure and test that selector engine can retrieve the correct dom elements.""",3.375203,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-55,7,"""Create complex source to tests the proper operations of generated parsers.""",3.3738978,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-54,7,"""Improve runtime error messages""",3.3771992,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-53,7,"""Need to add line number and column to pegjs grammars""",3.3834586,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-52,7,"""Stronger exception/error messages""",3.3785706,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-51,7,"""Add warning and error debugging to a $Ti.Logger object. The Logger itself should just queue messages and later an be queried for it's content, This way we can log in a platform independent way.""",3.3784409,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-50,7,"""All node processes to support ZipTi need to be public so that outside processes like Ti Studio can find and run them.""",3.3756728,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-49,7,"""A template/sample that builds a brochure style app.""",3.3769917,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-48,7,"""The user will have a couple full functioning Appcelerator apps that include widgets, look awesome, show best practices, and run cross-platform. See description for apps.""",3.3760939,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-47,7,"""The user wants to use platform specific targeting to generate elements only for specific platforms currently iPhone, MobileWeb, Android""",3.3869565,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-46,7,"""The user will use several pre-packaged widgets to create apps. See description for widget list.""",3.377237,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-45,7,"""The user wants to have JavaScript and CSS in separate files to maintain presentation logic separation.""",3.3726902,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-44,7,"""The user wants to have pre-release docs that explain how install and use Declarative UI.""",3.3750331,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-43,7,"""The user want to use CSS and style by id, class and style attribute.""",3.3765652,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-42,7,"""The user want create elements and widgets and be able to extend and wrap existing Ti API so that proxy issues can be avoided""",3.3805704,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-41,7,"""The user would like to run the Declarative UI translator but does not want to do custom install of components.""",3.3757908,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-40,7,"""A system for testing HTML, CSS grammars needs to a part of ZipTi build system to ensure grammars are correct before finding parser errors.""",3.3796108,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-39,7,"""User will want to know why we have chosen HTML and CSS vs XML and JSON. We should present what have have done offers real value in terms of productivity vs other techniques.""",3.3795376,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-38,7,"""A template/sample that builds a ToDo list MVC app. The canonical app is a cloud based ToDo list. """,3.3758137,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-37,7,"""ZipTi will need comprehensive logging""",3.3871841,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-36,7,"""The user will use namespaces like iPhone, Mobile Web and Android to create UI elements currently just prepending Ti.UI.createX.""",3.3796313,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-35,7,"""Widgets need a directory and public interface so can be grabbed by outside processes like Ti Studio.""",3.3706892,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-34,7,"""Use commonjs to execute the app_dom.js file""",3.377263,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-33,7,"""CSS runtime parsing needs to be revised""",3.381221,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-32,7,"""Support external stylesheets""",3.3769739,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-31,7,"""Replace references to """"zipti"""" with """"tiapp""""""",3.3789382,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-30,7,"""Are json.pegjs and json.js necessary?""",3.376336,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-29,7,"""Move all generated files to """"generated"""" folder in project Resources folder""",3.375621,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-28,7,"""Consider using jsdom for HTML parsing and DOM creation""",3.372701,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-27,7,"""Improve HTML parsing performance""",3.3816786,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-26,7,"""Support embedded style sheets""",3.3759751,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-25,7,"""Replace eval() of runtime w3c libraries with require()""",3.3697512,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-24,7,"""Need a """"build Ti-App project"""" operation in the CLI""",3.3714747,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-23,7,"""Launch emulators, simulators, or devices directly from zipti""",3.3768566,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-22,7,"""Integrate Sizzle into Zipti via commonjs""",3.3766792,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-21,7,"""Use Sizzle selector engine""",3.3807232,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-20,7,"""Selectors need to be able to handle multiple elements""",3.3766558,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-19,7,"""Replace use of 'exports' with 'module.exports' in runtime.js""",3.3776383,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-18,7,"""Can't create DOM elements without an ID""",3.3755438,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-17,7,"""sizzle.js: only id selectors work""",3.3808296,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-16,7,"""There's no way to specify complex types in markup for UI properties""",3.3730009,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-15,7,"""Unable to use constants for JSON properties""",3.3788364,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-14,7,"""Current XML parsing doesn't handle namespaces""",3.3759787,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-13,7,"""CSS grammar does not support comments""",3.3832726,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-12,7,"""DOM parsing busted""",3.374103,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-11,7,"""xpath removal broke runtime""",3.3789282,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-10,7,"""runtime.js throwing exceptions on Android emulator""",3.3779926,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-9,7,"""Filesystem CSS load failing on Android""",3.3694308,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-8,7,"""HTML grammar breaks when entities (<, >, &) are found in <script>, even with <![CDATA[]]>""",3.3789194,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-7,7,"""Current require() scheme fails on Mobileweb""",3.3782213,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-6,7,"""Generated HTML object tree full of whitespace elements""",3.3809268,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-5,7,"""Need to add line number and column to pegjs grammars""",3.3835866,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-4,7,"""HTML grammar does not support unmatched <link> tag""",3.373416,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-3,7,"""eval() of DOM scripts at app startup increasing initial load time significantly""",3.3777592,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-2,7,"""Mobileweb red screen on load of master_detail sample""",3.3749459,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1
+ALOY-1,7,"""logger.js failing in Titanium runtime""",3.3805451,sentence-transformers/all-MiniLM-L6-v2,sbert_cnn_v1

@@ -1,0 +1,35 @@
+{
+  "project_id": 33,
+  "project_key": "SERVER",
+  "total_rows": 48663,
+  "labeled_rows_raw": 784,
+  "unlabeled_rows_raw": 47879,
+  "missing_title": 0,
+  "missing_description": 5921,
+  "non_numeric_labels": 0,
+  "label_stats": {
+    "count": 784.0,
+    "mean": 2.55484693877551,
+    "std": 2.6791235823288106,
+    "min": 0.0,
+    "25%": 1.0,
+    "50%": 2.0,
+    "75%": 3.0,
+    "max": 42.0
+  },
+  "zero_labels": 41,
+  "fractional_labels": 6,
+  "labels_gt_100": 0,
+  "issue_type_counts": {
+    "Task": 260,
+    "Improvement": 259,
+    "Bug": 202,
+    "New Feature": 61,
+    "Question": 2
+  },
+  "flagged_rows_distinct": 96,
+  "excluded_rows": 0,
+  "labeled_clean_rows": 784,
+  "unlabeled_rows": 47879,
+  "preprocessing_version": "v1"
+}

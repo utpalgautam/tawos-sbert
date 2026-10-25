@@ -1,0 +1,33 @@
+{
+  "project_id": 23,
+  "project_key": "BE",
+  "total_rows": 802,
+  "labeled_rows_raw": 373,
+  "unlabeled_rows_raw": 429,
+  "missing_title": 0,
+  "missing_description": 110,
+  "non_numeric_labels": 0,
+  "label_stats": {
+    "count": 373.0,
+    "mean": 2.9522788203753345,
+    "std": 1.8838522667423878,
+    "min": 0.0,
+    "25%": 2.0,
+    "50%": 3.0,
+    "75%": 3.0,
+    "max": 13.0
+  },
+  "zero_labels": 1,
+  "fractional_labels": 11,
+  "labels_gt_100": 0,
+  "issue_type_counts": {
+    "Task": 218,
+    "New Feature": 145,
+    "Sub-task": 10
+  },
+  "flagged_rows_distinct": 35,
+  "excluded_rows": 0,
+  "labeled_clean_rows": 373,
+  "unlabeled_rows": 429,
+  "preprocessing_version": "v1"
+}
