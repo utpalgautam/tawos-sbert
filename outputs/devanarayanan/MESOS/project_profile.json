@@ -1,0 +1,43 @@
+{
+  "project_key": "MESOS",
+  "project_id": 4,
+  "total_issues": 10157,
+  "labeled_issues": 3272,
+  "unlabeled_issues": 6885,
+  "missing_titles": 0,
+  "blank_titles": 0,
+  "missing_descriptions": 714,
+  "blank_descriptions": 714,
+  "both_text_blank": 0,
+  "non_numeric_labels": 0,
+  "zero_labels": 4,
+  "fractional_labels": 3,
+  "extreme_labels_gt_100": 0,
+  "negative_labels": 0,
+  "duplicate_issue_keys": 0,
+  "duplicate_full_text": 28,
+  "conflicting_labels_same_text": 0,
+  "story_point_stats": {
+    "count": 3272,
+    "mean": 3.223044009779951,
+    "std": 2.3228901290009705,
+    "min": 0.0,
+    "p25": 2.0,
+    "median": 3.0,
+    "p75": 5.0,
+    "p90": 5.0,
+    "p95": 8.0,
+    "p99": 13.0,
+    "max": 40.0,
+    "distinct_values": 17
+  },
+  "issue_type_distribution": {
+    "Bug": 1293,
+    "Task": 1030,
+    "Improvement": 781,
+    "Documentation": 113,
+    "Epic": 26,
+    "Story": 23,
+    "Wish": 6
+  }
+}

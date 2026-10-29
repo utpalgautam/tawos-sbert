@@ -1,0 +1,10 @@
+{
+  "project_key": "MULE",
+  "project_id": 36,
+  "encoder_checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "total_labeled_encoded": 4170,
+  "device": "mps",
+  "preprocessing_version": "v1.0",
+  "timestamp": "2026-10-26 17:37:16"
+}

@@ -26,3 +26,8 @@ logs/*.log
 .idea/
 .vscode/
 *.swp
+
+# Processed data
+data/processed/
+# Large embeddings and weights in outputs
+outputs/**/*.pt

@@ -1,0 +1,24 @@
+{
+  "project_key": "JSWCLOUD",
+  "project_id": 19,
+  "sbert_checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "cnn_architecture": {
+    "conv_channels": [
+      128,
+      64,
+      32
+    ],
+    "kernel_size": 3,
+    "padding": 1,
+    "dropout": 0.2
+  },
+  "training": {
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "batch_size": 64,
+    "loss": "MSE",
+    "median_best_epoch": 8,
+    "random_seed": 42
+  }
+}

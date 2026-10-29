@@ -1,0 +1,42 @@
+{
+  "project_key": "APSTUD",
+  "project_id": 8,
+  "total_issues": 8135,
+  "labeled_issues": 890,
+  "unlabeled_issues": 7245,
+  "missing_titles": 0,
+  "blank_titles": 0,
+  "missing_descriptions": 101,
+  "blank_descriptions": 101,
+  "both_text_blank": 0,
+  "non_numeric_labels": 0,
+  "zero_labels": 51,
+  "fractional_labels": 0,
+  "extreme_labels_gt_100": 0,
+  "negative_labels": 0,
+  "duplicate_issue_keys": 0,
+  "duplicate_full_text": 27,
+  "conflicting_labels_same_text": 0,
+  "story_point_stats": {
+    "count": 890,
+    "mean": 8.149438202247191,
+    "std": 9.259605702823814,
+    "min": 0.0,
+    "p25": 3.0,
+    "median": 8.0,
+    "p75": 8.0,
+    "p90": 13.0,
+    "p95": 20.0,
+    "p99": 40.0,
+    "max": 100.0,
+    "distinct_values": 17
+  },
+  "issue_type_distribution": {
+    "Bug": 460,
+    "Story": 202,
+    "Improvement": 159,
+    "Technical task": 61,
+    "Epic": 7,
+    "New Feature": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "project_id": 19,
+  "project_key": "JSWCLOUD",
+  "mae": 1.849221110343933,
+  "mdae": 1.8191660642623901,
+  "test_count": 64,
+  "baseline_mae": 1.84375,
+  "baseline_mdae": 2.0,
+  "training_median_value": 3.0,
+  "encoder_checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_version": "v1.0_sbert_cnn",
+  "seed": 42
+}

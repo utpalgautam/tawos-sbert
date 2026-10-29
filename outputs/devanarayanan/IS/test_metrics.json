@@ -1,0 +1,13 @@
+{
+  "project_id": 26,
+  "project_key": "IS",
+  "mae": 1.8087348937988281,
+  "mdae": 1.4872300624847412,
+  "test_count": 144,
+  "baseline_mae": 1.6805555820465088,
+  "baseline_mdae": 1.0,
+  "training_median_value": 3.0,
+  "encoder_checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_version": "v1.0_sbert_cnn",
+  "seed": 42
+}

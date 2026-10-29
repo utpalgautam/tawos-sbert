@@ -1,0 +1,812 @@
+issue_key,project_id,title,predicted_story_point,encoder_checkpoint,model_version
+IS-1561,26,"""performance improvement of listMyDidsWithMeta""",3.4853718280792236,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1560,26,"""install indy-sdk (npm i indy-sdk) on MacOS Failed """,3.490079879760742,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1559,26,"""Unable to install indy-sdk for windows """,3.4905824661254883,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1558,26,"""Proof Presentation validation fails with empty non_revoc_interval""",3.484341621398926,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1557,26,"""Attribute restrictions are not working for proof predicates""",3.480759859085083,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1556,26,"""npm i --save indy-sdk is getting failed in Mac OS. The Installation is getting failed while """"node-gyp rebuild"""". The detailed log of the error is attached below.""",3.490231990814209,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1555,26,"""libindy.so cannot open shared object file: No such file or directory""",3.4862847328186035,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1554,26,"""LibVCX Android Demo for the Alice""",3.4952917098999023,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1553,26,"""Edit local DID metadata in Indy CLI wallet""",3.4837279319763184,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1552,26,"""retreive cred_json from a wallet """,3.4845829010009766,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1551,26,"""LibVCX Java wrapper fixes""",3.4861648082733154,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1550,26,"""Update Vcx Java Wrapper to handle vcx_connection_send_message and vcx_connection_verify_signature""",3.4837005138397217,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1549,26,"""LibVCX does not respect Thread ID""",3.490640163421631,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1548,26,"""Verify function returns incorrect result on Windows""",3.483003616333008,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1547,26,"""libindy.dylib fails to verify on MacOS""",3.4904823303222656,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1546,26,"""Investigate Options for CI / CD""",3.486891746520996,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1545,26,"""W3C Verifiable Credentials in Indy SDK""",3.491879463195801,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1543,26,"""Migrate LibIndy pipeline from Jenkins to GitHub Actions""",3.4943511486053467,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1541,26,"""Migrate to new BLS in Ursa 0.4.0""",3.486063003540039,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1540,26,"""Libvcx non agency mode for `aries` protocol""",3.4846978187561035,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1539,26,"""Libvcx: revise changes needed for Streetcred compatibility""",3.485910177230835,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1531,26,"""Support Anoncreds 2.0 in indy-credx, libindy and libvcx""",3.489381790161133,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1530,26,"""Update Aries RFC to mention libindy/libvcx implementation of Aries protocols""",3.487504482269287,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1529,26,"""NodeJS wrapper for libVCX fails for """"names"""" restriction""",3.4782872200012207,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1528,26,"""Update installation guide document for Android""",3.492541790008545,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1525,26,"""PoC usage of indy-credx in libindy""",3.483725070953369,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1524,26,"""Support Rich Schema calls in libindy""",3.483304262161255,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1523,26,"""indy-vdr needs to have a helper method to resolve a Rich Schema for creation of a Mapping object""",3.490189552307129,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1522,26,"""Libindy fails in case ProofRequest contains restrictions as empty array""",3.480217218399048,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1521,26,"""Encoded value causes ParseIntError: Overflow""",3.4903602600097656,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1512,26,"""Ubuntu 18.04 artifacts may be overridden by 16.04 artifacts""",3.4900412559509277,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1510,26,"""Create an RFC for Structured Message""",3.484485149383545,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1502,26,"""result of get_txn does not verify, returned anyway""",3.482239246368408,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1500,26,"""Segmentation Fault on libindy""",3.4892499446868896,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1499,26,"""Replace ledger lookup of LibIndy with Indy VDR""",3.487647533416748,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1498,26,"""name_type crate is now deprecated""",3.4838249683380127,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1494,26,"""invalid library state""",3.4894585609436035,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1493,26,"""save-transaction does not quote JSON output correctly""",3.48451566696167,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1492,26,"""LibVCX attributes in credential encoding should support identifiers with leading zeros""",3.4857518672943115,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1491,26,"""Encoded value of attribute with leading zeros results in verification failure""",3.483045816421509,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1490,26,"""libvcx error when writing a duplicate schema is unhelpful""",3.480954647064209,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1489,26,"""libvcx error is unhelpful when writing schema with unregistered DID""",3.4831337928771973,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1488,26,"""vcx-config.json doesn't take relative paths""",3.4831552505493164,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1487,26,"""LibVCX: UnknownLibindyError on genesis.txn failure""",3.486992835998535,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1484,26,"""Design Aries Util""",3.4832963943481445,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1483,26,"""Refactor libindy tests which were moved to Aries VDR""",3.5003843307495117,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1482,26,"""Integrate Indy VDR into libindy""",3.4934067726135254,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1477,26,"""FFI API for Indy VDR""",3.480901002883911,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1476,26,"""Document design of first version Indy VDR""",3.4814295768737793,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1474,26,"""VCX APIs - missed implementtion""",3.4866507053375244,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1471,26,"""Initialize LibVCX without accessing the ledger""",3.48486328125,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1470,26,"""Slow performance of anoncred-generated WQL for proof request""",3.4907474517822266,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1466,26,"""Migrate LibIndy functions to Aries Utility Library""",3.486377716064453,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1464,26,"""verifierVerifyProof function always returns true irrespective of value of requested predicates""",3.48799467086792,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1463,26,"""Indy-CLI doesn't suggest accepting TAA on pool connect""",3.4816946983337402,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1461,26,"""TLS support postgres plugin""",3.4788951873779297,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1458,26,"""Broken url and typo in docs/getting-started/index.rst""",3.4919564723968506,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1456,26,"""dotnet wrapper unit tests failing""",3.4888863563537598,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1452,26,"""Verify function fails on Ubuntu 16.04""",3.4877171516418457,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1451,26,"""API calls for verifying a signature""",3.4808993339538574,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1448,26,"""Additional support for Aries protocols in LibVCX""",3.4839487075805664,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1447,26,"""Proof made using two credentials from same cred def do not verify""",3.4896798133850098,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1446,26,"""Portable version of libindy""",3.484494686126709,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1445,26,"""Invalid error message in the libindy logs in case of demoted nodes are on ledger""",3.482760429382324,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1444,26,"""Indy SDK users need access to the sdkMessage in an IndyException""",3.4842607975006104,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1443,26,"""Postgres wallet should allow DB name specification""",3.4795727729797363,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1442,26,"""Incorrect license in file.""",3.484907627105713,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1438,26,"""Indy CLI documentation mentions get_acceptance_mechanisms, but does not support it""",3.4840734004974365,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1437,26,"""InvalidClientTaaAcceptanceError errors/exceptions from the ledger must include a reason_code or similar""",3.479919195175171,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1436,26,"""API for the canonical serialization""",3.4806978702545166,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1434,26,"""Android Library >= 1.12.0 fails to load for """"x86"""" architecture due to text relocations""",3.4829766750335693,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1433,26,"""Need to stop using packages like """"devscripts"""" in CI/CD pipeline""",3.4844985008239746,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1430,26,"""Credential created with user defined schema may have different version than stated in json.""",3.493557929992676,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1428,26,"""Ubuntu 18.04 CI libindy linkage is broken""",3.4929897785186768,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1424,26,"""Mark LibIndy wrappers as deprecated (round 2)""",3.4872584342956543,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1422,26,"""Node Wrapper for libvcx throws error as invalid structure""",3.4809064865112305,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1418,26,"""Inefficient choice of group for accumulator and witness in revocation""",3.4864282608032227,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1417,26,"""Unable to challenge for possession of credential only""",3.4801526069641113,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1416,26,"""Mark LibVCX in Indy SDK as Deprecated""",3.4903059005737305,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1415,26,"""Lack of CLI consistency between creation of Payment Addresses and DIDs""",3.486544132232666,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1414,26,"""Open wallet should cache handle""",3.490372657775879,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1413,26,"""Improve documentation for LibVCX send-message""",3.4792768955230713,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1411,26,"""Audit a need for manual reconnection checks in ZMQ""",3.480886459350586,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1410,26,"""Unclosed Threads / Mutex Lock in CommandExecutor""",3.480015754699707,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1407,26,"""Payment api improvement""",3.4859843254089355,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1406,26,"""Modularize the Indy Wallet""",3.4764270782470703,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1405,26,"""Remove the Indy SDK how tos""",3.4912452697753906,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1404,26,"""Wallet storage should be backed by PostgreSQL""",3.4906535148620605,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1403,26,"""Support for DID Documents""",3.4821414947509766,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1402,26,"""Rich Schemas and W3C Verifiable Credentials""",3.487980842590332,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1401,26,"""Reduce the warnings from static analysis""",3.48384165763855,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1400,26,"""Indy wallet migration to Aries Agent Managed Storage""",3.4813108444213867,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1397,26,"""Indy resolver improvements""",3.4866855144500732,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1396,26,"""Indy Resolver for Aries""",3.4843149185180664,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1390,26,"""LibNullPay is missing the API for append TAA""",3.4766809940338135,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1387,26,"""Payment address not created with provided seed""",3.485238552093506,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1385,26,"""OpenPoolLedger - """"preordered_nodes"""" and """"number_read_nodes"""" are ineffective""",3.4823451042175293,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1383,26,"""GET_TXN doesn't work with old libindy""",3.479539394378662,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1382,26,"""Fail to build indy pool docker""",3.4841954708099365,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1381,26,"""Multiple """"attr::<attr_name>::value"""" restrictions always fails""",3.487992286682129,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1380,26,"""Holder can submit proof that fails """"attr:<attr_name>::value"""" restriction""",3.486298084259033,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1379,26,"""Extra Param doesn't work on build_payment_req""",3.4833521842956543,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1377,26,"""LibVCX support for Aries protocols""",3.4856936931610107,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1374,26,"""Indy-sdk npm install fails.""",3.4893105030059814,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1369,26,"""VCX wallet handle is not opaque""",3.487989664077759,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1368,26,"""Verifying proof after credential revocation results in true""",3.480358839035034,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1367,26,"""remove test open_pool_ledger_works_for_wrong_ips""",3.488604784011841,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1363,26,"""attr::<attribute_name>::value not supported in proof request restrictions""",3.4876952171325684,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1362,26,"""Wallet supports rotation of peer DIDs""",3.482128143310547,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1356,26,"""Pool refresh doesn't throw timeout error in CLI""",3.490061044692993,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1351,26,"""Append endorser action removes already appended fees from request""",3.480271339416504,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1350,26,"""Ideas for upgrading the Python-Wrapper""",3.4825429916381836,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1349,26,"""proverDeleteCredential API doesn't work""",3.4862594604492188,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1347,26,"""indy_set_protocol_version is not thread safe""",3.481675863265991,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1344,26,"""Split the tests""",3.4797728061676025,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1343,26,"""Update Apache Milagro""",3.487032890319824,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1342,26,"""Autocompletion for sign and verify CLI commands""",3.483867645263672,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1341,26,"""Do not allow sign option for payment command""",3.481846809387207,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1340,26,"""Mac installer fails when some brew formulas are already installed""",3.4956438541412354,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1338,26,"""Testing for libindy on MacOS hangs indefinitely""",3.4849443435668945,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1332,26,"""POA Dynamic Peer DID""",3.4780826568603516,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1331,26,"""Static Peer DID""",3.475708484649658,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1330,26,"""POA: Fully qualified DID in Indy SDK""",3.486814498901367,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1327,26,"""Test failed""",3.489551067352295,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1326,26,"""Client communication shouldn't use ZeroMQ""",3.4827017784118652,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1323,26,"""The CLI command 'did rotate-key' fails the first time it is run """,3.4890546798706055,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1322,26,"""Incorrect error handling in CLI""",3.491799831390381,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1321,26,"""Save all CLI commands in history""",3.485196113586426,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1319,26,"""Raw and encoded fields of proof ignored during verification""",3.485226631164551,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1315,26,"""file permission changes""",3.4775919914245605,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1314,26,""" Compiling rusqlite v0.13.0 error[E0119] on macOS""",3.4791290760040283,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1313,26,"""Latest libindy-master doesn't worl with latest libsovtoken-master""",3.486844062805176,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1312,26,"""Indy CLI `ledger get-fees` command is broken""",3.482372760772705,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1311,26,"""TAA mustn't be set for SET_FEES transaction""",3.484473943710327,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1309,26,"""Searching credentials for proofReq fails for certain nonces """,3.478749990463257,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1308,26,"""Indy SDK/CLI to have proof of possession""",3.4839425086975098,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1306,26,"""Android crash upon create proof""",3.479651927947998,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1304,26,"""Wallet delete does not work""",3.4884018898010254,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1302,26,"""Enable agency independent Credential and Proof exchange API calls""",3.478503704071045,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1299,26,"""libindy Java wraper depends on a beta release of slf4j""",3.4947314262390137,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1297,26,"""Does anyone konw how to use sdk to reverse the revocation? Thx""",3.4836339950561523,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1296,26,"""Configure dependabot for Indy""",3.480525493621826,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1295,26,"""gitignore Cargo.lock""",3.479273796081543,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1294,26,"""zeroize all secrets""",3.4916481971740723,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1291,26,"""Indy-CLI ledger send=false requires a connected pool""",3.4860775470733643,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1289,26,"""LibVCX gets fees on startup""",3.493521213531494,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1288,26,"""Indy SDK should support empty nodes in state proofs""",3.4895927906036377,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1286,26,"""Python wrapper test dependencies shouldn't be installed in production env""",3.483694076538086,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1284,26,"""Add NYM (role=STEWARD) request from CLI returns an unusable error message""",3.4799857139587402,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1283,26,"""State Proof invalid verification for GET_REV_DELTA request in case of from and to are before first entry""",3.481769561767578,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1281,26,"""POC of images embedded in credentials""",3.4888343811035156,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1280,26,"""research credential fraud fix: POC of richly contextualized proofs""",3.4829726219177246,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1278,26,"""Externalize strings in the CLI for l10n""",3.481687545776367,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1277,26,"""Incorrect error handling""",3.481964588165283,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1276,26,"""Indy-cli payment example""",3.4879150390625,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1274,26,"""Cargo clippy errors """,3.48171329498291,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1273,26,"""Cargo clippy warning cyclomatic complexity""",3.4782729148864746,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1272,26,"""Cargo clippy warnings too many arguments""",3.489109516143799,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1271,26,"""Cargo Clippy warnings too complex of types""",3.485865592956543,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1270,26,"""Cargo clippy warnings Do it the rust way""",3.4845776557922363,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1269,26,"""Postgres Storage - allow configuration of connection pool parameters""",3.4829578399658203,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1268,26,"""Indy CLI about has incorrect copyright message""",3.4849398136138916,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1267,26,"""indy-cli allows accidental NYM verkey update.""",3.487549304962158,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1266,26,"""error message for unexpected length of did returns base58 converted length. """,3.484691619873047,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1261,26,"""iOS projects with bitcode enabled can't link with libindy""",3.4858222007751465,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1258,26,"""Configurable Credential Attribute Tagging Policy for Prover""",3.4825456142425537,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1253,26,"""Support Android NDK19""",3.4882209300994873,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1252,26,"""Custom Android logging crashes if logger is called within a java Callback""",3.4913315773010254,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1251,26,"""Hardcoded key type in crypto service""",3.4852426052093506,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1249,26,"""testAnoncredsRevocationInteractionIssuanceByDemand() failed at line 380 """,3.482849597930908,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1244,26,"""HTTP 501 error sovrin maven repository""",3.48598313331604,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1242,26,"""Delete credentials from indy prover wallet""",3.4907853603363037,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1241,26,"""Update Objective C wrapper to use Swift 5.0 syntax""",3.487020492553711,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1240,26,"""Wrong error output when open a wallet with invalid credentials""",3.487470865249634,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1239,26,"""Wallet names must be unique even if paths differ""",3.4902377128601074,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1238,26,"""Usage of zmq 4.2 with vulnerability in Indy""",3.480971336364746,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1237,26,"""Not all actions are covered by libindy txn builders for GET/SET_AUTHRULE""",3.4835872650146484,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1236,26,"""did rotate-key bug""",3.4798779487609863,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1232,26,"""Helper to determine prerequisites for particular write request to the ledger """,3.474850654602051,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1231,26,"""VCX should use get authrules request and appropriate helpers instead of get fees""",3.4954707622528076,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1230,26,"""Unable to install indy-sdk on Windows 10""",3.489656448364258,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1229,26,"""1.8.2. SDK  - Android Crash upon ErrorDetails.class call (when exceptions are created)""",3.485708236694336,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1228,26,"""Android. Can not execute issuerCreateAndStoreRevocReg""",3.4792261123657227,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1227,26,"""404 - Read the Getting Started Guide""",3.483151912689209,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1226,26,"""Windows build artifact is not correct""",3.482914924621582,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1225,26,"""Wrong behavior of cbBoolean callback in nodejs wrapper on Windows""",3.4818897247314453,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1224,26,"""The prover create_cred_request function requires a """"prover_did"""" that (likely) does not make sense""",3.4866199493408203,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1223,26,"""Add support to the LibIndy for audit proofs in GET_TXN request""",3.4768495559692383,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1222,26,"""Improve error message when proof request uses attr name in both attrs and preds""",3.483765125274658,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1221,26,"""Need support for deleting a credential""",3.4865119457244873,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1220,26,"""Using forged DIDs to create Schemas, Cred-Defs and Revoc-Regs""",3.487720489501953,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1219,26,"""Remove teardown from tests""",3.4964826107025146,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1218,26,"""Use different pool names in tests""",3.4902873039245605,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1216,26,"""Improve performance for applications tracking the ledger""",3.4802443981170654,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1215,26,"""wallet handle is no callback index""",3.478292465209961,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1214,26,"""MacOS installer""",3.4878807067871094,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1213,26,"""Chinese Translation of Indy Getting Started Guide""",3.481001615524292,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1212,26,"""CI is broken for amazon linux""",3.4802770614624023,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1211,26,"""Documentaion: some links are broken on 'Indy Walkthrough'""",3.4817957878112793,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1210,26,"""""""node-vcx-wrapper"""" npm.org package is missing the dist directory.""",3.4804182052612305,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1209,26,"""Look up DID by public key""",3.4821367263793945,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1208,26,"""Shorten the timeout from a node not responding""",3.481276035308838,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1207,26,"""Getting Started jupyter notebook 'type' object not scriptable""",3.4801230430603027,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1206,26,"""Credentials on the wire are too big""",3.487353801727295,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1204,26,"""Create a sample API definition for a LibIndy message family""",3.488955020904541,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1200,26,"""Client can't connect pool using valid genesis file""",3.485665798187256,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1197,26,"""NodeJS Vcx wrapper callbacks invocation""",3.4806416034698486,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1195,26,"""LibIndy consume a message state machine""",3.4780237674713135,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1194,26,"""LibIndy consumes a message library""",3.483341932296753,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1193,26,"""CI / CD for library containing fundamental message families""",3.4842286109924316,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1190,26,"""Implement trust ping""",3.4895009994506836,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1187,26,"""Android testing is not working for libindy""",3.490865707397461,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1185,26,"""Rust how-to """"write-did-and-query-verkey"""" does not compile""",3.483482837677002,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1184,26,"""Error messages for demoted nodes are spammed in the console output """,3.4936208724975586,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1183,26,"""Compatibility/Dependency issuer for libindy 1.7.0""",3.484919548034668,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1181,26,"""Libindy proof documentation""",3.4846057891845703,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1174,26,"""VCX: requested_predicates field ignored""",3.484609603881836,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1171,26,"""Unable to read from the single node""",3.4845492839813232,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1170,26,"""VCX: Expose inner objects""",3.4857869148254395,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1169,26,"""VCX: Instructions for installation on Windows should be added to documentation""",3.4876279830932617,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1168,26,"""VCX: Error appears every minute during running python wrapper demo""",3.4841392040252686,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1167,26,"""Libsovtoken doesn't compile with Indy 1.8.0""",3.4916791915893555,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1164,26,"""libnullpay broken for android""",3.492328643798828,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1159,26,"""A2A: Support pack/unpack in wrappers""",3.4821274280548096,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1158,26,"""using hash as name for attribute causes errors""",3.4882450103759766,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1157,26,"""python negotiate_proof.py """,3.4846973419189453,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1154,26,"""A2A: test suite for standard compatibility""",3.4783740043640137,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1152,26,"""Need an API to get the latest timestamp across all validator nodes""",3.4773471355438232,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1151,26,"""Issues with CI/CD pipelines for indy-crypto""",3.4855122566223145,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1149,26,"""Acceptance tests for Indy-SDK in CD""",3.4863438606262207,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1146,26,"""Review VCX->Indy-Sdk API changes""",3.488894462585449,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1143,26,"""New A2A protocol is defined by community inside Indy HIPE repo""",3.487110137939453,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1141,26,"""pre-arrange key expiration in DID Doc""",3.4769248962402344,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1140,26,"""echo relationship changes to peer as security measure""",3.4822142124176025,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1138,26,"""Wrong redirect link on readme of Indy dotnet wrapper""",3.488905429840088,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1136,26,"""Wallet could use exists() or list() like pool has""",3.489502429962158,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1135,26,"""LibIndy tests are not threadsafe""",3.4820876121520996,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1134,26,"""Introduce WalletHandle, CommandHandle, PoolHandle""",3.483712673187256,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1133,26,"""Indy SDK Documentation Part 1 -> Request Handler""",3.4920578002929688,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1132,26,"""Indy CLI has intermittent tests""",3.4869256019592285,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1130,26,"""Proof fails at verification when ZKP attribute and predicate value are both negative""",3.4881038665771484,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1129,26,"""Postgres storage update error code handling""",3.4943010807037354,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1128,26,"""LibVCX python wrapper contains methods which are incompatible with each other without additional conversion""",3.484203815460205,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1126,26,"""VCX isn't matched with certain Libindy version""",3.4870290756225586,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1116,26,"""Improve error message with details """,3.493161201477051,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1115,26,"""Should be able to import Python wrapper submodules""",3.474771499633789,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1114,26,"""Postgres Storage - Correct lazy loading and avoiding of mutex-es""",3.480381965637207,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1113,26,"""Postgres Storage - code cleanup""",3.4875895977020264,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1112,26,"""Create demo  for the revocations where ledger operations with registry definition and accumulators are highlighted""",3.473910331726074,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1110,26,"""Golang Wrapper""",3.483227252960205,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1109,26,"""Windows CLI Payment Test""",3.4898266792297363,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1108,26,"""In build_rev_states_json proover should be able to create multiple  revocation states""",3.4851694107055664,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1107,26,"""Libraries (Indy and VCX) shutdown""",3.4918742179870605,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1102,26,"""Unknown libindy error while creating a credential definition""",3.4849796295166016,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1100,26,"""Credential revocation demo is failing.""",3.4790382385253906,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1099,26,"""anoncreds.prover_get_credentials_for_proof_req should return per-credential timestamp""",3.488312005996704,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1098,26,"""Wallet API should support credential delete""",3.4902453422546387,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1097,26,"""Migration tool for revocations from older indy-crypto versions""",3.4926860332489014,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1096,26,"""iOS wrapper test cases fails from start.""",3.4839415550231934,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1095,26,"""Add support for predicates for vcx_disclosed_proof_generate_proof""",3.489366054534912,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1090,26,"""Invalid JSON Error Due to Missing Translation Code""",3.4803478717803955,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1089,26,"""Wrong Function Wrapped in VCX Java Wrapper""",3.481539249420166,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1084,26,"""LibIndy return status on read requests for the UI""",3.478020191192627,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1083,26,"""Force a re-try after a non-response from the ledger""",3.4850564002990723,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1082,26,"""Handle slow ledger reads""",3.4882280826568604,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1081,26,"""LibVCX should handle multiple wallets""",3.4782891273498535,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1080,26,"""LibVCX API refactoring""",3.48661208152771,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1079,26,"""Investigate the reasons of CD pipeline fails""",3.490105628967285,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1078,26,"""Support multiple Indy DIDs in the same wallet""",3.4826407432556152,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1075,26,"""Cache information to speed up sending a proof""",3.480729103088379,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1074,26,"""Add support for ISSUANCE_ON_DEMAND option in creating revocable credentials""",3.4827322959899902,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1065,26,"""Convert seq_no from int32 to uint64""",3.4823288917541504,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1064,26,"""Secrets in trace of release build""",3.4870214462280273,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1062,26,"""GSG: Revocation scenario""",3.4796767234802246,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1060,26,"""Aborted (core dumped) in case of usage Libindy from Python""",3.4943888187408447,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1059,26,"""VCX Nodejs Testing""",3.479067325592041,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1058,26,"""iOS demo fails with xcode 10.0.1 and MacOS 10.14""",3.4857566356658936,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1057,26,"""Can't access CI for PR""",3.4847753047943115,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1055,26,"""New required parameter is not shown in indy-cli help screen""",3.485447406768799,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1054,26,"""Investigate: indy-sdk locks on call from subprocess""",3.4779953956604004,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1053,26,"""Implement wallet storage wrapper for Postgres database""",3.4785518646240234,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1052,26,"""Document design and approach to build plugged wallet storage""",3.491649627685547,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1050,26,"""Re-factor in-mem plugged storage example to load in shared library""",3.482260227203369,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1049,26,"""Update CLI to add ability to load pluggable wallet storage""",3.47938871383667,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1048,26,"""Add register_wallet_storage() to python API wrapper""",3.483466625213623,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1047,26,"""Implement shared library for code required by Plugged Storage""",3.4813642501831055,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1046,26,"""Update wallet search """"language"""" parsing to support plugged storage""",3.491011142730713,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1045,26,"""Plugged Wallet return error codes should match Default""",3.489802837371826,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1044,26,"""need build artifact (or build command) that enumerates dependencies""",3.4822421073913574,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1043,26,"""Revocation serialization probably broken on 32bit platforms""",3.4864661693573,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1041,26,"""As a user of Indy CLI I want a comprehensive way of managing plugins without starting from scratch every time""",3.488269805908203,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1040,26,"""As a user of Indy CLI I would like help/hints for non-trivial workflows""",3.4883923530578613,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1039,26,"""pairwise.create_pairwise raises ErrorCode.WalletItemNotFound""",3.48106050491333,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1038,26,"""MacOS Support: It failed to pass sdk test cases""",3.477370262145996,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1027,26,"""Ledger submit_action hangs indefinitely""",3.480189085006714,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1022,26,"""CLI command 'did rotate-key' doesn't work in some cases""",3.489628314971924,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1021,26,"""Ensure we are using most efficient crypto implementations""",3.4855995178222656,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1018,26,"""Wallet performance is slow on Android""",3.4904918670654297,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1017,26,"""Sovrin-Client: Use consistent terminology for Agent and Wallets per the Sovrin Provisional Trust Framework V2 whitepaper""",3.491213798522949,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1016,26,"""Verifiable Credentials for Offline Interactions""",3.4792990684509277,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1015,26,"""Determine whether Java needs to track unmanaged resources to free them for custom wallets""",3.485063076019287,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1007,26,"""UnhandledPromiseRejectionWarning: IndyError: CommonInvalidState""",3.478328227996826,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1006,26,"""Invalid behavior of payment.parse_payment_response func""",3.4842491149902344,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1004,26,"""IndySDK should require exact matches of proof and credential attribute names""",3.4867570400238037,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1003,26,"""env::home_dir is deprecated""",3.4823544025421143,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1002,26,"""replace openssl hash""",3.489461660385132,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1000,26,"""Generate pool_transactions_genesis with DOCKERHOST for indy-pool""",3.480297565460205,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-999,26,"""Issue about the document""",3.489126682281494,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-998,26,"""Got error when try to run the example for .Net Core """,3.4793527126312256,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-997,26,"""Error descriptions are not exposed on API level""",3.4912445545196533,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-996,26,"""GDPR compliance""",3.492770195007324,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-995,26,"""CLI: many commands missing compared to indy-node CLI""",3.491288661956787,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-994,26,"""getting_started.py fails in indy_prover_store_credential""",3.4789235591888428,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-993,26,"""Can not run the source code of tutorials """"Write a DID and Query Its Verkey"""" """,3.489193916320801,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-992,26,"""Information about not installing too recent libsodium releases can be removed""",3.4855563640594482,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-991,26,"""nonce in node getting started""",3.4899439811706543,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-990,26,"""Documentation: How-tos are broken and outdated""",3.491990566253662,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-989,26,"""_indy_loop_callback: Function returned error 112""",3.483783721923828,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-987,26,"""Get Indy errors 308 Pool Incompatible Protocol Version""",3.4885153770446777,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-985,26,"""[WIP] clarify CLI migration aspects""",3.4863572120666504,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-984,26,"""NodeJS Wrapper: Issue while installking indy-sdk on WINDOWS""",3.4904685020446777,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-982,26,"""Can not install Indy-node""",3.4814417362213135,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-981,26,"""encode and decode for Attributes""",3.483733654022217,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-980,26,"""[Suggestion]: generate API and wrappers from specification file""",3.4851937294006348,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-979,26,"""Credential Definition Bugs""",3.4837963581085205,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-978,26,"""Linker issue: Providing custom LD_LIBRARY_PATH doesn't work""",3.4887704849243164,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-977,26,"""cached libraries don't update on new versions""",3.483395576477051,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-976,26,"""Timeout error when trying the NodeJS How To's""",3.4816017150878906,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-975,26,"""Better React-Native support""",3.484243869781494,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-974,26,"""ErrorCode.LedgerInvalidTransaction""",3.4853579998016357,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-973,26,"""VCX NodeJS Wrapper: Known Critical Severity in 'growl'""",3.4888405799865723,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-972,26,"""VCX NodeJS Wrapper: Known High Severity Security Vulnerability in 'marked'""",3.4860775470733643,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-971,26,"""VCX NodeJS Wrapper: Known Low Severity Security Vulnerability in 'debug'""",3.4871647357940674,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-970,26,"""VCX NodeJS Wrapper: Known High Severity Security Vulnerability in 'lodash'""",3.4824917316436768,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-966,26,"""[WIP] Multi-thread libindy for CPU expensive calls""",3.472471237182617,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-965,26,"""libvcx: protocol version hardcoded""",3.492441177368164,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-964,26,"""[WIP ][VCX] Getting started guide""",3.483635425567627,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-961,26,"""Openssl0.10.12""",3.487032175064087,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-960,26,"""[WIP] Enable testing on emulator for Android CI.""",3.4810831546783447,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-959,26,"""CLI color-related bugfixes""",3.490373373031616,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-958,26,"""Installing libvcx on ubuntu""",3.487185478210449,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-957,26,"""Import wallet fails on android and linux""",3.4900107383728027,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-956,26,"""Prove cred_def migration from Indy-node 1.3.62 """,3.4778976440429688,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-955,26,"""CLI: CLI output contains color codes when stdout is piped to file""",3.4860477447509766,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-945,26,"""VCX: Allow ledger access in a separate process""",3.4801199436187744,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-944,26,"""VCX: Support multiple wallets""",3.478743076324463,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-943,26,"""VCX: Concurrency improvments""",3.4795212745666504,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-938,26,"""Incorrect symbols in indy-cli help (Windows)""",3.483102798461914,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-937,26,"""Clarify instructions to replace /path/to add libindy to the path in ubuntu-build.md""",3.490842819213867,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-933,26,"""VCX: dummy agent should be compatible with reference Edge and Cloud Agents""",3.481510639190674,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-932,26,"""Confusing error from get requests' parsers if ledger entity is not found""",3.4808316230773926,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-930,26,"""Configure a new OSX node to build INDY SDK ios""",3.4941177368164062,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-925,26,"""Known Critical Severity in 'growl'""",3.4900527000427246,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-924,26,"""Timeout flood in CLI""",3.487210273742676,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-921,26,"""Logger produce poorly readable errors""",3.4900894165039062,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-919,26,"""Upgrade path broken from indy-pool.dockerfile in indy-sdk 1.4.0 to current indy-node protocol version""",3.484743595123291,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-918,26,"""wallet_open crashes if libindy is linked with the latest libsodium""",3.4884161949157715,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-916,26,"""CLI hides node error responses""",3.486321449279785,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-915,26,"""Android: Armv7 build produces broken artifacts for libindy and libnullpay""",3.486252546310425,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-914,26,"""Provide option to reduce tags autocreated to reduce overhead in Enterprise scenario""",3.4842236042022705,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-909,26,"""Evaluate plans for improving the speed of builds""",3.4794087409973145,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-908,26,"""Create a plan for Hyperledger builds on non-Linux platforms""",3.4862923622131348,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-907,26,"""Move Linux builds to Hyperledger infrastructure""",3.4891276359558105,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-904,26,"""IOS Wrapper: Remove from IOS wrapper registerWalletType""",3.489595413208008,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-903,26,"""Expose (did, verkey) generation from a seed at the SDK layer""",3.4873552322387695,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-902,26,"""Default wallet does not close opened sqlite files""",3.4843497276306152,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-901,26,"""Indy CLI does not see wallets created by Indy SDK""",3.4824204444885254,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-900,26,"""Indy Java Wrapper eats the exception when it can't load libindy via jna""",3.494468927383423,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-896,26,"""Logging""",3.4851841926574707,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-889,26,"""As user running indy-cli, I need information about which nodes are available""",3.4901018142700195,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-886,26,"""libindy wallet api performance issue""",3.4800546169281006,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-885,26,"""libindy don't use state proof way for registered payment transactions""",3.47702956199646,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-884,26,"""CLI confirmation for """"dangerous"""" commands""",3.4860968589782715,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-882,26,"""Indy-SDK based CLI - Autorun Mode""",3.4872846603393555,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-881,26,"""default storage plugin should be loaded as any other plugin, and use same interface""",3.4936599731445312,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-878,26,"""Incorrect message returned when payment source does not have enough tokens for transaction""",3.4802000522613525,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-877,26,"""If no output address provided for payment to hold remaining balance all tokens are lost""",3.488957166671753,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-873,26,"""VCX: Evernym built LibVCX artifacts should be publicly available""",3.489497184753418,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-872,26,"""did.set_did_metadata return ErrorCode.WalletItemNotFound""",3.4875528812408447,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-871,26,"""VCX: libvcx should be compatible with reference Cloud Agents""",3.4867959022521973,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-870,26,"""VCX: Present on the design and usage of libvcx""",3.4893290996551514,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-866,26,"""multi-user permission to make payments""",3.4889538288116455,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-859,26,"""Determine optimal default values for pool timeouts""",3.4854092597961426,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-858,26,"""Document libVCX architectural decisions""",3.4837217330932617,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-856,26,"""need a library of functions for encoding fields of schema""",3.4807305335998535,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-855,26,"""need pack_msg() in SDK""",3.4815449714660645,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-854,26,"""Libindy acceptance testing improvement""",3.4817802906036377,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-853,26,"""JSONObject.similar does not exist in Android""",3.4790828227996826,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-849,26,"""Contribute LibVCX""",3.4876973628997803,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-847,26,"""proof request attribute neither any error or nor get autofilled if there is a case mismatch""",3.4841644763946533,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-846,26,"""OS permission error observed on creating pool config""",3.4908649921417236,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-845,26,"""Error generating proof is observed when 30-40 attributes are fulfilled and sent from connect.me""",3.4803247451782227,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-840,26,"""get-creds panics when req-attr, req-pred specs cite different cred def ids""",3.4900145530700684,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-837,26,"""Indy-cli not allowing re-connect to pool after exiting.""",3.48868465423584,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-830,26,"""Multiple Clone on a double-reference in CLI""",3.4832301139831543,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-826,26,"""Clone on a double-reference in sdk""",3.4815351963043213,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-825,26,"""Bad Comparison""",3.49111008644104,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-824,26,"""Raw pointer passed into public function.""",3.4873709678649902,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-823,26,"""Static Analysis Bugs""",3.488844394683838,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-822,26,"""IndyCrypto master has broken backward compatibility with latest stable (0.4.1)""",3.473914861679077,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-821,26,"""Libsovtoken, Libindy, and Libnullpay all use env_logger which can only be initialized once""",3.492300271987915,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-820,26,"""Too small response timeouts """,3.483884811401367,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-818,26,"""Proof of Correctness needs to be added for Revocation""",3.482874870300293,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-816,26,"""10 Minutes To Success """,3.4871883392333984,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-815,26,"""Read The Docs File Structure """,3.4785876274108887,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-814,26,"""Explore token work through the Indy CLI""",3.486835479736328,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-812,26,"""libnullpay fees API sequence needs independent signing""",3.481461763381958,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-811,26,"""Getting-Started guide in RC branch broken during incorrect IndySDK version""",3.484729766845703,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-809,26,"""ErrorCode: Invalid library state: MerkleTree contains invalid data Syntax(""""missing field `data`"""")""",3.4831912517547607,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-808,26,"""Underscore One (_1) Appended to Names of Self Attested Attributes""",3.4908945560455322,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-802,26,"""IO error during storage operation: cannot start a transaction within a transaction""",3.4934797286987305,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-801,26,"""Create a constant invalid wallet handle""",3.4862260818481445,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-800,26,"""Ledger merkle tree doesn\'t acceptable for current tree""",3.4831671714782715,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-798,26,"""Cannot migrate DIDs wrom old CLI""",3.4899840354919434,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-797,26,"""_indy_loop_callback: Function returned error 112     Error occurred: ErrorCode.CommonInvalidState""",3.4802961349487305,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-792,26,"""did.key_for_did returns incorrect error for nonexistent DID""",3.4920105934143066,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-789,26,"""panic in prover_create_proof""",3.482048988342285,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-788,26,"""libnullpay ledger fees coming back different""",3.4912185668945312,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-784,26,"""anoncreds.prover_store_credential fails with indy.error.IndyError: ErrorCode.CommonInvalidParam8""",3.4798336029052734,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-782,26,"""Config.json is created before storage is successfully created """,3.4845542907714844,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-774,26,"""Building libindy requires ncurses-devel on Fedora""",3.48225998878479,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-773,26,"""Documentation - Improve indy-sdk getting started""",3.486842155456543,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-768,26,"""Python-agent - Open wallet page.""",3.488978385925293,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-767,26,"""Python-agent - Connections display""",3.491121292114258,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-763,26,"""Python-agent - Timeline for each connection""",3.489152669906616,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-762,26,"""Indy-cli can't connect to the pool on windows 7""",3.4861369132995605,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-761,26,"""Improve MacOS documentation for new developers""",3.4922056198120117,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-760,26,"""Python-agent - Create a message timeline display. """,3.4851150512695312,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-759,26,"""Python-agent - Web socket repaint on change.""",3.484530448913574,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-758,26,"""Python-agent - Message structure.""",3.486125946044922,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-757,26,"""Investigate potential for dynamic analysis in CI""",3.4885575771331787,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-756,26,"""Add static analysis to our indy-sdk CI """,3.4864840507507324,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-755,26,"""Check for evidence of adherance to our testing policy""",3.4865260124206543,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-754,26,"""Add Code coverage tools to our CI""",3.488593101501465,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-751,26,"""[intermittent] Error 304 when processing ledger txns with libnullpay""",3.483581304550171,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-744,26,"""indy_create_and_store_credential_def: `support_revocation` is documented as optional but is actually mandatory""",3.488874912261963,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-742,26,"""Libindy not in ubuntu xenial repositories or pip""",3.490318536758423,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-741,26,"""Transaction format modification possibly cause damage to Getting Started Guide""",3.493633270263672,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-740,26,"""Indy-cli can't connect to the pool after changes in transactions format""",3.483351945877075,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-739,26,"""Have documentation show we fail on build warnings""",3.4804389476776123,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-738,26,"""Unable to restart pool (with or without datetime parameter)""",3.4862613677978516,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-736,26,"""get-validator info for demoted node""",3.4793343544006348,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-735,26,""" ledger get-validator for stopped node""",3.4819788932800293,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-734,26,"""get-validator info for disconnected node""",3.4820523262023926,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-733,26,"""Recover changing of wallet credentials""",3.4894051551818848,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-732,26,"""Wallet Enhancements: Eliminate the correlation between pool and wallet""",3.484823226928711,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-730,26,"""Running fabric-ca-server that was built with go get command fails""",3.4864954948425293,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-728,26,"""libnullpay must require connected pool for some actions""",3.482578754425049,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-726,26,"""User can use input UTXO with amount lower than transaction fee requires""",3.485811233520508,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-725,26,"""ledger mint-prepare outputs= amount can be set below zero""",3.4909372329711914,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-724,26,"""Fee can be set below zero""",3.487901449203491,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-723,26,"""Current functionality cannot match link between transaction type and internal constant""",3.4855289459228516,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-722,26,"""""""Outputs list is empty"""" when negative token amount set in """"ledger payment""""""",3.485778570175171,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-721,26,"""Basic error handling is broken""",3.4929027557373047,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-720,26,"""CLI processing """"fee="""" parameter incorrectly""",3.488223075866699,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-715,26,"""DKMS Design""",3.485017776489258,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-708,26,"""Crash while consistency proof include empty 'proof' and invalid root_hash""",3.4758384227752686,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-707,26,"""Create checks for warnings in our CI for CII badge""",3.4875149726867676,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-703,26,"""Performance and concurency""",3.4817705154418945,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-702,26,"""INDY CLI Payment tests fail on Amazon Linux""",3.4888670444488525,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-701,26,"""Credential filtering doesn't work""",3.491678237915039,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-699,26,"""Become literate with ideas in, collect resources for, and make a plan for getting the CII badge""",3.4875240325927734,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-692,26,"""Wrong URL provided for Jupiter in Getting Started""",3.4936728477478027,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-691,26,"""--network parameter of read_ledger doesn't work""",3.489194869995117,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-690,26,"""Become familiar with indy-sdk nodeJS wrapper and use the nodejs getting-started guide to prepare to make reference agent. """,3.4841976165771484,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-688,26,"""Fedora Packaging and Build""",3.4869983196258545,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-686,26,"""Update test pool dockerfile to create test pool and agents""",3.48307466506958,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-679,26,"""Improve Jupyter getting-started guide to include text descriptions and diagrams""",3.477548599243164,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-678,26,"""Trying to run the indy sdk CLI results in a segmentation fault on MacOS.""",3.4857311248779297,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-677,26,"""Unable to send more than 11 connection request concurrently""",3.475724697113037,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-673,26,"""Getting Started Jupyter/IPython notebook unable to connect to test pool""",3.486872673034668,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-664,26,"""Publish to indy.ReadTheDocs.io""",3.4909262657165527,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-659,26,"""[Design] LibIndy architecture needs for Enterprise use cases""",3.4807682037353516,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-655,26,"""Performance: libindy should use pong time to select nodes for catchup requests""",3.4813342094421387,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-654,26,"""Tool for LibIndy wallet migration to new format""",3.4866719245910645,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-651,26,"""Return different error codes in case NACK/ACK was provided or not""",3.4940338134765625,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-649,26,"""Indy Crypto does not have an associated license""",3.4885447025299072,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-648,26,"""A steward needs to be able to get validator-info from all nodes""",3.4775969982147217,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-646,26,"""nonce not threadsafe in Indy SDK""",3.481083631515503,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-645,26,"""Synchronize SDK and crypto pipelines.""",3.484671115875244,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-641,26,"""Enhancements and fixes for libindy wrappers""",3.490899085998535,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-627,26,"""Payments Interface""",3.4772257804870605,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-626,26,"""Pool refresh hanging""",3.4812049865722656,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-625,26,"""Uncomment indy_issuer_create_schema API call""",3.4878036975860596,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-609,26,"""Wallet Enhancement""",3.4719276428222656,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-608,26,"""Merge IS-417 in RC/Stable""",3.4840140342712402,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-607,26,"""cargo build command fails on libzmq dependancy""",3.4843742847442627,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-602,26,"""Ledger API: Filtering of old state proofs""",3.48286771774292,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-600,26,"""Load test fails with timeout error""",3.471046209335327,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-599,26,"""Investigate Windows & Mac Installer for Indy Wallet""",3.4881887435913086,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-598,26,"""Jenkins can't resolve extrenal hostnames.""",3.493035078048706,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-596,26,"""Libindy-based load test hangs after returning 307 error""",3.4796178340911865,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-595,26,"""Intro to New CLI """,3.482024908065796,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-586,26,"""Add libzmq dependency for indy-cli""",3.4843711853027344,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-583,26,"""Indy Crypto: Success and verified for bad signature from libindy-crypto""",3.4868884086608887,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-581,26,"""CLI: CLI sometimes response 'NYM not found' for existing NYM in batch mode""",3.4840667247772217,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-579,26,"""Making better getting started guide""",3.480875015258789,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-578,26,"""X86 Support""",3.4833016395568848,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-577,26,"""ARMV7 Support""",3.4805970191955566,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-576,26,"""AARCH64 Support""",3.48468279838562,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-575,26,"""Correlation Info is leaked in proofs""",3.4918432235717773,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-574,26,"""Libindy should have support for Android platform""",3.4848484992980957,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-573,26,"""Errors with Anoncreds implementation""",3.486722946166992,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-572,26,"""CI: CI should check all samples of Indy SDK""",3.4838619232177734,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-571,26,"""Support of automatic re-catchup""",3.476132392883301,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-569,26,"""Updating Indy Getting Started Turnkey.""",3.4872589111328125,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-568,26,"""Outdated """"ledger get-attrib help""""""",3.4899139404296875,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-567,26,"""[Refactoring] Support new Request format""",3.4788877964019775,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-566,26,"""Load test and indy-cli can't connect to the pool after several executions of load test on large pool""",3.478512763977051,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-560,26,"""Unable to get HASH and ENC attributes via indy-cli""",3.482825756072998,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-559,26,"""Wallets will be encrypted by default and have a parameter, flag, environment variable or similar to bypass the setup for automated cases""",3.485665798187256,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-558,26,"""Tickets rea""",3.4848875999450684,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-557,26,"""Support/Investigate BC Bounty Efforts 02-02-2018""",3.482238292694092,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-551,26,"""build_get_schema_request not raise the error with empty value in data""",3.4881415367126465,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-550,26,"""build_get_schema_request can contain special characters""",3.4833717346191406,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-549,26,"""build_get_schema_request not raise error with string data in version field""",3.483541965484619,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-547,26,"""Mistake in Examples section of cli-design.md""",3.4912095069885254,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-546,26,"""Wrong error message while using invalid wallet name""",3.4914867877960205,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-545,26,"""Mistaken example in """"did import"""" help""",3.488058090209961,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-544,26,"""Rotate-key available on read-only pool""",3.4829373359680176,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-543,26,"""NETWORK_NAME isn't set while deploy Vagrant cluster""",3.477947235107422,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-542,26,"""Issuance by default""",3.48140811920166,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-540,26,"""User can get schema that does not exist.""",3.487332344055176,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-539,26,"""Adding new schema, attribute name accepts special characters (e.g: ? : ' """"  ! .).""",3.483057737350464,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-537,26,"""Adding new schema, schema's name can contain special character (e.g: ? ! ' """" < >).""",3.4826040267944336,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-534,26,"""indy-cli Binary Does Not Run""",3.4827167987823486,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-532,26,"""Load test: Load test fails with 114 error after submitting 1000 nyms""",3.482722282409668,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-531,26,"""Missing config file errors from the SDK could generate error messages that indicate what can be done to correct problem""",3.48720121383667,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-530,26,"""CLI: incorrect error message during connection to not existing pool""",3.490265369415283,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-529,26,"""CLI: unnecessary symbols at the end of message""",3.485027551651001,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-527,26,"""New Wallet api to store key value pair and get it back by key""",3.490281105041504,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-526,26,"""[anoncreds] prover_get_claims_for_proof_req method throws error.""",3.4904518127441406,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-525,26,"""CLI: cli can't connect to the pool with only one node""",3.487854480743408,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-524,26,"""CI / CD Improvements""",3.4811949729919434,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-522,26,"""Libindy wrapper for Go """,3.482473611831665,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-519,26,"""Libindy looks like hang when using the pool_transaction file with incorrect 3 or 4 nodes""",3.475701093673706,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-518,26,"""Error code 302 when using the pool_transaction file with incorrect 2 nodes.""",3.4789321422576904,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-517,26,"""Error code 113 for the empty pool_transaction file.""",3.4823482036590576,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-516,26,"""indy_key_for_did() needs a way to express time constraints""",3.483299970626831,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-512,26,"""Keys in wallet are overwritten when indy_issuer_create_and_store_claim_def is called more than once""",3.4923853874206543,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-510,26,"""CLI: Argument parser isn't user friendly in some cases""",3.4879400730133057,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-508,26,"""Returned result mismatches with comment (at 'signus.encrypt_sealed').""",3.4860129356384277,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-507,26,"""libindy.so is packaged without a version.""",3.4908013343811035,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-506,26,"""CLI: Wrong output of ledger nym command in case of blacklisting identity""",3.479022979736328,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-505,26,"""Response Error 113-CommonInvalidStructure, not related to the actual scenario.""",3.4839298725128174,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-503,26,"""CLI: Improvements for pool-upgrade""",3.485023021697998,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-502,26,"""CLI: 'ledger node' command doesn't work""",3.48431396484375,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-501,26,"""CLI: Strange output of some commands""",3.483790874481201,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-500,26,"""CLI: Need to remove 'cid' parameter of 'did new' command""",3.491917610168457,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-499,26,"""NYM adding via libindy python wrapper returns """"ValueError: 307 is not a valid ErrorCode""""""",3.4767189025878906,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-498,26,"""CLI: No limitation for did length in 'did new' command""",3.492030382156372,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-497,26,"""CLI: did and wallet are still shown in prompt after closing wallet in some cases""",3.4936301708221436,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-494,26,"""CLI: Need to add information message that current wallet is incompatible with current pool """,3.487199306488037,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-493,26,"""CLI: Need to display which wallets are encrypted in output of 'wallet list' command""",3.4815733432769775,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-492,26,"""CLI: Need to remove 'freshness time' parameter from help""",3.493743419647217,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-491,26,"""CLI: Wallet open command works without key for encrypted wallet""",3.4879438877105713,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-489,26,"""CLI: indy-cli can't connect to pool if there is at least one stopped node""",3.487717628479004,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-488,26,"""Given I have received a proof request which lists _attribute names_ it's asking for, the app should search the wallet for all the matching _attribute names_ and use them to fulfill the proof""",3.4879508018493652,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-487,26,"""Allow Proof Requests to specify a range of Schema Versions""",3.480087995529175,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-486,26,"""Provide a filtering mechanism on claims in wallet when preparing a Proof """,3.4891467094421387,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-485,26,"""When building a proof request, I want to just name some attributes I want back""",3.4826056957244873,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-484,26,"""I want to specify a list of acceptable issuers in my proof request""",3.478543281555176,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-483,26,"""Introduce the special value """"null"""" for parameters of """"send"""" commands for a field removal""",3.4866201877593994,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-481,26,"""CLI: Improvements for cli help""",3.4816482067108154,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-480,26,"""CLI: Application crashes during connection/writing to pool with disconnected nodes""",3.4901933670043945,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-478,26,"""CLI: Unclear error messages""",3.4858391284942627,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-473,26,"""CLI: get-schema command should return sequence number of schema""",3.483976125717163,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-472,26,"""Getting Started Tutorial""",3.4880049228668213,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-471,26,"""CLI: nym-get command returns incorrect role and alias""",3.482271432876587,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-468,26,"""CLI: Pool creation error due to empty lines in pool genesis file""",3.4838852882385254,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-467,26,"""Move transaction signature serializator to an external library""",3.4818859100341797,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-466,26,"""Stories about Revocation""",3.4829821586608887,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-465,26,"""Indy SDK will properly validate Revocation Registry Objects and update them""",3.4876046180725098,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-463,26,"""As a Credential Holder I need to be able to request a TAILS file from an Issuer""",3.4837121963500977,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-462,26,"""As an Issuer I need to be able to distribute a TAILS file to credential holders """,3.4799399375915527,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-457,26,"""INDY SDK hangs on ledger.sign_and_submit_request""",3.483337163925171,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-456,26,"""experiential issues for API UX""",3.4883601665496826,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-455,26,"""Technical debt: Clean up logging""",3.4927783012390137,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-453,26,"""Get Schema don't support anoncred work flow""",3.488666534423828,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-450,26,"""Allow using pre-computed safe primes for claims issuance development.""",3.4893527030944824,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-449,26,"""amcl::rand::RAND::seed panics""",3.480313301086426,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-448,26,"""amcl::ecp::ECP::frombytes panics""",3.4872541427612305,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-446,26,"""Interoperability tests recovering(Libindy anoncreds with Python anoncreds).""",3.483799934387207,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-445,26,"""Exception raised during pool_close if pending submit_request presented""",3.48677396774292,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-444,26,"""Two consecutive call to pool refresh failed with ErrorCode.CommonIOError""",3.4858903884887695,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-443,26,"""Change builder for NODE txn""",3.483492374420166,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-441,26,"""Indy Crypto: fix possible collisions on encoding string to BigInteger""",3.487323760986328,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-432,26,"""A client needs to be able to send a Batch of request""",3.4850215911865234,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-430,26,"""Blocking Issue: libindy cannot remove roles""",3.4828763008117676,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-426,26,"""A client needs to be able to build a requet for a sample operation""",3.481060028076172,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-420,26,"""Anoncreds: Updates from AnonCreds Paper need to be added""",3.4796628952026367,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-408,26,"""Pool API: Libindy not returning any error information when opening the pool""",3.482442855834961,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-407,26,"""indy_sign_and_submit_request hangs when NYM is created as a trust anchor in the same transaction  """,3.4806833267211914,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-406,26,"""Cannot start docker indy_pool - invalid versions of indy-plenum, indy-anoncreds, and indy-node""",3.4888477325439453,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-403,26,"""[indy-crypto] BLS code crashes on negative test cases""",3.4892492294311523,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-402,26,"""State Proof: Support timestamp in muli-signature""",3.4808144569396973,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-391,26,"""Support multiple process attachment to pool""",3.4856019020080566,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-389,26,"""CI for RC branch (rc and stable builds) is broken after splitting to CI and CD""",3.4836642742156982,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-388,26,"""Unable to connect to pool with libindy if genesis file has quotes around port numbers""",3.4859933853149414,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-387,26,"""Agent API: Libindy integration tests new approach based on libsodium authenticated encryption""",3.4841833114624023,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-379,26,"""anoncreds - can only prove against latest claim request""",3.4789888858795166,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-378,26,"""indy_set_pairwise_metadata does not allow null or empty values for metadata""",3.4908738136291504,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-375,26,"""indy_agent_close_listener not releasing endpoint""",3.4863760471343994,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-370,26,"""Signus Api: Anonymous encryption""",3.4787158966064453,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-369,26,"""Cargo build is failing for MacOS""",3.481210231781006,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-368,26,""".Net: Keys rotation support""",3.4907803535461426,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-367,26,"""cargo tests fail""",3.4804162979125977,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-365,26,"""Ios: Keys rotation support""",3.486607074737549,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-362,26,"""Pairwise: Create new methods in signus for better pairwise support""",3.483287811279297,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-359,26,"""prover.rs::init_ge_proof() hangs on larger numbers""",3.477179527282715,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-358,26,"""[Anoncreds] It's possible to change revealed attributes and still get a correct proof""",3.4886467456817627,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-355,26,"""Cannot open pool ledger using libindy""",3.4837889671325684,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-353,26,"""Move binary artifacts to Sovrin repo""",3.4808480739593506,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-352,26,"""[Anoncreds] Roots of an equation may be calculated incorrecttly when preparing primary proof""",3.4777896404266357,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-351,26,"""Only 8 of 88 anoncreds cargo tests pass""",3.4796628952026367,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-350,26,"""Improve error reporting when deleting pool config and wallets if they don't exist""",3.4919681549072266,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-349,26,"""libindy: user cannot remove a role using the role parameter""",3.487023115158081,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-348,26,"""Indy-SDK binary should be part of Java Wrapper artifiact""",3.495579719543457,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-346,26,"""Improve error reporting when closing agent listeners and connections with invalid handles""",3.4839277267456055,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-341,26,"""Needed to graduate from Incubation""",3.476665496826172,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-340,26,"""Add TGB role to SDK""",3.485185146331787,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-339,26,"""As a Developer using libindy, I need the version to be sandboxed for development.""",3.4928476810455322,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-335,26,"""As a developer using Indy SDK I should be able to run unit tests that don't require a running indy node network.""",3.4881200790405273,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-332,26,"""Blocking: Libindy does not handle using an invalid genesis transaction file""",3.4842467308044434,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-331,26,"""State Proofs""",3.479074001312256,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-330,26,"""Indy Crypto: MacOS support""",3.495142936706543,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-329,26,"""Indy Crypto: iOS support""",3.4839553833007812,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-322,26,"""Documentation: Generate API documentation""",3.4856128692626953,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-321,26,"""BLS Signature Support""",3.4748942852020264,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-320,26,"""Documentation""",3.485645294189453,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-318,26,"""Wallet folder incorrectly created when using plugged wallet""",3.4908766746520996,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-317,26,"""As a community member, I need to have an indy-crypto Rust library with Signed State support""",3.4809398651123047,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-307,26,"""CI: RHEL pipeline broken (can't install """"Development Tools"""" on amazonlinux:2017.03)""",3.485591411590576,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-306,26,""".NET Wrapper: Packaging""",3.484562873840332,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-294,26,"""Release""",3.4767227172851562,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-290,26,"""Jenkins fails to cleanup Indy SDK pipeline""",3.4882235527038574,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-289,26,"""Unrecognized role should generate an error when adding a NYM""",3.4878780841827393,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-288,26,"""Unable to add NYM with role TRUST_ANCHOR""",3.4853334426879883,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-287,26,"""Failure to sync with validator pool""",3.478964328765869,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-286,26,"""Java wrapper connection references not cleaned up when listener closed""",3.4952392578125,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-283,26,"""Unable to release pool handle in .NET finalizer (destructor)""",3.487522602081299,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-282,26,"""Close all incoming connections associated with DID after call remove_identity""",3.4854049682617188,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-275,26,"""CLI: Switch to use libindy in indy-node tests""",3.4918689727783203,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-273,26,"""CLI""",3.4880690574645996,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-272,26,"""NodeJS Wrapper: Define roadmap and ETA""",3.48120379447937,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-271,26,"""NodeJS Wrapper""",3.4816393852233887,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-270,26,"""Ledger API: Upgrade transaction support""",3.473275661468506,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-269,26,"""Ledger API: GET_NODE (or similar) transaction support""",3.4750823974609375,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-267,26,"""DID-TLS""",3.4742379188537598,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-264,26,"""Refactor zmq socket code to use abstract class""",3.4812374114990234,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-263,26,"""Java Wrapper: Integration tests freeze periodically""",3.48492431640625,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-262,26,"""indy_prover_get_claim_offers does not appear to correctly process the JSON returned from a pluggable wallet""",3.4899652004241943,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-261,26,"""Publishing deb/rpm broken after sdk code was moved to ^/libindy/ internal folder.""",3.4884724617004395,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-257,26,""".NET Wrapper: CI Pipeline""",3.482513666152954,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-256,26,"""Unmanged resources should be released""",3.48537015914917,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-255,26,"""Unmanaged resources should be released""",3.4810781478881836,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-254,26,"""Custom wallet types  should explicitly use UTF-8 when marshalling strings""",3.485783100128174,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-253,26,"""Move marshalling of values to WalletType""",3.4941246509552,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-252,26,"""SDK should check for versioin compatibility with Sovrin Validators""",3.4812915325164795,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-247,26,"""error: [client-utils.js]: sendPeersProposal - Promise is rejected: Error: Connect Failed""",3.4902992248535156,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-246,26,"""Need a Wallet API to check current status""",3.489513397216797,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-245,26,"""Need a Pool API to check current status of a Pool""",3.487565040588379,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-244,26,"""Inconsistent Param Name for indy_open_pool_ledger() api""",3.4840521812438965,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-243,26,"""Invalid error code and a bad message is used for case if pool configuration already exists""",3.497453212738037,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-242,26,"""Anoncreds: Need to think about long term solution for schema and claim_def reference""",3.485611915588379,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-235,26,""".Net Support""",3.4870004653930664,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-231,26,"""rename Signus""",3.485938787460327,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-228,26,"""SDK calls fail to execute callback functions at unpredicatble intervals""",3.4918160438537598,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-225,26,"""Returned schema fields not reliably order when getting a claim def txn""",3.481882095336914,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-223,26,"""Android Support: Provide WBS""",3.484348773956299,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-222,26,"""Android Support""",3.481929302215576,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-217,26,"""Java Wrapper: Investigate support for Java 1.7 or earlier""",3.4870266914367676,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-216,26,"""Java Wrapper: Don't use JSONParameters in methods signatures""",3.487375020980835,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-214,26,"""Java Wrapper: Support build_get_txn_request""",3.479645252227783,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-205,26,"""Java Wrapper: Wrapping of each result to dedicated class look redundantly""",3.485893964767456,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-204,26,"""Java Wrapper: Remove unnecessary prefixes from method names""",3.4886879920959473,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-203,26,"""Java Wrapper: Switch from Future to CompletableFuture in methods interfaces""",3.4807300567626953,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-202,26,"""Java Wrapper: Use observer pattern for agentListen and agentConnect calls to work with events""",3.482025146484375,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-201,26,"""Java Wrapper: Callbacks GC Issue""",3.483164072036743,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-196,26,"""Java Wrapper""",3.4910006523132324,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-191,26,"""Windows Support: Packages""",3.4850685596466064,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-189,26,"""iOS Wrapper: CI Pipeline""",3.4830331802368164,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-178,26,"""Technical debt: Switch to usage of libzmq release""",3.481297492980957,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-175,26,"""Pysovrin Interoperability""",3.4755139350891113,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-172,26,"""RHEL Support""",3.485135316848755,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-170,26,"""iOS Wrapper: Port Anoncreds Revocation integration tests (High cases)""",3.4803853034973145,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-169,26,"""iOS Support: Port integration tests for encrypt/decrypt (Medium cases)""",3.4816384315490723,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-168,26,"""iOS Wrapper: Port integration tests for encrypt/decrypt (High cases)""",3.4823102951049805,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-162,26,"""CI: Switch to new Jenkins""",3.492218255996704,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-161,26,"""Docs: Update Node API documentation""",3.4822020530700684,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-160,26,"""CI: Fix compatibility with the latest pool""",3.4836058616638184,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-156,26,"""Technical debt: Remove libzmq dependency from CI and README""",3.485123634338379,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-154,26,"""Chaincode02 tests are failing""",3.4757139682769775,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-152,26,"""start continuous integration on redhat or centos""",3.484917640686035,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-150,26,"""start continuous integration on Windows""",3.4872851371765137,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-148,26,"""Cannot compile SDK on Amazon Linux""",3.4790172576904297,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-147,26,"""Agent API: Use DDO transaction instead ATTRIB for receiving connection info from ledger""",3.4794673919677734,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-146,26,"""Ledger API: DDO transaction support""",3.476137161254883,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-143,26,"""Technical debt: Create test framework""",3.482978582382202,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-142,26,"""Technical debt: Integration test for sending Node transaction currently ignored""",3.483492612838745,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-141,26,"""Technical debt: Refactor CommandExecutor::send""",3.47413969039917,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-140,26,"""Pool API: Fake f=N/2 for unstable pool""",3.4905261993408203,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-136,26,"""Windows build instructions need a few updates""",3.4779648780822754,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-135,26,"""Ledger Service: Merkle tree""",3.4771671295166016,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-134,26,"""Ledger Service: Catch Up""",3.4848453998565674,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-133,26,"""Ledger Service: ZMQ communication layer""",3.4830503463745117,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-132,26,"""Pool API: Service implementation""",3.496300458908081,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-131,26,"""Ledger Service: Requests""",3.484522819519043,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-130,26,"""Pool API: Commands implementation""",3.4953041076660156,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-129,26,"""Ledger Service: Request builders""",3.4786858558654785,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-127,26,"""Pool API: Fix Consistency Proofs tests for Merkle Tree""",3.486525774002075,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-126,26,"""Pool API: Integration tests (High cases)""",3.485422134399414,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-124,26,"""Pool API: Integration tests (Low cases)""",3.48516845703125,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-122,26,"""Crypto Service: Backends Integration""",3.4779434204101562,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-121,26,"""Crypto Service: Anoncreds Primary""",3.4785573482513428,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-120,26,"""Crypto Service: Anoncreds Revocation""",3.4821009635925293,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-119,26,"""Wallet Service: Interface and SQLite based implementation""",3.4744176864624023,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-118,26,"""Crypto Service: Issuer""",3.4817588329315186,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-117,26,"""Crypto Service: Prover""",3.4784493446350098,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-116,26,"""Crypto Service: BN Wrapper""",3.481658697128296,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-115,26,"""Anoncreds API: Pairing Wrapper (milagro-crypto-c)""",3.4807257652282715,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-114,26,"""Crypto Service: Verifier""",3.4871394634246826,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-113,26,"""Crypto Service: Anoncreds Utils""",3.488348960876465,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-112,26,"""Anoncreds Commands: Issuer""",3.478818893432617,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-111,26,"""Anoncreds Commands: Prover""",3.474518299102783,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-110,26,"""Anoncreds Commands: Verifier""",3.4854135513305664,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-107,26,"""Anoncreds API: Pairing Wrapper (amcl, rust version)""",3.4785799980163574,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-106,26,"""Anoncreds API: Prime claims integration testing (High cases)""",3.478790521621704,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-105,26,"""Anoncreds API: Prime claims integration testing (Medium cases)""",3.479849338531494,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-104,26,"""Anoncreds API: Prime claims integration testing (Low cases)""",3.4831442832946777,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-102,26,"""Anoncreds API: Revocation integration testing (Low cases)""",3.486575126647949,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-101,26,"""Anoncreds API: Interoperability with libsovrin""",3.4757652282714844,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-99,26,"""Interoperability with libsovrin: Proof""",3.4773411750793457,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-98,26,"""Interoperability with libsovrin: Proof Request""",3.474886417388916,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-97,26,"""Interoperability with libsovrin: Claim""",3.474029541015625,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-96,26,"""Interoperability with libsovrin: Claim Request""",3.4714131355285645,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-95,26,"""Agent API""",3.480499505996704,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-94,26,"""Wallet API: Integration testing (Low cases)""",3.481900691986084,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-93,26,"""Wallet API: Integration testing (Medium cases)""",3.4805850982666016,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-92,26,"""Sean to write all the stories""",3.477433443069458,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-91,26,"""API Demo""",3.488063335418701,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-90,26,"""Pool Ledger""",3.481367588043213,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-89,26,"""Anoncreds""",3.478907823562622,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-88,26,"""Alpha Release""",3.48045015335083,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-87,26,"""Beta Release""",3.473938465118408,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-86,26,"""HLD: Main approach to computing organization""",3.4916505813598633,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-85,26,"""HLD: Repositories""",3.493144989013672,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-84,26,"""HLD: Code layout and DI""",3.48264217376709,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-83,26,"""HLD: Rust API""",3.4961111545562744,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-82,26,"""HLD: C API""",3.4907617568969727,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-81,26,"""HLD: Infrastructure (Configuration, Logging, Error Handling, Storage, Build)""",3.4943325519561768,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-80,26,"""HLD: Testing Approach""",3.488677978515625,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-79,26,"""HLD: Versioning approach""",3.4846057891845703,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-78,26,"""HLD: Document messages level Sovrin API""",3.4830994606018066,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-77,26,"""HLD: Document Catch Up process""",3.481534481048584,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-76,26,"""Anoncreds: Create wrapper for Milagro""",3.4926371574401855,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-75,26,"""API: Wallet API""",3.489518642425537,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-74,26,"""API: Pool API""",3.4921741485595703,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-73,26,"""API: Anoncreds API""",3.487227439880371,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-72,26,"""API: Ledger API""",3.486546039581299,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-71,26,"""API: Signus API""",3.4905591011047363,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-70,26,"""Ledger API: Implement commands""",3.4813599586486816,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-69,26,"""Signus API""",3.4905178546905518,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-68,26,"""iOS Wrapper""",3.473452568054199,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-67,26,"""Ledger API: Nodes emulator for unit tests""",3.4804859161376953,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-66,26,"""Python Wrapper""",3.476881504058838,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-65,26,"""Windows Support""",3.481621742248535,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-64,26,"""Windows Support: Build libsovrin on Windows""",3.4853835105895996,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-62,26,"""Ubuntu Support""",3.475959300994873,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-60,26,"""MacOS Support""",3.4808907508850098,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-59,26,"""CI: Nodes Pool""",3.4867873191833496,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-57,26,"""Ledger API""",3.484869956970215,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-56,26,"""Ledger API: Integration tests (High cases)""",3.4783825874328613,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-55,26,"""Ledger API: Integration tests (Medium cases)""",3.4796345233917236,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-54,26,"""Ledger API: Integration tests (Low cases)""",3.484964370727539,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-53,26,"""API Demo""",3.488063335418701,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-52,26,"""Agent API: Commands implementation""",3.475438117980957,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-51,26,"""Agent API: Service implementation""",3.4803361892700195,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-50,26,"""Agent API: Integration testing (High cases)""",3.4759364128112793,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-48,26,"""Crypto API: Integration testing (Low cases)""",3.4839584827423096,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-47,26,"""Agent API: PairwiseCurveCP""",3.4800543785095215,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-45,26,"""Wallet API""",3.4867076873779297,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-44,26,"""IOS Wrapper: Agent API""",3.4769604206085205,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-43,26,"""MacOS support: Build libsovrin for mac, run the tests""",3.4853405952453613,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-42,26,"""MacOS support: create the .md file with build instruction""",3.4836387634277344,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-40,26,"""IOS Wrapper: Agent API medium level cases""",3.478227138519287,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-39,26,"""IOS Wrapper: Pool API integration tests (High cases)""",3.484440326690674,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-38,26,"""IOS Wrapper: Pool API medium level cases""",3.479921579360962,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-37,26,"""IOS Wrapper: Ledger API integration tests (High cases)""",3.4867618083953857,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-36,26,"""IOS Wrapper: Wallet API integration tests (High cases)""",3.484452247619629,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-35,26,"""IOS Wrapper: Signus API integration tests (High cases)""",3.4836642742156982,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-34,26,"""IOS Wrapper: Anoncreds API Primary Claims Integration tests (High cases)""",3.4768106937408447,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-33,26,"""IOS Wrapper: Anoncreds API Revocation integration tests (High cases)""",3.482842445373535,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-32,26,"""IOS Wrapper: Wallet API medium level cases""",3.4812021255493164,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-31,26,"""IOS Wrapper: Ledger API medium level cases""",3.4804983139038086,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-30,26,"""IOS Wrapper: Signus API medium level cases""",3.4829647541046143,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-29,26,"""IOS Wrapper: Port Demo tests""",3.4823975563049316,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-28,26,"""IOS Wrapper: Ledger API demo tests""",3.4847359657287598,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-27,26,"""IOS Wrapper: Signus API demo tests""",3.482295513153076,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-26,26,"""IOS Wrapper: Anoncreds API demo tests""",3.4804847240448,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-25,26,"""IOS Wrapper: Wallet API demo tests""",3.485966920852661,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-24,26,"""Signus API: Integration tests (High Level cases)""",3.4810988903045654,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-23,26,"""Signus API: Integration tests (Medium cases)""",3.482110023498535,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-22,26,"""DID API: Integration tests (Low cases)""",3.487924814224243,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-21,26,"""Wallet API: Integration testing (High cases)""",3.476952075958252,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-20,26,"""Python Wrapper: API definition""",3.4838216304779053,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-8,26,"""Python Wrapper: Packages""",3.486534595489502,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-5,26,"""Technical debt""",3.479914665222168,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-4,26,"""Anoncreds API: Interoperability with libsovrin""",3.4724438190460205,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-3,26,"""Technical debt: Errors refactoring""",3.485729932785034,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+IS-1,26,"""Technical debt: Test logs in xunit format""",3.4860405921936035,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn

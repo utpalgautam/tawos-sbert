@@ -1,0 +1,39 @@
+{
+  "project_key": "JRACLOUD",
+  "project_id": 44,
+  "total_issues": 25669,
+  "labeled_issues": 361,
+  "unlabeled_issues": 25308,
+  "missing_titles": 0,
+  "blank_titles": 0,
+  "missing_descriptions": 118,
+  "blank_descriptions": 118,
+  "both_text_blank": 0,
+  "non_numeric_labels": 0,
+  "zero_labels": 9,
+  "fractional_labels": 0,
+  "extreme_labels_gt_100": 1,
+  "negative_labels": 0,
+  "duplicate_issue_keys": 0,
+  "duplicate_full_text": 29,
+  "conflicting_labels_same_text": 0,
+  "story_point_stats": {
+    "count": 361,
+    "mean": 12.246537396121884,
+    "std": 159.28232323431723,
+    "min": 0.0,
+    "p25": 2.0,
+    "median": 4.0,
+    "p75": 4.0,
+    "p90": 8.0,
+    "p95": 8.0,
+    "p99": 8.0,
+    "max": 3030.0,
+    "distinct_values": 9
+  },
+  "issue_type_distribution": {
+    "Suggestion": 267,
+    "Bug": 92,
+    "Support Request": 2
+  }
+}

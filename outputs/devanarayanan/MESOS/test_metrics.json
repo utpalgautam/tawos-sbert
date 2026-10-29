@@ -1,0 +1,13 @@
+{
+  "project_id": 4,
+  "project_key": "MESOS",
+  "mae": 1.4366868734359741,
+  "mdae": 0.9919002056121826,
+  "test_count": 655,
+  "baseline_mae": 1.4349619150161743,
+  "baseline_mdae": 1.0,
+  "training_median_value": 3.0,
+  "encoder_checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_version": "v1.0_sbert_cnn",
+  "seed": 42
+}

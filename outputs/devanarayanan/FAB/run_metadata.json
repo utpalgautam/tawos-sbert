@@ -1,0 +1,15 @@
+{
+  "project_key": "FAB",
+  "project_id": 24,
+  "timestamp": "2026-10-26 17:36:06",
+  "platform": "macOS-26.5.1-arm64-arm-64bit-Mach-O",
+  "python_version": "3.14.0",
+  "torch_version": "2.14.1",
+  "sklearn_version": "1.9.1",
+  "device": "mps",
+  "random_seed": 42,
+  "encoder": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_architecture": "3-layer CNN (128-64-32)",
+  "split_ratio": "80/20 dev/test",
+  "validation_strategy": "5-fold CV on dev"
+}

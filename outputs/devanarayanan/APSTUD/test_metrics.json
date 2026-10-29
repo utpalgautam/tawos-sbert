@@ -1,0 +1,13 @@
+{
+  "project_id": 8,
+  "project_key": "APSTUD",
+  "mae": 5.1001811027526855,
+  "mdae": 4.618859767913818,
+  "test_count": 178,
+  "baseline_mae": 4.932584285736084,
+  "baseline_mdae": 5.0,
+  "training_median_value": 8.0,
+  "encoder_checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_version": "v1.0_sbert_cnn",
+  "seed": 42
+}

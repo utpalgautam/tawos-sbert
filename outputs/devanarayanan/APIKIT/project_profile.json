@@ -1,0 +1,40 @@
+{
+  "project_key": "APIKIT",
+  "project_id": 35,
+  "total_issues": 886,
+  "labeled_issues": 473,
+  "unlabeled_issues": 413,
+  "missing_titles": 0,
+  "blank_titles": 0,
+  "missing_descriptions": 0,
+  "blank_descriptions": 0,
+  "both_text_blank": 0,
+  "non_numeric_labels": 0,
+  "zero_labels": 8,
+  "fractional_labels": 0,
+  "extreme_labels_gt_100": 0,
+  "negative_labels": 0,
+  "duplicate_issue_keys": 0,
+  "duplicate_full_text": 9,
+  "conflicting_labels_same_text": 0,
+  "story_point_stats": {
+    "count": 473,
+    "mean": 3.4186046511627906,
+    "std": 2.7629189148855886,
+    "min": 0.0,
+    "p25": 1.0,
+    "median": 3.0,
+    "p75": 5.0,
+    "p90": 8.0,
+    "p95": 8.0,
+    "p99": 13.0,
+    "max": 21.0,
+    "distinct_values": 11
+  },
+  "issue_type_distribution": {
+    "Bug": 186,
+    "Task": 153,
+    "Story": 79,
+    "Enhancement Request": 55
+  }
+}

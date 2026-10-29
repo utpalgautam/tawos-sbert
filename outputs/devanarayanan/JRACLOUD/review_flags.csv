@@ -1,0 +1,12 @@
+issue_key,project_id,flag_reason,details
+JRACLOUD-68856,44,title_only,"Description is blank, title only"
+JRACLOUD-65400,44,zero_story_point,Label is 0
+JRACLOUD-63645,44,zero_story_point,Label is 0
+JRACLOUD-63644,44,zero_story_point,Label is 0
+JRACLOUD-63643,44,zero_story_point,Label is 0
+JRACLOUD-63641,44,zero_story_point,Label is 0
+JRACLOUD-63640,44,zero_story_point,Label is 0
+JRACLOUD-63639,44,zero_story_point,Label is 0
+JRACLOUD-63638,44,zero_story_point,Label is 0
+JRACLOUD-63637,44,zero_story_point,Label is 0
+JRACLOUD-62509,44,extreme_story_point,Label exceeds 100: 3030.0

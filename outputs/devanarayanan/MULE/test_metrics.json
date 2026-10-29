@@ -1,0 +1,13 @@
+{
+  "project_id": 36,
+  "project_key": "MULE",
+  "mae": 3.1080095767974854,
+  "mdae": 3.4195446968078613,
+  "test_count": 835,
+  "baseline_mae": 2.985628843307495,
+  "baseline_mdae": 3.0,
+  "training_median_value": 4.0,
+  "encoder_checkpoint": "sentence-transformers/all-MiniLM-L6-v2",
+  "model_version": "v1.0_sbert_cnn",
+  "seed": 42
+}

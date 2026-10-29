@@ -1,0 +1,414 @@
+issue_key,project_id,title,predicted_story_point,encoder_checkpoint,model_version
+APIKIT-2494,35,"""Sync WSDL location with Studio Tooling (Metadata)""",3.0266923904418945,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2489,35,"""Create console message processor""",3.0234594345092773,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2488,35,"""verify that the mule's runtime is EE to run the mule-module-soapkit""",3.021620273590088,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2484,35,"""WS-Security Username Token policy for api-platform""",3.020826816558838,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2483,35,"""scaffolder: generate endpoint path by taking the port address from the wsdl file""",3.0278091430664062,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2478,35,"""SE-11259 SOAP 1.2 in 1.1 WebService WARN or ERROR?""",3.0259220600128174,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2475,35,"""Runtime: Support for routing table""",3.0297887325286865,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2472,35,"""Runtime: add lots of loggers""",3.02262806892395,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2465,35,"""Runtime: Schema validation incoming/outgoing XML messages""",3.0216715335845947,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2456,35,"""Runtime: Support for retrieving secured WSDL files""",3.0305886268615723,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2451,35,"""WS-Security Encrypt+signature+timestamp policy for api-platform""",3.0258383750915527,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2447,35,"""NPE in Soapkit metadata module when Soapkit config is incomplete""",3.0272717475891113,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2445,35,"""Runtime: performance tests should be executed""",3.0184214115142822,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2441,35,"""Expose WSS via Built-in Policy""",3.0204062461853027,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2440,35,"""Tech debt: verify all java package's names""",3.0301778316497803,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2436,35,"""Runtime: http multipart messages should be parsed properly""",3.0177440643310547,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2435,35,"""Update SoapKit tooling Staging to support Studio 7.3.0""",3.020557403564453,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2433,35,"""Runtime: improve XSD""",3.0271689891815186,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2424,35,"""Move artifact for release 1.0.1""",3.024991512298584,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2413,35,"""Maven artifacts: standardize maven groupsIDs and artifactIDs""",3.0223283767700195,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2405,35,"""Runtime: every exception must be catched and return a SOAP Fault instead""",3.0245490074157715,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2401,35,"""Runtime: the Username Token policy must be tested using a soap router""",3.024984359741211,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2394,35,"""Documentation: improve existing doc to add new features""",3.0239009857177734,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2390,35,"""Cannot load class MimetypesFileTypeMap""",3.026564598083496,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2389,35,"""DataSense for SOAP Faults""",3.018869400024414,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2388,35,"""DataSense headers should behave as the WSC ones""",3.0229806900024414,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2376,35,"""Implement Soap Fault 2.0""",3.0215468406677246,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2362,35,"""Work with mavenize project""",3.0249743461608887,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2353,35,"""Define DSL""",3.025723695755005,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2341,35,"""Define Soapkit UX""",3.0233466625213623,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2336,35,"""Expand the ability of how to format the output of SoapKit""",3.019721746444702,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2322,35,"""Soap Fault builder processor UI support""",3.0221219062805176,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2316,35,"""Plugin: Unify both Apikit and Apikit for soap plugins to improve the experience""",3.0231575965881348,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2314,35,"""APIKit for SOAP Spec""",3.0259506702423096,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2312,35,"""SOAPKIT to fully support attachments""",3.017941474914551,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2311,35,"""SOAP Server Validation Enable Support""",3.020803928375244,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2310,35,"""SOAP Proxy for API Gateway""",3.022176742553711,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2309,35,"""Migrate APIKit for SOAP to Mule 4""",3.020846366882324,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2308,35,"""SOAPkit: Support WS-Security""",3.0286521911621094,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2307,35,"""Remote WSDL metadata""",3.0293660163879395,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2306,35,"""Fault processor metadata""",3.0202064514160156,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2305,35,"""SE-10640 Wrong error message after SOAP Kit validating schema""",3.0235795974731445,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2303,35,"""Update wsdl parser to the latest version.""",3.0278196334838867,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2298,35,"""Make Soapkitconfig attributes name public""",3.027912139892578,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2293,35,"""Support mustUnderstand in Security Headers""",3.0251336097717285,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2289,35,"""Add feedback when trying to scaffold without having configurated Router""",3.0234484672546387,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2283,35,"""SE-11173 Set custom namespaces to """"body"""" and """"envelope""""""",3.0228257179260254,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2279,35,"""APIKit SOAP + DataWeave = Undeclared namespace prefix """"xsi""""""",3.0177412033081055,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2273,35,"""SE-9660 Studio tries to use an unreleased soapkit version""",3.023261070251465,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2259,35,"""Wizard: Making a non-soapkit mule project still generatess the src/main/wsdl folder""",3.0295660495758057,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2247,35,"""Studio does not create a project when there is a space in a folder""",3.029937744140625,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2238,35,"""SE-10918 SOAP Kit modifies soap:address location and it's not possible to use URI + """"?wsdl"""" to download it""",3.0285136699676514,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2236,35,"""SE-11348 SOAPKit Router is removing one of the attributes in the request""",3.028888463973999,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2233,35,"""Cannot create a project : Invalid location""",3.0311317443847656,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2228,35,"""Scaffolder does not regenerate the xml content if it was deleted""",3.0246288776397705,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2227,35,"""Scaffolder: flows generation does not add the full apikit-soap:config's element name""",3.0262436866760254,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2226,35,"""Runtime: tests for envelopes under XMLUnit are not working properly due to libraries collision errors""",3.016139507293701,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2221,35,"""APIKit SOAP """"generate flows from WSDL"""" creates wrong flow references""",3.0252327919006348,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2215,35,"""SE-10772 Soapkit Router is executing a blocking operation in cpuLight and cpuIntensive threads  3 of 3 Return to search""",3.02620792388916,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2211,35,"""Scaffolder does not regenerate the xml config file if it was deleted""",3.025845527648926,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2202,35,"""java.lang.LinkageError: loader constraint violation: loader (instance of org/eclipse/osgi/internal/loader/EquinoxClassLoader) previously initiated loading for a different type with name """"com/google/common/base/Optional""",3.027487277984619,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2199,35,"""Add version and encoding to xml when creating a project""",3.0248055458068848,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2187,35,"""Wizard: When creating a soapkit project the soapkit libraries are missing""",3.0247950553894043,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2181,35,"""Investigate Potential XXE in soapkit""",3.023043632507324,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2179,35,"""Use currentThread().classloader to load WSDL""",3.021676778793335,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2178,35,"""4.- In OS X, after configuring a WSDL you have to manually do click in Refresh icon in order to get the *Service* and *Port* combo boxes populated and you have to do it once for Service and once for Port""",3.0269620418548584,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2107,35,"""Support OData v4.0""",3.0160953998565674,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2098,35,"""Support OData v4 protocol""",3.018798589706421,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2097,35,"""Support OData in Mule 4""",3.019714117050171,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2096,35,"""build odata project using mvn tasks as we currently do in apikit""",3.0196714401245117,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2094,35,"""OData v4.0 support for Apikit plugin""",3.0236363410949707,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2093,35,"""Support for Auto discovery of Properties on the Object around which the OData API is created""",3.0224480628967285,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2090,35,"""ClassNotFoundException: org.apache.cxf.jaxrs.impl.RuntimeDelegateImpl when using UriBuilder after OData connector initialized""",3.0199060440063477,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2088,35,"""Payload set in on error handler isn't returned to caller""",3.024991512298584,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2082,35,"""SE-10566 APIkit for OData does not accept a number as Edm.String""",3.0251777172088623,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2079,35,"""SE-10546 """"There are no valid root RAML files"""" when creating generating OData API from RAML""",3.0199074745178223,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2076,35,"""SE-9018: Unable to generate OData from Raml on Studio 6.5""",3.021543264389038,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2075,35,"""ODataApikitProcessor#processEntityRequest block reactors chain """,3.022918701171875,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2070,35,"""Number are being returned as String when format is JSON""",3.031001567840576,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-2068,35,"""Documentation and sample project issues""",3.0188286304473877,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1210,35,"""APIkit w/AMF RAML Internal""",3.0255985260009766,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1207,35,"""Payload validations using AMF""",3.033451795578003,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1203,35,"""APIKit support for AMF Adoption - Phase II""",3.0228610038757324,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1178,35,"""APIkit repositories refactor""",3.026454210281372,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1107,35,"""Add localAddress to flow metadata""",3.024460554122925,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1101,35,"""APIKit support for AMF Adoption - Phase I""",3.0266242027282715,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1098,35,"""API console does not work unless have a baseURI""",3.029135227203369,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1089,35,"""Console not loading when there are duplicated api.raml in different folders inside the mule app.""",3.0245792865753174,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1082,35,"""APIKit 4.0 Readiness""",3.0248754024505615,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1075,35,"""Change console base uri to location.origin instead of location.host""",3.0251355171203613,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1059,35,"""Update CORS in APIKIT""",3.0181636810302734,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1030,35,"""Split Mule three compatibility property into """"Headers strict validation"""" and """"Query parameters strict validation""""""",3.029872417449951,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-1009,35,"""Automatization of runtime integration tests""",3.0236823558807373,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-968,35,"""Transference of testing suite from BA to Pilar team""",3.0210533142089844,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-967,35,"""Integration APIKit and Munit for a generic scaffolder""",3.0221822261810303,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-962,35,"""Fix Apikit4.x compilation""",3.027480363845825,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-956,35,"""ApikitErrorTypes is using a not exported mule-core class""",3.0250959396362305,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-953,35,"""CLONE - JSON Schema validator is not returning all the errors but only the first error""",3.017439842224121,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-949,35,"""Porting to 4.0: Only one HTTP Response code evaluated for return from APIKit Rest Requests""",3.031858444213867,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-942,35,"""Use single quote on set-variable tag""",3.024082660675049,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-940,35,"""Metadata is not reported for APIKit routes""",3.0299935340881348,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-935,35,"""404 Not Found when resource contains optional URI Parameters""",3.0238990783691406,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-931,35,"""Scaffolder: Build fails when mule version is not sent (default CE version)""",3.019073486328125,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-928,35,"""Spike: Generate metadata for all responses in a RAML Resource""",3.0241198539733887,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-909,35,"""Please improve the ScaffoldingAPI to return a list of errors (instead of simply logging)""",3.022703170776367,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-901,35,"""Resource found in raml but not in config, throws 500 server error""",3.0240275859832764,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-889,35,"""Expose Console Resources to the RAML GW Proxy""",3.0296616554260254,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-888,35,"""Includes with absolute paths are not resolved""",3.019132614135742,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-883,35,"""In order to use the leagues app in Mule 4 is needed to migrate it""",3.0220844745635986,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-876,35,"""Critical vulnerability in Jackson prior to 2.8.9""",3.0263009071350098,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-873,35,"""Apikit scaffolder is generating mule-deploy.properties file.""",3.0203216075897217,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-861,35,"""Generate metadata""",3.0241570472717285,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-857,35,"""CORS Headers not being handled correctly with an error response""",3.0302841663360596,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-852,35,"""APIKit prevents to propagate metadata""",3.0285253524780273,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-850,35,"""Fixing Exception caused by trying to load a JSON Schema from a path with spaces""",3.0218095779418945,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-849,35,"""Add pluginRepositories to POM file generated by Archetype""",3.0246481895446777,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-847,35,"""If http.status is null, Getting response as 200.. expecting 503/504""",3.026468276977539,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-841,35,"""EVENT DROPPED UNEXPECTEDLY error when sending a request""",3.0288026332855225,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-840,35,"""Required json schema properties not validated in RAML 0.8""",3.025958776473999,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-836,35,"""JSON Schema validator is not returning all the errors but only the first error""",3.019880771636963,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-831,35,"""Response code 200 instead of 406 when sending response different from defined Accept header""",3.018340587615967,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-828,35,"""Required header not sent not validated""",3.023482322692871,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-827,35,"""Encode missing default queryParam value""",3.020320415496826,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-823,35,"""Inexistent resource validation is not handled properly""",3.031002998352051,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-815,35,"""APIKit Parser fails on nulls""",3.0291202068328857,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-812,35,"""Scaffolder: DW auto-generation using raml examples doesn't work""",3.019273281097412,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-804,35,"""Internal flow resolver map does not support content-type routing""",3.0257034301757812,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-791,35,"""NPE when hitting correct resource but incorrect method""",3.022766590118408,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-783,35,"""Json schema autogeneration from class is incorrect when using raml 0.8""",3.0239176750183105,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-779,35,"""Packaging should not include dependencies""",3.0194380283355713,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-763,35,"""Integrate new console""",3.0260658264160156,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-759,35,"""test bug""",3.0282490253448486,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-753,35,"""Document provided dependencies""",3.0235848426818848,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-749,35,"""path to the RAML console defined in the """"HTTP Listener"""" causes StringIndexOutOfBoundsException""",3.027980327606201,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-742,35,"""APIKit Tooling""",3.026897430419922,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-741,35,"""APIKit Tooling""",3.026897430419922,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-738,35,"""Migrate APIKit Console to APIKit 4""",3.0275702476501465,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-733,35,"""Migrate support for APIKit Router to Mule 4""",3.0264458656311035,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-724,35,"""Parsing fails when a number value is greater than Java Integer.MAX""",3.0218312740325928,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-720,35,"""RAML parser doesn't expose the element name of the XSD for an XSD based RAML type""",3.0143327713012695,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-719,35,"""Add granularity on validations""",3.0291948318481445,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-717,35,"""Response code 0 when the console is hosted in its own listener config""",3.0244154930114746,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-709,35,"""Several paths with same parent resource are not being supported correctly when using Resource Type and Trait Parameters""",3.020907402038574,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-708,35,"""The !singularize function is not correctly resolving """"media""""""",3.0220394134521484,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-700,35,"""Query parameter with null value is passed as 'param=null' to the target""",3.0255885124206543,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-697,35,"""A sexagesimal number as invalid date causes exception""",3.03010892868042,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-696,35,"""maximum/minimum values are truncated to integer""",3.0258853435516357,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-693,35,"""From version 3.8.3 onwards null-valued query params are validated""",3.0252795219421387,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-686,35,"""Automation Java Framework - APIKit sanity gaps""",3.0271215438842773,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-676,35,"""Tests are not running in Windows""",3.017299175262451,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-666,35,"""URI parameters are not extracted if not formally defined""",3.0234169960021973,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-665,35,"""Best match for method url not always the best match""",3.022529363632202,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-663,35,"""Cannot generate flows from RAML 1.0 API definition on Windows""",3.026406764984131,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-656,35,"""The definition of an array type with syntactic sugar '[ ]' is not equivalent to the definition with the 'type' facet""",3.025698661804199,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-655,35,"""Undefined Security Scheme causes NPE""",3.0227725505828857,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-651,35,"""StackOverflowError when there is a huge list of uri parameters""",3.022155284881592,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-648,35,"""RAML 0.8 deep cloning is not replicating compiled schemas at mime-type level""",3.0228004455566406,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-647,35,"""Add optional synctactic sugar for URI parameters, headers and query params""",3.026050090789795,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-646,35,"""RAML Parser is not capable to understand optional facets""",3.021789789199829,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-645,35,"""Parser allows to extend from two incompatible types at same moment""",3.021988868713379,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-644,35,"""Parser does not provides information about multiple inheritance""",3.0192723274230957,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-643,35,"""Parser is not validating header's minLength""",3.0283946990966797,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-623,35,"""Named type reference positions are shifted""",3.0181145668029785,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-622,35,"""Pattern is not being enforced in a trait""",3.0234341621398926,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-621,35,"""Cannot specialize data types property type by inheritance""",3.019258975982666,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-620,35,"""URI parameters should not allow '/' in default, enum & example""",3.0251059532165527,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-619,35,"""Parser error message on invalid response status code is a bit cryptic""",3.0228962898254395,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-618,35,"""The definition of an array type with syntactic sugar '[ ]' is not equivalent to the definition with the 'type' facet.""",3.022357702255249,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-617,35,"""Cannot parse AnnotationTypeDeclaration and DocumentationItem""",3.021690845489502,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-616,35,"""Type declaration type() method returns """"null_AnonymousType"""" when including DataType fragment.""",3.026528835296631,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-615,35,"""ResourceLocation with space character causes error when validating""",3.026534080505371,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-614,35,"""Tests fail on non-English locale""",3.0245752334594727,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-613,35,"""URLs needs to be quoted?""",3.025646686553955,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-612,35,"""maximum and minimum facets can't handle > 32-bit numbers""",3.0235161781311035,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-611,35,"""Migrate APIKit to Mule 4""",3.023893356323242,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-610,35,"""Flow with XML as response is not generated correctly.""",3.0270204544067383,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-609,35,"""Exception thrown when headers/uri/query parameters are of type 'date' in RAML 0.8""",3.023947238922119,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-608,35,"""Inconsistency in JSON validation for type """"date""""""",3.032999038696289,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-606,35,"""Security scheme """"type"""" is specified as required but parser allows null""",3.0263431072235107,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-605,35,"""Root-level description cannot be accessed with the public API""",3.0278854370117188,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-604,35,"""Schema validation in request should give more information""",3.0249621868133545,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-603,35,"""API method BodyLike#schemaContent() always returns null""",3.0169687271118164,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-602,35,"""SecuritySchemes doesn't support queryString in describedBy""",3.0286455154418945,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-601,35,"""The Api object method version() may violate its signature return type""",3.0249476432800293,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-600,35,"""Default type of parameters in v0.8 should be string""",3.026003837585449,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-597,35,"""Duplicated headers are considered valid""",3.0278127193450928,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-592,35,"""Provide a way to continue execution when mocking an AbstractRouter.""",3.027414083480835,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-584,35,"""Duplicated query parameters are considered valid""",3.031248092651367,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-583,35,"""JSON with duplicate property is considered valid""",3.027601480484009,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-582,35,"""RAML v1.0 with JSON Schema draft 4 and $ref to external files""",3.0262703895568848,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-575,35,"""Non-Blocking fails when APIkit is not used at flow level""",3.0233712196350098,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-571,35,"""Schema validation response is not including as much information as before""",3.023038148880005,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-570,35,"""Optional fields using ? flag in RAML are parsed as mandatory fields ending in ?""",3.0270559787750244,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-568,35,"""APIKit content negotiation error when handling MIME vendor types""",3.0269851684570312,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-566,35,"""Sending a request with an invalid mimetype to a flowName specified with method:resource:mimetype, status code 500 is received""",3.0273783206939697,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-556,35,"""Custom exception class not found when applying policy""",3.0277459621429443,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-555,35,"""Form parameters are not being validated""",3.0297446250915527,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-548,35,"""Accept header giving array index java.lang.ArrayIndexOutOfBoundsException when only type is passesd""",3.0297417640686035,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-542,35,"""Payload encoding not respected for xml validation""",3.0221140384674072,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-541,35,"""Parser interface example methods for parameters""",3.028588056564331,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-540,35,"""Error when defining schemas as collection in RAML 0.8""",3.0264410972595215,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-537,35,"""[Raml Java Parser] Validate missing quotes in key name using json examples""",3.0294888019561768,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-535,35,"""[Raml Java Parser] Invalid Type null, expected string""",3.021975040435791,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-534,35,"""RAML 1.0 array types not working""",3.024609088897705,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-516,35,"""Using APIKit + Cache in cluster throws NotSerializableException""",3.0228865146636963,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-504,35,"""APIKit support for Dynamic Base URIs""",3.0256471633911133,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-499,35,"""Unmapped exception is not logged""",3.026820182800293,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-498,35,"""When using Cloudhub, the RAML console source is always set to the fullDomain property content""",3.026949882507324,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-496,35,"""Create a header to set the RAML baseUri""",3.028648614883423,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-494,35,"""APIKit 1.7.3 includes dependencies from Mule 3.7.0""",3.0210118293762207,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-493,35,"""APIKit 1.7.3 includes dependencies from Mule 3.7.0""",3.0210118293762207,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-485,35,"""CORS: Enable Access-Control-Allow-Origin to use request header origin dynamically.""",3.0193722248077393,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-483,35,"""Leagues example fails when querying team by city""",3.01955509185791,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-481,35,"""CLONE - Router doesn't transform the payload according to the Accept header""",3.0255165100097656,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-479,35,"""CLONE - APIKit vulnerable to XXE attack""",3.0283846855163574,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-477,35,"""CLONE - Can't configure two APIKit proxies in the same application""",3.0228147506713867,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-473,35,"""APIKIT Image not returned correctly""",3.021960496902466,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-463,35,"""Support Json Schema references ($ref)""",3.029165744781494,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-459,35,"""api-console should be compressed when requested""",3.03065824508667,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-455,35,"""When having chained uriParameters with validations, only the last one is analysed""",3.0212554931640625,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-449,35,"""Bad request ignored on nested resource""",3.0267019271850586,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-448,35,"""APIKIT Leagues example should use domain listener""",3.029712677001953,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-416,35,"""Automation MVP for APIKit sanity Test on Anypoint Studio""",3.018418312072754,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-413,35,"""Separate scaffolder from the apikit project""",3.0225863456726074,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-411,35,"""BadRequestException message improvement""",3.0238914489746094,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-410,35,"""For Exception Strategy, there is no need to put a Property transformer to set the “Content-Type”""",3.0216197967529297,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-409,35,"""Error messages are not reported correctly to the API caller""",3.03241229057312,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-408,35,"""APIKit vulnerable to XXE attack""",3.031116485595703,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-405,35,"""APIKit: Mule ESB dependencies should be provided""",3.0207924842834473,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-402,35,"""Declaring version as Uri Parameter behaves inconsistently""",3.025223731994629,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-401,35,"""RAML body schema metadata is not been propagated into the flow if there is not a example""",3.0223865509033203,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-398,35,"""{version} in raml path causes """"Resource not found""""""",3.0276834964752197,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-397,35,"""Can't configure two APIKit proxies in the same application""",3.0209693908691406,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-396,35,"""API Kit RAML not allowing more than one body response type (xml/json)""",3.0255422592163086,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-394,35,"""Mule Flow not generated using APIKit/RAML File""",3.025899887084961,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-393,35,"""When creating a new APIKit project using API Gateway, the domain of the app should be api-gateway""",3.0254507064819336,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-392,35,"""APIkit archetype in studio should be different if the server is API Gateway 2.x""",3.0320146083831787,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-391,35,"""APIKIT doesn't generate flows when creating project from RAML in URL""",3.026993751525879,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-388,35,"""Add new property in the archetype generation, to use a custom listener config""",3.030531406402588,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-387,35,"""Modify Scaffolder to receive a domain and parse its listener-configs.""",3.030909776687622,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-386,35,"""Modify mule.tooling.apikit to send the domain that the app is using""",3.0264878273010254,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-385,35,"""RAML parser should support relative path for Json Schema""",3.0205495357513428,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-384,35,"""Improve scaffolding when multiple input/outputs in a resource verb""",3.0255861282348633,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-379,35,"""The proxy component does not need to remove the x-mule_encoding and http.* headers""",3.0199427604675293,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-378,35,"""Unable to debug mapping exception strategy""",3.0238473415374756,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-375,35,"""If the router's RAML is not found, there is no clear error message when starting the app but NPEs in the console output""",3.02463960647583,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-373,35,"""Content-type is set as mediaType when importing a RAML file""",3.0270047187805176,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-372,35,"""Defining mediaType without schema should create flow with mediaType""",3.025306224822998,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-369,35,"""Reset message mime type when payload is updated""",3.024109363555908,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-368,35,"""payload is malformed when posting x-www-form-urlencoded using listeners""",3.0245604515075684,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-367,35,"""APIKit support for Json Examples when creating metadata""",3.0321216583251953,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-365,35,"""Encoding slash character (""""/""""->""""%2F"""") gets translated, leading to an non existing URL""",3.027832508087158,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-364,35,"""API Console is not found in studio console""",3.0278263092041016,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-363,35,"""JSON and XML schema validations do not support encodings different than UTF-8""",3.019040107727051,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-362,35,"""Change leagues example to use listeners""",3.0251240730285645,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-360,35,"""Scaffolder does not add the doc:name attribute in the autogenerated set-payload""",3.0272164344787598,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-359,35,"""Response body is empty for all status if 2xx response does not define a media type""",3.0276923179626465,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-358,35,"""Upgrade snake-yaml library to v1.15""",3.023257255554199,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-357,35,"""The apikit archetype of the plugin should have the listener and inbound-endpoint host set to 0.0.0.0 instead of localhost""",3.0185022354125977,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-356,35,"""The apikit archetype of studio should have the listener and inbound-endpoint host set to 0.0.0.0 instead of localhost""",3.0218582153320312,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-355,35,"""Include last API Console (up to 06-18-15) in APIKIT""",3.023407459259033,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-353,35,"""In Windows, the Eclipse internal browser caches all the responses""",3.023477792739868,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-352,35,"""APIKIT Proxy throws NullPointerException if the raml.location is pointing to an inexistent raml""",3.029484272003174,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-348,35,"""Create the exception handlers at the  bottom of APIkit generated projects""",3.022005558013916,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-347,35,"""APIkit Studio """"From RAML file or URL"""" does not accept portal console URL""",3.030059337615967,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-346,35,"""Propagate RAML context information within the message""",3.0236527919769287,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-343,35,"""APIkit does not support multiple types""",3.0292394161224365,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-338,35,"""Nested resource is not working properly when defining full path at parent resource level""",3.0240066051483154,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-332,35,"""Download API client should not be displayed in embedded console""",3.0240888595581055,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-330,35,"""Resource not found when accessing through 127.0.0.1 if CORS has origin 0.0.0.0""",3.019597291946411,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-329,35,"""APIkit project must have the listener host set to 0.0.0.0 instead of localhost""",3.0252537727355957,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-328,35,"""Cannot see new console unless I switch workspace""",3.0291104316711426,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-325,35,"""Scaffolding project does not display new flows in Message Flow view""",3.019645929336548,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-324,35,"""Remove hyphen below global tag""",3.0294349193573,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-319,35,"""Content-type in flow mapping cannot be updated""",3.0263748168945312,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-318,35,"""content-type is not saved in APIkit router""",3.0301406383514404,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-317,35,"""Delete method is not working in Firefox if it has multipart in the request body""",3.0263824462890625,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-316,35,"""Add support for validation of responses against the defined schema, if there is one present""",3.021915912628174,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-315,35,"""Integrate APIkit with new console""",3.030056953430176,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-313,35,"""Scaffolder sets address property in endpoint which is confusing in Studio visual configuration""",3.028855800628662,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-310,35,"""When adding a file in a folder inside src/main/api folder, the file is always added at root level""",3.023124933242798,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-309,35,"""API console not passing GET parameter to mapped flow in Windows""",3.0231735706329346,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-302,35,"""Support for new HTTP Connector""",3.0183157920837402,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-301,35,"""Running a project caches baseUri somewhere which causes next run project to throw an error""",3.0263969898223877,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-299,35,"""DataSense not working with named schemas""",3.0207018852233887,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-298,35,"""On CORS, when making an OPTIONS request against an APIKit endpoint, method not allowed is returned.""",3.0237135887145996,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-297,35,"""Router does not support being declared in an flow without an inbound endpoint.""",3.021137237548828,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-296,35,"""Mavenizing leagues project does not add src/main/api folder as source""",3.026440382003784,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-295,35,"""On CORS, when making an OPTIONS request using only Origin header, Access-Control-Allow-Origin should not be returned.""",3.0252456665039062,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-294,35,"""Maven archetype should name main flow in the same way as scaffolder""",3.022521495819092,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-293,35,"""Default exception placeholder""",3.0255842208862305,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-292,35,"""Flow generation doesn't respect RAML order""",3.0243215560913086,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-291,35,"""Refactor capabilities""",3.026890754699707,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-288,35,"""Console throws 404 when exposed in different port than API""",3.024115562438965,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-286,35,"""Complete new RAML console""",3.031073570251465,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-285,35,"""Complete implementation of new RAML console""",3.0304794311523438,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-281,35,"""apikit:exception should accept wildcards""",3.023564577102661,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-280,35,"""APIKit query parameterization""",3.0287091732025146,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-279,35,"""Expose new API Console in APIKit""",3.026646614074707,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-277,35,"""Empty response from APIKit backend flow (that uses Neo4j connector)""",3.024944305419922,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-275,35,"""When creating a not APIkit project and adding APIkit components, scaffolding always adds new mflow""",3.023970127105713,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-274,35,"""Scaffolding after configuring router from properties tab duplicates api-config""",3.0309762954711914,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-273,35,"""baseUri should not depend on baseUriParameters order""",3.0245132446289062,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-272,35,"""Creating APIkit empty project does not add same router HTTP endpoint than creating it from a RAML file""",3.0298681259155273,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-270,35,"""On Eclipse, after creating a new raml project, an additional raml file is added alongside the original one.""",3.027103900909424,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-268,35,"""Router and console components should not list Exception Mapping Strategy in the list of configs""",3.0318007469177246,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-266,35,"""Embedded console caches previously run app in Windows""",3.0315587520599365,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-265,35,"""Config-ref should not be mandatory in Console component""",3.033881187438965,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-264,35,"""Import fails when generated from raml with parameterised resource types""",3.0228452682495117,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-263,35,"""When updating mule-config console should be relaunched""",3.022902488708496,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-261,35,"""APIKit throws NPE when RAML file doesn't exist.""",3.017246723175049,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-259,35,"""URL RAML not working with APIkit""",3.0238001346588135,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-255,35,"""Clicking OK in Color preferences or themes should display alert only if there are changes not applied""",3.0230813026428223,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-254,35,"""Changing color preferences for RAML files changes colors in mule-flow xml""",3.025847911834717,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-249,35,"""Console does not load if APIKit router is used on root path""",3.019448757171631,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-247,35,"""URIParameters crash the console if they contain a -""",3.0268118381500244,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-244,35,"""Sequences cannot be extracted to file""",3.018779754638672,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-243,35,"""Extract to file fails when there are commented lines""",3.0211217403411865,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-241,35,"""Console not accessible when API is exposed over 0.0.0.0""",3.025832176208496,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-240,35,"""For delete operations, the apikit console, transforms the query params in form parameters.""",3.0288753509521484,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-239,35,"""test apikit issue""",3.019835948944092,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-238,35,"""Using includes in sequences disables Generate Flows option""",3.024916648864746,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-235,35,"""the RAML's included JSON Schema file is not imported into Studio""",3.0244412422180176,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-231,35,"""CLONE - api kit console not working when hosted locally and invoked via a load balancer""",3.022205114364624,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-230,35,"""Some links display Unkown Hyperlink when trying to open from RAML editor""",3.027341604232788,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-228,35,"""Scaffolder duplicates flows with empty resource name""",3.026111602783203,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-223,35,"""Cannot add flow mapping unless RAML file name is updated""",3.025139570236206,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-222,35,"""APIkit project with 3.4 runtime throws an error when trying to run""",3.027449131011963,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-221,35,"""Creating apikit project from example cannot find leagues.properties""",3.0256385803222656,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-220,35,"""Running a project displays error in console""",3.0288949012756348,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-219,35,"""When importing bighorn apikit project to cascade studio project has errors""",3.0207839012145996,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-218,35,"""Studio maven project with APIkit does not set src/main/api folder as source""",3.0237722396850586,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-214,35,"""Scaffolder does not work if there is a resource /:""",3.026075601577759,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-213,35,"""Default value for optional uri parameter not set""",3.0255727767944336,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-212,35,"""Cannot browse to console on API exposed on 0.0.0.0""",3.022526741027832,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-211,35,"""Issue with endpoint configuration in the APIKit generated flow""",3.0225276947021484,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-209,35,"""Change scaffolder logging to display RAML instead of YAML""",3.0177505016326904,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-203,35,"""APIkit license agreement says that this is a beta release""",3.019120693206787,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-202,35,"""APIkit does not work with Mule 3.4 CE""",3.02066707611084,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-201,35,"""APIkit does not work with the Mule 3.4.0 CE runtime""",3.0183839797973633,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-200,35,"""APIkit does not work with the Mule 3.4.0 CE runtime""",3.0183839797973633,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-199,35,"""APIkit does not work with the Mule 3.4.0 CE runtime""",3.0183839797973633,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-198,35,"""APIkit does not work with the Mule 3.4.0 CE runtime""",3.0183839797973633,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-197,35,"""APIkit does not work with the Mule 3.4.0 CE runtime""",3.0183839797973633,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-195,35,"""Flow ref is not updated when flow mapping is updated""",3.0233328342437744,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-194,35,"""Enum based query Parameters cause NumberFormatException unless type is set""",3.0299549102783203,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-193,35,"""Add ability to collapse elements in raml file""",3.025770664215088,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-192,35,"""When an inexistent trait is being used the error should be displayed in the call to the trait""",3.0222606658935547,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-191,35,"""Resolution of <<resourcePathName>> differs between Editor and Server""",3.023836612701416,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-190,35,"""Enum queryParameters cause NullPointerException if type is not set""",3.0288376808166504,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-188,35,"""APIkit update site troublesome""",3.023817539215088,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-187,35,"""APIkit consumes more than one call and causes Rate Limit policy not to work as expected""",3.025240182876587,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-186,35,"""Update log to display APIkit instead of APIKit""",3.023191213607788,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-185,35,"""Policies cannot be applied to console""",3.0246706008911133,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-184,35,"""APIkit Editor crashes with NullPointerException""",3.029723882675171,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-182,35,"""When using the scaffolder, the main flow name and the api config name should be unique""",3.0208168029785156,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-179,35,"""Console requires explicit download of javascript and css before becoming visible""",3.028729200363159,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-178,35,"""Route to console should not be through main flow""",3.021465301513672,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-172,35,"""Documentation section is not generated in embedded console""",3.0287137031555176,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-166,35,"""Remove phantom errors when creating APIkit project from example""",3.0267908573150635,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-164,35,"""Update files created in Studio to be .raml instead of .yaml""",3.022429943084717,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-163,35,"""Update files created to be .raml instead of .yaml""",3.0245344638824463,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-156,35,"""Raml should allow for global example declarations to reduce verbosity""",3.022275447845459,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-154,35,"""A change in RAML config should trigger a redeploy""",3.0263118743896484,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-150,35,"""Remove %YAML 1.2 line from yaml file in archetype and change RAML version""",3.0263285636901855,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-149,35,"""Studio project creation is not adding config-ref to router and name to config""",3.0304083824157715,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-146,35,"""Wrong RAML retrieves misleading error on scaffolding""",3.016900062561035,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-142,35,"""Includes should consider folders in the classpath""",3.019404411315918,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-135,35,"""Update text on APIkit project creation""",3.0245018005371094,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-134,35,"""Wrong spelling in auto-completion of resource""",3.0296719074249268,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-131,35,"""Running scaffolder from Studio is generating duplicated elements""",3.0294151306152344,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-130,35,"""Mule Project is creating src/main/api folder""",3.025022506713867,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-128,35,"""Update mapping exception strategy name to have correct case in APIkit""",3.0271239280700684,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-127,35,"""Update case for removing apikit libraries from the project""",3.0257339477539062,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-126,35,"""Update APIKit Router name to APIkit Router""",3.01505708694458,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-125,35,"""Update apikit library in Studio classpath to be named APIkit [v0.2]""",3.023214817047119,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-117,35,"""Scaffolder is greyed out when there are included files""",3.021115303039551,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-116,35,"""Scaffolder creates new mflow when it should update the existing one""",3.0209617614746094,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-112,35,"""Flows are not properly mapped""",3.0261101722717285,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-111,35,"""Selecting an existing flow should give the option to add a flow name""",3.020185708999634,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-106,35,"""Adding a flow mapping disables the router editor due to an error""",3.0296363830566406,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-98,35,"""When RAML editor generates src/main/api folder it should also set it as source folder""",3.020695209503174,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-92,35,"""Included yaml errors should not be displayed if validation is for main yaml""",3.0262112617492676,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-88,35,"""Scaffolder should add in the flow the name of the config if it's specified""",3.025094509124756,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-82,35,"""When Mule starts up with an APIkit project, it should list the set of console URLs for the APIkit""",3.02630352973938,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-74,35,"""Query parameter set to required retrieves bad request""",3.0271997451782227,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-71,35,"""Cannot access console if inbound-endpoint address ends with slash""",3.0229952335357666,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-67,35,"""baseUri in YAML file should be optional""",3.024122714996338,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-63,35,"""When resource has a schema, scaffolder adds special characters""",3.0238454341888428,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-62,35,"""Scaffolder is not setting complete path for the resource""",3.029242992401123,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-61,35,"""Setting Content-Type application/x-www-form-urlencoded retrieves unsupported media type""",3.019432544708252,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-60,35,"""Update parameters within a form to be named formParameters""",3.0222697257995605,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-59,35,"""When creating xml file from scratch, plugin is not indenting properly""",3.0212020874023438,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-58,35,"""Java parser cannot include another yaml file""",3.025747299194336,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-55,35,"""In URI Parameters section the example displays minimumLength when it should be minLength""",3.0243425369262695,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-51,35,"""Update spec to remove support for response code ranges.""",3.0236055850982666,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-50,35,"""Update spec to reflect correct global tag""",3.026700496673584,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-43,35,"""Create script to populate apikit dependences, archetype and maven plugin""",3.0282392501831055,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-40,35,"""Remove EE repositories from pom file generated with Maven archetype""",3.0251636505126953,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-36,35,"""mvn apikit:create should add imports to mule-config.xml""",3.0271596908569336,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-35,35,"""Maven archetype does not indent correctly (carry return at end of line)""",3.0272281169891357,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-32,35,"""Low performance to build projects created with Maven archetype""",3.0220251083374023,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-23,35,"""Create a separate project for the parser""",3.0264086723327637,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-19,35,"""Remove APIKit from the EE Repository""",3.024949073791504,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-12,35,"""http:response-builder fails to set cache directive with APIkit""",3.0247435569763184,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-11,35,"""Allow multiple cannot be set""",3.031050443649292,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-10,35,"""Wrong response code when required parameters are not sent""",3.029946804046631,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-9,35,"""Default query parameters are not being considered""",3.023582935333252,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-8,35,"""Member without post method retrieves wrong code when trying to post""",3.0223827362060547,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-7,35,"""Deleting a non-existing member retrieves wrong code""",3.023820638656616,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-6,35,"""Non existing member retrieves empty string""",3.025374174118042,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-5,35,"""Wrong Response Code when no method is defined""",3.0216917991638184,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
+APIKIT-4,35,"""Collection resource cannot be nested inside a document-resource""",3.031796932220459,sentence-transformers/all-MiniLM-L6-v2,v1.0_sbert_cnn
