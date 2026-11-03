@@ -26,3 +26,13 @@ logs/*.log
 .idea/
 .vscode/
 *.swp
+# macOS
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
