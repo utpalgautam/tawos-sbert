@@ -1,0 +1,27 @@
+{
+  "sbert_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "embedding_dim": 384,
+  "project_ids": [
+    1,
+    13,
+    18,
+    21,
+    29,
+    30,
+    34
+  ],
+  "project_to_idx": {
+    "1": 0,
+    "13": 1,
+    "18": 2,
+    "21": 3,
+    "29": 4,
+    "30": 5,
+    "34": 6
+  },
+  "best_epoch": 1,
+  "best_validation_mae": 3.7186038494110107,
+  "training_rows": 6786,
+  "validation_rows": 1697,
+  "seed": 42
+}
